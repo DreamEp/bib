@@ -66,3 +66,12 @@ module.exports.get = async () => {
   console.log(restaurants_links.length)
   return restaurants_links;
 };
+
+module.exports.two_in_one = () =>{
+  restaurants_links = [];
+  restaurants_links = this.get();
+  for(var i = 0; i < restaurants_links.length; i++)
+  {
+      this.scrapeRestaurant(restaurants_links[i]);
+  }
+}
