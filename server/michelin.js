@@ -60,10 +60,10 @@ module.exports.scrapeRestaurant = async url => {
 const get = async () => {
   var url = "https://guide.michelin.com/fr/fr/restaurants/bib-gourmand/page/";
   var restaurants_urls = [];
-  for(var i=1;i<16;i++)
+  for(let i=1;i<16;i++)
   {
     try {
-      url = url+i.toString();
+      url = url+i;
       const response = await axios(url);
       const {data, status} = response;
   
@@ -94,7 +94,6 @@ module.exports.scrapeAllRestaurant = async () => {
   let i = 1;
   for (url of restaurants_urls) {
     restaurants.table.push(await this.scrapeRestaurant(url));
-    console.log(url + "\n" + i + "\n")
     i++;
   }
   return restaurants;
