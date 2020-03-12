@@ -2,7 +2,7 @@
 const michelin = require('./michelin');
 
 
-async function sandbox () {
+async function sandbox_michelin () {
   try {
     console.log(`🕵️‍♀️  browsing  source`);
 
@@ -20,4 +20,4 @@ async function sandbox () {
 const [,, searchLink] = process.argv;
 
 
-sandbox()
+sandbox_michelin()
