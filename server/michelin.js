@@ -10,8 +10,8 @@ const parse = data => {
   const $ = cheerio.load(data);
   const name = $('.section-main h2.restaurant-details__heading--title').text();
 
-  const adress = $('.restaurant-details__heading > ul > li:nth-child(1)').text();
-  const street =address.split(',')[0];
+  const address = $('.restaurant-details__heading > ul > li:nth-child(1)').text();
+  const street = address.split(',')[0];
   const city =address.split(',')[1];
   const postal_code =address.split(',')[2];
   const state= address.split(',')[6];
@@ -25,24 +25,23 @@ const parse = data => {
   
   const experience =$('#experience-section > ul > li:nth-child(2)').text().split('\n')[2];
 
-  const restaurant = {
-    name: name,
-    type: type,
-    street: street,
-    city: city,
-    postal_code: postal_code,
-    state: state,
-    price_min: price_min,
-    price_max: price_max,
-    phone: phone,
-    website: website,
-    experience: experience
-  };
-  console.log(restaurant.name + " " + restaurant.adress + "\n");
-  
-  return restaurant;
+  console.log("New restaurant scrapped :\t" + name + " - " + city + ", " + state);
 
-};
+
+  return  {
+    name,
+    type,
+    street,
+    city,
+    postal_code,
+    state,
+    price_min,
+    price_max,
+    phone,
+    website,
+    experience
+  };
+}
 
 /**
  * Scrape a given restaurant url
@@ -66,43 +65,46 @@ module.exports.scrapeRestaurant = async url => {
  * Get all France located Bib Gourmand restaurants
  * @return {Array} restaurants
  */
-module.exports.get = async () => {
-  var url = "https://guide.michelin.com/fr/fr/restaurants/bib-gourmand/page/";
+
+
+const get = async () => {
+  const base = "https://guide.michelin.com/fr/fr/restaurants/bib-gourmand/page/";
   var restaurants_urls = [];
-  for(let i=1;i<16;i++)
+  for(let i=1;i<18;i++)
   {
     try {
-      url = url+i;
+      console.log("Get all url on page : " + i)
+
+      url = base+i.toString();
       const response = await axios(url);
       const {data, status} = response;
   
-      console.log("load data")
       const $ = cheerio.load(data);
   
+      const links = $("a[class='link']")
+
+      if (links.length == 0) break
+      else links.each(function(){restaurants_urls.push("https://guide.michelin.com" + $(this).attr('href'))}) 
       
-      $("div[class='col-md-6 col-lg-6 col-xl-3']").each( function () {
-        var link = $('a', this).last().attr('href');
-        restaurants_urls.push("https://guide.michelin.com" + link);
-     });
-  
-      console.log(i)
     }
     catch (e) {
       console.log(e);
       process.exit(1);
     }
   }
+  console.log("List of url restaurants : ");
   console.log(restaurants_urls);
-  console.log(restaurants_urls.length)
+  console.log("Number of url found : " + restaurants_urls.length)
   return restaurants_urls;
 };
 
+
 module.exports.scrapeAllRestaurant = async () => {
   const restaurants_urls = await get();
-  var restaurants = {table:[]};
+  let restaurants = [];
   let i = 1;
   for (url of restaurants_urls) {
-    restaurants.table.push(await this.scrapeRestaurant(url));
+    restaurants.push(await this.scrapeRestaurant(url));
     i++;
   }
   return restaurants;
