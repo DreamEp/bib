@@ -12,22 +12,28 @@ const parse = data => {
 
   const address = $('.restaurant-details__heading > ul > li:nth-child(1)').text();
   const street = address.split(',')[0];
-  const city =address.split(',')[1];
-  const postal_code =address.split(',')[2];
-  const state= address.split(',')[6];
-  
-  const price_min= $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('\n')[2];
-  
-  const price_max = $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('\n')[5];
-  const type = $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('•')[1];
+  var city =address.split(',')[1];
+  if(city != undefined) city = city.trim();
+  var postal_code = address.split(',')[2];
+  if(postal_code != undefined) postal_code = postal_code.trim();
+  var state= address.split(',')[6];
+  if(state != undefined) state = state.trim();
+
+  var price_min= $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('\n')[2];
+  if(price_min != undefined) price_min = price_min.trim();
+  var price_max = $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('\n')[5];
+  if(price_max != undefined) price_max = price_max.trim();
+
+  var type = $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('•')[1];
+  if(type != undefined) type = type.trim();
 
   const phone = $('.section-main span.flex-fill').text().substring(0,17);
   const website = $('body > main > div.restaurant-details > div.container > div > div.col-xl-8.col-lg-7 > section:nth-child(4) > div.row > div:nth-child(1) > div > div.collapse__block-item.link-item > a').attr('href');
   
-  const experience =$('#experience-section > ul > li:nth-child(2)').text().split('\n')[2];
+  var experience =$('#experience-section > ul > li:nth-child(2)').text().split('\n')[2];
+  if(experience != undefined) experience = experience.trim();
 
   console.log("New restaurant scrapped :\t" + name + " - " + city + ", " + state);
-
 
   return  {
     name,

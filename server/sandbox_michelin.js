@@ -6,7 +6,7 @@ const fs = require('fs');
 
 async function sandbox_michelin () {
   try {
-    console.log(`🕵️‍♀️  browsing  source`);
+    console.log("🕵️‍♀️  browsing  source ");
 
     const restaurants = await michelin.scrapeAllRestaurant();
 
