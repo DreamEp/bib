@@ -9,24 +9,33 @@ const cheerio = require('cheerio');
 const parse = data => {
   const $ = cheerio.load(data);
   const name = $('.section-main h2.restaurant-details__heading--title').text();
-  const experience = $('#experience-section > ul > li:nth-child(2)').text();
 
-  var adress = $('.fa-map-marker-alt').closest('li').text();
-  adress = adress.slice(0, adress.length / 2);
-  const priceAndType = $('body > main > div.restaurant-details > div.container > div > div.col-xl-4.order-xl-8.col-lg-5.order-lg-7.restaurant-details__aside > div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text();
-  const price = priceAndType.split('•')[0].replace(/ /gi, '').replace(/\n/gi, '');
-  const type = priceAndType.split('•')[1].replace(/\n/gi, '').trim();
+  const adress = $('.restaurant-details__heading > ul > li:nth-child(1)').text();
+  const street =address.split(',')[0];
+  const city =address.split(',')[1];
+  const postal_code =address.split(',')[2];
+  const state= address.split(',')[6];
+  
+  const price_min= $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('\n')[2];
+  const price_max = $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('\n')[5];
+  const type = $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('•')[1];
 
-  const phone = $('body > main > div.restaurant-details > div.container > div > div.col-xl-8.col-lg-7 > section:nth-child(4) > div.row > div:nth-child(1) > div > div:nth-child(1) > div > div > a').attr('href');
+  const phone = $('.section-main span.flex-fill').text().substring(0,17);
   const website = $('body > main > div.restaurant-details > div.container > div > div.col-xl-8.col-lg-7 > section:nth-child(4) > div.row > div:nth-child(1) > div > div.collapse__block-item.link-item > a').attr('href');
+  
+  const experience =$('#experience-section > ul > li:nth-child(2)').text().split('\n')[2];
 
   const restaurant = {
     name: name,
-    adress: adress,
-    price: price,
     type: type,
+    street: street,
+    city: city,
+    postal_code: postal_code,
+    state: state,
+    price_min: price_min,
+    price_max: price_max,
     phone: phone,
-    website:website,
+    website: website,
     experience: experience
   };
   console.log(restaurant.name + " " + restaurant.adress + "\n");
@@ -57,7 +66,7 @@ module.exports.scrapeRestaurant = async url => {
  * Get all France located Bib Gourmand restaurants
  * @return {Array} restaurants
  */
-const get = async () => {
+module.exports.get = async () => {
   var url = "https://guide.michelin.com/fr/fr/restaurants/bib-gourmand/page/";
   var restaurants_urls = [];
   for(let i=1;i<16;i++)
