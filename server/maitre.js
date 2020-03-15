@@ -16,15 +16,13 @@ const parse = data => {
     var address = $(element).find('div.single_info3 > div:nth-child(2)').text();
     address = address.replace(/\n|  /g,'');
 
-    var tel = $(element).find('div.single_info3 > div:nth-child(3)').text();
-    tel = tel.replace(/\n| /g,'');
+    var phone = $(element).find('div.single_info3 > div:nth-child(3)').text();
+    phone = phone.replace(/\n| /g,'');
 
-    //console.log(tel);
 
-    maitres.push(JSON.stringify({ name: name_tab[0], address: address, tel: tel }, null, 2));
+    maitres.push(JSON.stringify({ name: name_tab[0], address: address, phone: "+33 " + phone }, null, 2));
 
   });
-  console.log(maitres);
   return maitres;
 };
 
