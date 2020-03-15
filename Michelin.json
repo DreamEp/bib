@@ -6,9 +6,9 @@
   "city": "Grenoble",
   "postal_code": "38000",
   "state": "France",
-  "price_min": "23",
-  "price_max": "39",
-  "phone": "+33 4 76 14 86 75",
+  "price_min": "23 euros",
+  "price_max": "39 euros",
+  "phone": "0476148675",
   "website": "http://www.restaurantlerousseau.fr",
   "experience": "Assez confortable"
 },{
@@ -18,9 +18,9 @@
   "city": "Saint-Savin",
   "postal_code": "38300",
   "state": "France",
-  "price_min": "32",
-  "price_max": "65",
-  "phone": "+33 4 74 28 92 57",
+  "price_min": "32 euros",
+  "price_max": "65 euros",
+  "phone": "0474289257",
   "website": "http://www.les3faisans.fr",
   "experience": "Confortable"
 },{
@@ -30,9 +30,9 @@
   "city": "Albi",
   "postal_code": "81000",
   "state": "France",
-  "price_min": "18",
-  "price_max": "53",
-  "phone": "+33 5 63 46 20 10",
+  "price_min": "18 euros",
+  "price_max": "53 euros",
+  "phone": "0563462010",
   "website": "http://www.latabledusommelier.com",
   "experience": "Assez confortable"
 },{
@@ -42,9 +42,9 @@
   "city": "Dinard",
   "postal_code": "35800",
   "state": "France",
-  "price_min": "18",
-  "price_max": "52",
-  "phone": "+33 2 99 46 85 95",
+  "price_min": "18 euros",
+  "price_max": "52 euros",
+  "phone": "0299468595",
   "website": "http://www.au-bouchon-breton.com",
   "experience": "Assez confortable"
 },{
@@ -54,9 +54,9 @@
   "city": "Yvoire",
   "postal_code": "74140",
   "state": "France",
-  "price_min": "25",
-  "price_max": "80",
-  "phone": "+33 4 50 72 80 32",
+  "price_min": "25 euros",
+  "price_max": "80 euros",
+  "phone": "0450728032",
   "website": "http://www.lesjardinsduleman.com",
   "experience": "Confortable"
 },{
@@ -66,9 +66,9 @@
   "city": "Perros-Guirec",
   "postal_code": "22700",
   "state": "France",
-  "price_min": "33",
-  "price_max": "80",
-  "phone": "+33 2 96 49 05 96",
+  "price_min": "33 euros",
+  "price_max": "80 euros",
+  "phone": "0296490596",
   "website": "http://www.lamaisondemarie-laclarte.bzh",
   "experience": "Confortable"
 },{
@@ -78,9 +78,9 @@
   "city": "Plaisians",
   "postal_code": "26170",
   "state": "France",
-  "price_min": "30",
-  "price_max": "60",
-  "phone": "+33 4 75 28 01 17",
+  "price_min": "30 euros",
+  "price_max": "60 euros",
+  "phone": "0475280117",
   "experience": "Assez confortable"
 },{
   "name": "La Récré",
@@ -89,9 +89,9 @@
   "city": "Vaudevant",
   "postal_code": "07410",
   "state": "France",
-  "price_min": "28",
-  "price_max": "39",
-  "phone": "+33 4 75 06 08 99",
+  "price_min": "28 euros",
+  "price_max": "39 euros",
+  "phone": "0475060899",
   "website": "http://www.restaurant-la-recre.com",
   "experience": "Assez confortable"
 },{
@@ -101,9 +101,9 @@
   "city": "Méribel",
   "postal_code": "73550",
   "state": "France",
-  "price_min": "33",
-  "price_max": "80",
-  "phone": "+33 4 79 22 46 08",
+  "price_min": "33 euros",
+  "price_max": "80 euros",
+  "phone": "0479224608",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
   "name": "Athome",
@@ -112,9 +112,9 @@
   "city": "Heugueville-sur-Sienne",
   "postal_code": "50200",
   "state": "France",
-  "price_min": "33",
-  "price_max": "55",
-  "phone": "+33 2 33 47 19 61",
+  "price_min": "33 euros",
+  "price_max": "55 euros",
+  "phone": "0233471961",
   "experience": "Assez confortable"
 },{
   "name": "So",
@@ -123,9 +123,9 @@
   "city": "Dijon",
   "postal_code": "21000",
   "state": "France",
-  "price_min": "18",
-  "price_max": "35",
-  "phone": "+33 3 80 30 03 85",
+  "price_min": "18 euros",
+  "price_max": "35 euros",
+  "phone": "0380300385",
   "experience": "Assez confortable"
 },{
   "name": "La Table du Pouyaud",
@@ -134,9 +134,9 @@
   "city": "Champcevinel",
   "postal_code": "24750",
   "state": "France",
-  "price_min": "33",
-  "price_max": "78",
-  "phone": "+33 5 53 09 53 32",
+  "price_min": "33 euros",
+  "price_max": "78 euros",
+  "phone": "0553095332",
   "website": "http://www.table-pouyaud.fr",
   "experience": "Confortable"
 },{
@@ -146,9 +146,9 @@
   "city": "Reims",
   "postal_code": "51100",
   "state": "France",
-  "price_min": "31",
-  "price_max": "81",
-  "phone": "+33 3 26 24 90 90",
+  "price_min": "31 euros",
+  "price_max": "81 euros",
+  "phone": "0326249090",
   "website": "http://www.lescrayeres.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -158,9 +158,9 @@
   "city": "Neuillé-le-Lierre",
   "postal_code": "37380",
   "state": "France",
-  "price_min": "33",
-  "price_max": "85",
-  "phone": "+33 2 47 52 95 05",
+  "price_min": "33 euros",
+  "price_max": "85 euros",
+  "phone": "0247529505",
   "website": "http://www.auberge-brenne.com",
   "experience": "Confortable"
 },{
@@ -170,9 +170,9 @@
   "city": "Chagny",
   "postal_code": "71150",
   "state": "France",
-  "price_min": "33",
-  "price_max": "47",
-  "phone": "+33 3 85 87 08 67",
+  "price_min": "33 euros",
+  "price_max": "47 euros",
+  "phone": "0385870867",
   "website": "http://www.pierrejean-restaurant.fr",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -182,9 +182,9 @@
   "city": "Bordeaux",
   "postal_code": "33000",
   "state": "France",
-  "price_min": "23",
-  "price_max": "52",
-  "phone": "+33 5 56 98 43 08",
+  "price_min": "23 euros",
+  "price_max": "52 euros",
+  "phone": "0556984308",
   "experience": "Assez confortable"
 },{
   "name": "Les Millésimes",
@@ -193,9 +193,9 @@
   "city": "Noyers",
   "postal_code": "89310",
   "state": "France",
-  "price_min": "30",
-  "price_max": "33",
-  "phone": "+33 3 86 82 82 16",
+  "price_min": "30 euros",
+  "price_max": "33 euros",
+  "phone": "0386828216",
   "website": "http://www.maison-paillot.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -205,9 +205,9 @@
   "city": "Beauvais",
   "postal_code": "60000",
   "state": "France",
-  "price_min": "29",
-  "price_max": "43",
-  "phone": "+33 3 44 45 39 83",
+  "price_min": "29 euros",
+  "price_max": "43 euros",
+  "phone": "0344453983",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
   "name": "Auberge de la Baraque",
@@ -216,9 +216,9 @@
   "city": "Orcines",
   "postal_code": "63870",
   "state": "France",
-  "price_min": "33",
-  "price_max": "62",
-  "phone": "+33 4 73 62 26 24",
+  "price_min": "33 euros",
+  "price_max": "62 euros",
+  "phone": "0473622624",
   "website": "http://www.laubrieres.com",
   "experience": "Confortable"
 },{
@@ -228,9 +228,9 @@
   "city": "Paris",
   "postal_code": "75009",
   "state": "France",
-  "price_min": "36",
-  "price_max": "51",
-  "phone": "+33 9 67 29 18 43",
+  "price_min": "36 euros",
+  "price_max": "51 euros",
+  "phone": "0967291843",
   "website": "http://www.lericher.com",
   "experience": "Assez confortable"
 },{
@@ -240,9 +240,9 @@
   "city": "Charleville-Mézières",
   "postal_code": "08000",
   "state": "France",
-  "price_min": "31",
-  "price_max": "51",
-  "phone": "+33 3 24 57 05 64",
+  "price_min": "31 euros",
+  "price_max": "51 euros",
+  "phone": "0324570564",
   "website": "http://www.latabledarthur.fr",
   "experience": "Assez confortable"
 },{
@@ -252,9 +252,9 @@
   "city": "à Bourran",
   "postal_code": "Rodez",
   "state": "Rodez",
-  "price_min": "26",
-  "price_max": "60",
-  "phone": "+33 5 65 68 40 07",
+  "price_min": "26 euros",
+  "price_max": "60 euros",
+  "phone": "0565684007",
   "website": "http://www.restaurant-acropolis.com",
   "experience": "Confortable"
 },{
@@ -264,9 +264,9 @@
   "city": "Grasse",
   "postal_code": "06130",
   "state": "France",
-  "price_min": "28",
-  "price_max": "33",
-  "phone": "+33 4 93 60 14 44",
+  "price_min": "28 euros",
+  "price_max": "33 euros",
+  "phone": "0493601444",
   "website": "http://www.lougolin.com",
   "experience": "Assez confortable"
 },{
@@ -276,9 +276,9 @@
   "city": "Valmorel",
   "postal_code": "73260",
   "state": "France",
-  "price_min": "32",
-  "price_max": "69",
-  "phone": "+33 4 79 09 81 80",
+  "price_min": "32 euros",
+  "price_max": "69 euros",
+  "phone": "0479098180",
   "website": "http://www.oxygene-hotel.fr",
   "experience": "Confortable"
 },{
@@ -288,9 +288,9 @@
   "city": "Lille",
   "postal_code": "59000",
   "state": "France",
-  "price_min": "25",
-  "price_max": "29",
-  "phone": "+33 9 86 37 22 50",
+  "price_min": "25 euros",
+  "price_max": "29 euros",
+  "phone": "0986372250",
   "website": "http://www.solange-restaurant.fr",
   "experience": "Assez confortable"
 },{
@@ -300,9 +300,9 @@
   "city": "Bourges",
   "postal_code": "18000",
   "state": "France",
-  "price_min": "18",
-  "price_max": "60",
-  "phone": "+33 2 48 65 42 44",
+  "price_min": "18 euros",
+  "price_max": "60 euros",
+  "phone": "0248654244",
   "website": "http://www.restaurant-lebeauvoir.com",
   "experience": "Très confortable"
 },{
@@ -312,9 +312,9 @@
   "city": "Lempdes",
   "postal_code": "63370",
   "state": "France",
-  "price_min": "22",
-  "price_max": "66",
-  "phone": "+33 4 73 61 74 71",
+  "price_min": "22 euros",
+  "price_max": "66 euros",
+  "phone": "0473617471",
   "website": "http://www.b2k6.fr",
   "experience": "Assez confortable"
 },{
@@ -324,9 +324,9 @@
   "city": "Cancale",
   "postal_code": "35260",
   "state": "France",
-  "price_min": "32",
-  "price_max": "80",
-  "phone": "+33 2 99 89 60 16",
+  "price_min": "32 euros",
+  "price_max": "80 euros",
+  "phone": "0299896016",
   "website": "http://www.hotel-cancale.com",
   "experience": "Confortable"
 },{
@@ -336,9 +336,9 @@
   "city": "Polliat",
   "postal_code": "01310",
   "state": "France",
-  "price_min": "24",
-  "price_max": "73",
-  "phone": "+33 4 74 30 40 19",
+  "price_min": "24 euros",
+  "price_max": "73 euros",
+  "phone": "0474304019",
   "website": "http://www.restaurant-tejerina-logis.fr",
   "experience": "Confortable"
 },{
@@ -348,9 +348,9 @@
   "city": "Paris",
   "postal_code": "75014",
   "state": "France",
-  "price_min": "32",
-  "price_max": "60",
-  "phone": "+33 1 53 90 76 22",
+  "price_min": "32 euros",
+  "price_max": "60 euros",
+  "phone": "0153907622",
   "website": "http://www.auxplumes.com",
   "experience": "Assez confortable"
 },{
@@ -360,9 +360,9 @@
   "city": "Dijon",
   "postal_code": "21000",
   "state": "France",
-  "price_min": "21",
-  "price_max": "54",
-  "phone": "+33 3 80 50 09 26",
+  "price_min": "21 euros",
+  "price_max": "54 euros",
+  "phone": "0380500926",
   "website": "http://www.dzenvies.com",
   "experience": "Assez confortable"
 },{
@@ -372,9 +372,9 @@
   "city": "Pontchâteau",
   "postal_code": "44160",
   "state": "France",
-  "price_min": "26",
-  "price_max": "33",
-  "phone": "+33 2 40 42 23 28",
+  "price_min": "26 euros",
+  "price_max": "33 euros",
+  "phone": "0240422328",
   "website": "http://www.restaurant-le11.fr",
   "experience": "Assez confortable"
 },{
@@ -384,9 +384,9 @@
   "city": "Daglan",
   "postal_code": "24250",
   "state": "France",
-  "price_min": "32",
-  "price_max": "41",
-  "phone": "+33 5 53 28 41 10",
+  "price_min": "32 euros",
+  "price_max": "41 euros",
+  "phone": "0553284110",
   "website": "http://www.le-petit-paris.fr",
   "experience": "Confortable"
 },{
@@ -396,9 +396,9 @@
   "city": "Les Eyzies-de-Tayac",
   "postal_code": "24620",
   "state": "France",
-  "price_min": "19",
-  "price_max": "45",
-  "phone": "+33 5 53 06 97 07",
+  "price_min": "19 euros",
+  "price_max": "45 euros",
+  "phone": "0553069707",
   "website": "http://www.les-glycines-dordogne.com",
   "experience": "Assez confortable"
 },{
@@ -408,9 +408,9 @@
   "city": "Lyon",
   "postal_code": "69003",
   "state": "France",
-  "price_min": "27",
-  "price_max": "55",
-  "phone": "+33 4 78 60 90 23",
+  "price_min": "27 euros",
+  "price_max": "55 euros",
+  "phone": "0478609023",
   "website": "http://www.latable101.fr",
   "experience": "Assez confortable"
 },{
@@ -420,9 +420,9 @@
   "city": "Boulogne-sur-Mer",
   "postal_code": "62200",
   "state": "France",
-  "price_min": "26",
-  "price_max": "68",
-  "phone": "+33 3 21 92 01 62",
+  "price_min": "26 euros",
+  "price_max": "68 euros",
+  "phone": "0321920162",
   "website": "http://www.lilotvert.fr",
   "experience": "Assez confortable"
 },{
@@ -432,9 +432,9 @@
   "city": "Néris-les-Bains",
   "postal_code": "03310",
   "state": "France",
-  "price_min": "22",
-  "price_max": "46",
-  "phone": "+33 4 70 03 06 97",
+  "price_min": "22 euros",
+  "price_max": "46 euros",
+  "phone": "0470030697",
   "experience": "Assez confortable"
 },{
   "name": "Côté Mer",
@@ -443,9 +443,9 @@
   "city": "Cancale",
   "postal_code": "35260",
   "state": "France",
-  "price_min": "30",
-  "price_max": "90",
-  "phone": "+33 2 99 89 66 08",
+  "price_min": "30 euros",
+  "price_max": "90 euros",
+  "phone": "0299896608",
   "website": "http://www.restaurant-cotemer.fr",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -455,9 +455,9 @@
   "city": "Montanges",
   "postal_code": "01200",
   "state": "France",
-  "price_min": "34",
-  "price_max": "41",
-  "phone": "+33 4 50 56 36 35",
+  "price_min": "34 euros",
+  "price_max": "41 euros",
+  "phone": "0450563635",
   "website": "http://www.pontdespierres.fr",
   "experience": "Assez confortable"
 },{
@@ -467,9 +467,9 @@
   "city": "Guéthary",
   "postal_code": "64210",
   "state": "France",
-  "price_min": "32",
-  "price_max": "50",
-  "phone": "+33 5 59 26 51 34",
+  "price_min": "32 euros",
+  "price_max": "50 euros",
+  "phone": "0559265134",
   "website": "http://www.briketenia.com",
   "experience": "Assez confortable"
 },{
@@ -479,9 +479,9 @@
   "city": "Annecy",
   "postal_code": "74000",
   "state": "France",
-  "price_min": "20",
-  "price_max": "35",
-  "phone": "+33 4 50 45 75 42",
+  "price_min": "20 euros",
+  "price_max": "35 euros",
+  "phone": "0450457542",
   "experience": "Assez confortable"
 },{
   "name": "Le Manoir du Sphinx",
@@ -490,9 +490,9 @@
   "city": "Perros-Guirec",
   "postal_code": "22700",
   "state": "France",
-  "price_min": "25",
-  "price_max": "50",
-  "phone": "+33 2 96 23 25 42",
+  "price_min": "25 euros",
+  "price_max": "50 euros",
+  "phone": "0296232542",
   "website": "http://www.lemanoirdusphinx.bzh",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -502,9 +502,9 @@
   "city": "Ambres",
   "postal_code": "81500",
   "state": "France",
-  "price_min": "18",
-  "price_max": "70",
-  "phone": "+33 5 63 57 64 85",
+  "price_min": "18 euros",
+  "price_max": "70 euros",
+  "phone": "0563576485",
   "experience": "Assez confortable"
 },{
   "name": "La Verdoyante",
@@ -513,9 +513,9 @@
   "city": "Gassin",
   "postal_code": "83580",
   "state": "France",
-  "price_min": "30",
-  "price_max": "61",
-  "phone": "+33 4 94 56 16 23",
+  "price_min": "30 euros",
+  "price_max": "61 euros",
+  "phone": "0494561623",
   "website": "http://www.la-verdoyante.fr",
   "experience": "Confortable"
 },{
@@ -525,9 +525,9 @@
   "city": "Paris",
   "postal_code": "75018",
   "state": "France",
-  "price_min": "30",
-  "price_max": "35",
-  "phone": "+33 1 71 50 00 80",
+  "price_min": "30 euros",
+  "price_max": "35 euros",
+  "phone": "0171500080",
   "website": "http://www.etsi-paris.fr",
   "experience": "Assez confortable"
 },{
@@ -537,9 +537,9 @@
   "city": "Prats-de-Mollo-la-Preste",
   "postal_code": "66230",
   "state": "France",
-  "price_min": "33",
-  "price_max": "60",
-  "phone": "+33 4 68 39 72 48",
+  "price_min": "33 euros",
+  "price_max": "60 euros",
+  "phone": "0468397248",
   "website": "http://www.hotel-le-bellevue.fr",
   "experience": "Confortable"
 },{
@@ -549,9 +549,9 @@
   "city": "impasse Charavay",
   "postal_code": "Lyon",
   "state": "Lyon",
-  "price_min": "22",
-  "price_max": "30",
-  "phone": "+33 4 26 18 57 15",
+  "price_min": "22 euros",
+  "price_max": "30 euros",
+  "phone": "0426185715",
   "website": "http://www.racinerestaurant-lyon.com",
   "experience": "Assez confortable"
 },{
@@ -561,9 +561,9 @@
   "city": "Fouday",
   "postal_code": "67130",
   "state": "France",
-  "price_min": "24",
-  "price_max": "60",
-  "phone": "+33 3 88 97 30 09",
+  "price_min": "24 euros",
+  "price_max": "60 euros",
+  "phone": "0388973009",
   "website": "http://www.hoteljulien.com",
   "experience": "Confortable"
 },{
@@ -573,9 +573,9 @@
   "city": "Marseille",
   "postal_code": "13001",
   "state": "France",
-  "price_min": "34",
-  "price_max": "45",
-  "phone": "+33 4 86 26 54 16",
+  "price_min": "34 euros",
+  "price_max": "45 euros",
+  "phone": "0486265416",
   "website": "http://www.maisonbuon.com",
   "experience": "Assez confortable"
 },{
@@ -585,9 +585,9 @@
   "city": "Kaysersberg",
   "postal_code": "68240",
   "state": "France",
-  "price_min": "31",
-  "price_max": "80",
-  "phone": "+33 3 89 47 17 51",
+  "price_min": "31 euros",
+  "price_max": "80 euros",
+  "phone": "0389471751",
   "website": "http://www.vieilleforge-kb.com",
   "experience": "Confortable"
 },{
@@ -597,9 +597,9 @@
   "city": "Lacroix-Falgarde",
   "postal_code": "31120",
   "state": "France",
-  "price_min": "21",
-  "price_max": "70",
-  "phone": "+33 5 61 76 94 97",
+  "price_min": "21 euros",
+  "price_max": "70 euros",
+  "phone": "0561769497",
   "website": "http://www.restaurant-lebellevue.com",
   "experience": "Confortable"
 },{
@@ -609,9 +609,9 @@
   "city": "Ax-les-Thermes",
   "postal_code": "09110",
   "state": "France",
-  "price_min": "32",
-  "price_max": "60",
-  "phone": "+33 5 61 64 24 31",
+  "price_min": "32 euros",
+  "price_max": "60 euros",
+  "phone": "0561642431",
   "website": "http://www.le-chalet.fr",
   "experience": "Confortable"
 },{
@@ -621,9 +621,9 @@
   "city": "Bracieux",
   "postal_code": "41250",
   "state": "France",
-  "price_min": "23",
-  "price_max": "79",
-  "phone": "+33 2 54 46 03 87",
+  "price_min": "23 euros",
+  "price_max": "79 euros",
+  "phone": "0254460387",
   "experience": "Assez confortable"
 },{
   "name": "Campagne, Vignes et Gourmandises",
@@ -632,9 +632,9 @@
   "city": "Sainte-Cécile-les-Vignes",
   "postal_code": "84290",
   "state": "France",
-  "price_min": "26",
-  "price_max": "65",
-  "phone": "+33 4 90 63 40 11",
+  "price_min": "26 euros",
+  "price_max": "65 euros",
+  "phone": "0490634011",
   "website": "http://www.restaurant-cvg.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -644,9 +644,9 @@
   "city": "lieu-dit St-Samson",
   "postal_code": "Plougasnou",
   "state": "Plougasnou",
-  "price_min": "21",
-  "price_max": "34",
-  "phone": "+33 2 98 72 40 66",
+  "price_min": "21 euros",
+  "price_max": "34 euros",
+  "phone": "0298724066",
   "website": "http://www.maisonkerdies.com",
   "experience": "Confortable"
 },{
@@ -656,9 +656,9 @@
   "city": "Paris",
   "postal_code": "75015",
   "state": "France",
-  "price_min": "38",
-  "price_max": "65",
-  "phone": "+33 1 45 67 15 65",
+  "price_min": "38 euros",
+  "price_max": "65 euros",
+  "phone": "0145671565",
   "website": "http://www.lantreamis.com",
   "experience": "Assez confortable"
 },{
@@ -668,9 +668,9 @@
   "city": "Grignan",
   "postal_code": "26230",
   "state": "France",
-  "price_min": "33",
-  "price_max": "70",
-  "phone": "+33 4 75 00 01 01",
+  "price_min": "33 euros",
+  "price_max": "70 euros",
+  "phone": "0475000101",
   "website": "http://www.chapouton.com",
   "experience": "Assez confortable"
 },{
@@ -680,9 +680,9 @@
   "city": "Tulle",
   "postal_code": "19000",
   "state": "France",
-  "price_min": "21",
-  "price_max": "42",
-  "phone": "+33 5 44 40 94 89",
+  "price_min": "21 euros",
+  "price_max": "42 euros",
+  "phone": "0544409489",
   "website": "http://www.restaurant-les7.fr",
   "experience": "Assez confortable"
 },{
@@ -692,9 +692,9 @@
   "city": "Contres",
   "postal_code": "41700",
   "state": "France",
-  "price_min": "33",
-  "price_max": "56",
-  "phone": "+33 2 54 79 50 49",
+  "price_min": "33 euros",
+  "price_max": "56 euros",
+  "phone": "0254795049",
   "website": "http://www.labottedasperges.com",
   "experience": "Assez confortable"
 },{
@@ -704,9 +704,9 @@
   "city": "Angoulême",
   "postal_code": "16000",
   "state": "France",
-  "price_min": "33",
-  "price_max": "57",
-  "phone": "+33 5 45 95 15 19",
+  "price_min": "33 euros",
+  "price_max": "57 euros",
+  "phone": "0545951519",
   "experience": "Confortable"
 },{
   "name": "La Grillade Gourmande",
@@ -715,9 +715,9 @@
   "city": "Épernay",
   "postal_code": "51200",
   "state": "France",
-  "price_min": "33",
-  "price_max": "68",
-  "phone": "+33 3 26 55 44 22",
+  "price_min": "33 euros",
+  "price_max": "68 euros",
+  "phone": "0326554422",
   "website": "http://www.lagrilladegourmande.com",
   "experience": "Confortable"
 },{
@@ -727,9 +727,9 @@
   "city": "Dury",
   "postal_code": "80480",
   "state": "France",
-  "price_min": "32",
-  "price_max": "64",
-  "phone": "+33 3 22 95 03 33",
+  "price_min": "32 euros",
+  "price_max": "64 euros",
+  "phone": "0322950333",
   "website": "http://www.labonneauberge80.com",
   "experience": "Confortable"
 },{
@@ -739,9 +739,9 @@
   "city": "Menthon-Saint-Bernard",
   "postal_code": "74290",
   "state": "France",
-  "price_min": "33",
-  "price_max": "",
-  "phone": "+33 4 50 44 00 68",
+  "price_min": "33 euros",
+  "price_max": " euros",
+  "phone": "0450440068",
   "website": "http://www.restaurant-leconfidentiel.fr",
   "experience": "Assez confortable"
 },{
@@ -751,9 +751,9 @@
   "city": "Paris",
   "postal_code": "75017",
   "state": "France",
-  "price_min": "30",
-  "price_max": "47",
-  "phone": "+33 1 42 27 47 42",
+  "price_min": "30 euros",
+  "price_max": "47 euros",
+  "phone": "0142274742",
   "experience": "Assez confortable"
 },{
   "name": "L'AO - L'Aigle d'Or",
@@ -762,9 +762,9 @@
   "city": "Rimbach-près-Guebwiller",
   "postal_code": "68500",
   "state": "France",
-  "price_min": "22",
-  "price_max": "50",
-  "phone": "+33 3 89 76 89 90",
+  "price_min": "22 euros",
+  "price_max": "50 euros",
+  "phone": "0389768990",
   "website": "http://www.hotelaigledor.com",
   "experience": "Assez confortable"
 },{
@@ -774,9 +774,9 @@
   "city": "Clara",
   "postal_code": "66500",
   "state": "France",
-  "price_min": "32",
-  "price_max": "65",
-  "phone": "+33 4 68 96 08 72",
+  "price_min": "32 euros",
+  "price_max": "65 euros",
+  "phone": "0468960872",
   "website": "http://www.logesaymeric.com",
   "experience": "Confortable"
 },{
@@ -786,9 +786,9 @@
   "city": "Caromb",
   "postal_code": "84330",
   "state": "France",
-  "price_min": "33",
-  "price_max": "60",
-  "phone": "+33 4 90 62 37 91",
+  "price_min": "33 euros",
+  "price_max": "60 euros",
+  "phone": "0490623791",
   "website": "http://www.pascal-poulain.com",
   "experience": "Assez confortable"
 },{
@@ -798,9 +798,9 @@
   "city": "Saint-Gervais-les-Bains",
   "postal_code": "74170",
   "state": "France",
-  "price_min": "34",
-  "price_max": "59",
-  "phone": "+33 4 50 93 47 30",
+  "price_min": "34 euros",
+  "price_max": "59 euros",
+  "phone": "0450934730",
   "website": "http://www.lafermedecupelin.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -810,9 +810,9 @@
   "city": "Annecy",
   "postal_code": "74000",
   "state": "France",
-  "price_min": "24",
-  "price_max": "62",
-  "phone": "+33 4 50 64 21 17",
+  "price_min": "24 euros",
+  "price_max": "62 euros",
+  "phone": "0450642117",
   "experience": "Assez confortable"
 },{
   "name": "Restaurant du Musée",
@@ -821,9 +821,9 @@
   "city": "Fréland",
   "postal_code": "68240",
   "state": "France",
-  "price_min": "28",
-  "price_max": "70",
-  "phone": "+33 3 89 47 24 18",
+  "price_min": "28 euros",
+  "price_max": "70 euros",
+  "phone": "0389472418",
   "website": "http://www.restaurantmusee.fr",
   "experience": "Confortable"
 },{
@@ -833,9 +833,9 @@
   "city": "La Garnache",
   "postal_code": "85710",
   "state": "France",
-  "price_min": "30",
-  "price_max": "80",
-  "phone": "+33 2 51 49 05 99",
+  "price_min": "30 euros",
+  "price_max": "80 euros",
+  "phone": "0251490599",
   "website": "http://www.restaurant-petit-st-thomas.com",
   "experience": "Confortable"
 },{
@@ -845,9 +845,9 @@
   "city": "Nanterre",
   "postal_code": "92000",
   "state": "France",
-  "price_min": "26",
-  "price_max": "37",
-  "phone": "+33 1 47 25 22 51",
+  "price_min": "26 euros",
+  "price_max": "37 euros",
+  "phone": "0147252251",
   "website": "http://www.cabanerestaurant.com",
   "experience": "Assez confortable"
 },{
@@ -857,9 +857,9 @@
   "city": "Lannion",
   "postal_code": "22300",
   "state": "France",
-  "price_min": "29",
-  "price_max": "49",
-  "phone": "+33 2 56 14 07 91",
+  "price_min": "29 euros",
+  "price_max": "49 euros",
+  "phone": "0256140791",
   "website": "http://www.restaurant-lebrelevenez.fr",
   "experience": "Assez confortable"
 },{
@@ -869,9 +869,9 @@
   "city": "Graufthal",
   "postal_code": "67320",
   "state": "France",
-  "price_min": "20",
-  "price_max": "68",
-  "phone": "+33 3 88 70 17 28",
+  "price_min": "20 euros",
+  "price_max": "68 euros",
+  "phone": "0388701728",
   "website": "http://www.auvieuxmoulin.eu",
   "experience": "Confortable"
 },{
@@ -881,9 +881,9 @@
   "city": "Kaysersberg",
   "postal_code": "68240",
   "state": "France",
-  "price_min": "24",
-  "price_max": "41",
-  "phone": "+33 3 89 47 10 17",
+  "price_min": "24 euros",
+  "price_max": "41 euros",
+  "phone": "0389471017",
   "website": "http://www.lechambard.fr",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -893,9 +893,9 @@
   "city": "Vallauris",
   "postal_code": "06220",
   "state": "France",
-  "price_min": "30",
-  "price_max": "",
-  "phone": "+33 4 93 33 99 59",
+  "price_min": "30 euros",
+  "price_max": " euros",
+  "phone": "0493339959",
   "experience": "Assez confortable"
 },{
   "name": "L'Agape",
@@ -904,9 +904,9 @@
   "city": "Avignon",
   "postal_code": "84000",
   "state": "France",
-  "price_min": "26",
-  "price_max": "74",
-  "phone": "+33 4 90 85 04 06",
+  "price_min": "26 euros",
+  "price_max": "74 euros",
+  "phone": "0490850406",
   "website": "http://www.restaurant-agape-avignon.com",
   "experience": "Assez confortable"
 },{
@@ -916,9 +916,9 @@
   "city": "Aoste",
   "postal_code": "38490",
   "state": "France",
-  "price_min": "34",
-  "price_max": "72",
-  "phone": "+33 4 76 31 60 04",
+  "price_min": "34 euros",
+  "price_max": "72 euros",
+  "phone": "0476316004",
   "website": "http://www.au-coq-en-velours.com",
   "experience": "Confortable"
 },{
@@ -928,9 +928,9 @@
   "city": "Lyon",
   "postal_code": "69006",
   "state": "France",
-  "price_min": "28",
-  "price_max": "59",
-  "phone": "+33 4 37 45 45 45",
+  "price_min": "28 euros",
+  "price_max": "59 euros",
+  "phone": "0437454545",
   "website": "http://www.33cite.com",
   "experience": "Assez confortable"
 },{
@@ -940,9 +940,9 @@
   "city": "Dole",
   "postal_code": "39100",
   "state": "France",
-  "price_min": "22",
-  "price_max": "55",
-  "phone": "+33 3 84 71 97 36",
+  "price_min": "22 euros",
+  "price_max": "55 euros",
+  "phone": "0384719736",
   "website": "http://www.restaurant-graindesel.fr",
   "experience": "Assez confortable"
 },{
@@ -952,9 +952,9 @@
   "city": "Quarré-les-Tombes",
   "postal_code": "89630",
   "state": "France",
-  "price_min": "26",
-  "price_max": "59",
-  "phone": "+33 3 86 32 29 29",
+  "price_min": "26 euros",
+  "price_max": "59 euros",
+  "phone": "0386322929",
   "website": "http://www.le-morvan.fr",
   "experience": "Confortable"
 },{
@@ -964,9 +964,9 @@
   "city": "Le Neubourg",
   "postal_code": "27110",
   "state": "France",
-  "price_min": "25",
-  "price_max": "69",
-  "phone": "+33 2 32 60 29 83",
+  "price_min": "25 euros",
+  "price_max": "69 euros",
+  "phone": "0232602983",
   "website": "http://www.restaurant-la-longere.fr",
   "experience": "Assez confortable"
 },{
@@ -976,9 +976,9 @@
   "city": "L'Herbaudière",
   "postal_code": "85330",
   "state": "France",
-  "price_min": "22",
-  "price_max": "33",
-  "phone": "+33 2 28 10 68 35",
+  "price_min": "22 euros",
+  "price_max": "33 euros",
+  "phone": "0228106835",
   "website": "http://www.alexandrecouillon.com",
   "experience": "Assez confortable"
 },{
@@ -988,9 +988,9 @@
   "city": "Niedersteinbach",
   "postal_code": "67510",
   "state": "France",
-  "price_min": "32",
-  "price_max": "70",
-  "phone": "+33 3 88 09 55 31",
+  "price_min": "32 euros",
+  "price_max": "70 euros",
+  "phone": "0388095531",
   "website": "http://www.hotel-cheval-blanc.fr",
   "experience": "Confortable"
 },{
@@ -1000,9 +1000,9 @@
   "city": "Lent",
   "postal_code": "01240",
   "state": "France",
-  "price_min": "28",
-  "price_max": "74",
-  "phone": "+33 4 74 21 55 05",
+  "price_min": "28 euros",
+  "price_max": "74 euros",
+  "phone": "0474215505",
   "website": "http://www.auberge-lentaise.fr",
   "experience": "Confortable"
 },{
@@ -1012,9 +1012,9 @@
   "city": "Velluire",
   "postal_code": "85770",
   "state": "France",
-  "price_min": "34",
-  "price_max": "75",
-  "phone": "+33 2 51 52 32 15",
+  "price_min": "34 euros",
+  "price_max": "75 euros",
+  "phone": "0251523215",
   "website": "http://www.hotel-riviere-vendee.com",
   "experience": "Très confortable"
 },{
@@ -1024,9 +1024,9 @@
   "city": "Château-d'Olonne",
   "postal_code": "85180",
   "state": "France",
-  "price_min": "23",
-  "price_max": "49",
-  "phone": "+33 2 51 33 41 83",
+  "price_min": "23 euros",
+  "price_max": "49 euros",
+  "phone": "0251334183",
   "experience": "Confortable"
 },{
   "name": "Nougier",
@@ -1035,9 +1035,9 @@
   "city": "Fursac",
   "postal_code": "23290",
   "state": "France",
-  "price_min": "29",
-  "price_max": "65",
-  "phone": "+33 5 55 63 60 56",
+  "price_min": "29 euros",
+  "price_max": "65 euros",
+  "phone": "0555636056",
   "website": "http://www.hotelnougier.fr",
   "experience": "Confortable"
 },{
@@ -1047,9 +1047,9 @@
   "city": "Quissac",
   "postal_code": "30260",
   "state": "France",
-  "price_min": "22",
-  "price_max": "42",
-  "phone": "+33 4 66 77 02 45",
+  "price_min": "22 euros",
+  "price_max": "42 euros",
+  "phone": "0466770245",
   "website": "http://www.lartysan.com",
   "experience": "Assez confortable"
 },{
@@ -1059,9 +1059,9 @@
   "city": "Beaulieu-sous-la-Roche",
   "postal_code": "85190",
   "state": "France",
-  "price_min": "24",
-  "price_max": "66",
-  "phone": "+33 2 51 98 24 80",
+  "price_min": "24 euros",
+  "price_max": "66 euros",
+  "phone": "0251982480",
   "website": "http://www.lecafedesarts-beaulieu.com",
   "experience": "Assez confortable"
 },{
@@ -1071,9 +1071,9 @@
   "city": "Paris",
   "postal_code": "75020",
   "state": "France",
-  "price_min": "19",
-  "price_max": "50",
-  "phone": "+33 1 43 58 45 45",
+  "price_min": "19 euros",
+  "price_max": "50 euros",
+  "phone": "0143584545",
   "website": "http://www.restaurantlescanailles.fr",
   "experience": "Assez confortable"
 },{
@@ -1083,9 +1083,9 @@
   "city": "Nîmes",
   "postal_code": "30000",
   "state": "France",
-  "price_min": "25",
-  "price_max": "70",
-  "phone": "+33 4 66 36 01 02",
+  "price_min": "25 euros",
+  "price_max": "70 euros",
+  "phone": "0466360102",
   "website": "http://www.auxplaisirsdeshalles.com",
   "experience": "Confortable"
 },{
@@ -1095,9 +1095,9 @@
   "city": "Aubigny-sur-Nère",
   "postal_code": "18700",
   "state": "France",
-  "price_min": "24",
-  "price_max": "59",
-  "phone": "+33 2 48 58 04 01",
+  "price_min": "24 euros",
+  "price_max": "59 euros",
+  "phone": "0248580401",
   "website": "http://www.hotel-restaurant-la-chaumiere.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -1107,9 +1107,9 @@
   "city": "Bénouville",
   "postal_code": "14970",
   "state": "France",
-  "price_min": "26",
-  "price_max": "70",
-  "phone": "+33 2 31 44 62 43",
+  "price_min": "26 euros",
+  "price_max": "70 euros",
+  "phone": "0231446243",
   "website": "http://www.manoirdhastings.fr",
   "experience": "Confortable"
 },{
@@ -1119,9 +1119,9 @@
   "city": "Pont-Scorff",
   "postal_code": "56620",
   "state": "France",
-  "price_min": "17",
-  "price_max": "48",
-  "phone": "+33 2 97 32 65 08",
+  "price_min": "17 euros",
+  "price_max": "48 euros",
+  "phone": "0297326508",
   "website": "http://www.lartgourmand.com",
   "experience": "Assez confortable"
 },{
@@ -1131,9 +1131,9 @@
   "city": "Pfulgriesheim",
   "postal_code": "67370",
   "state": "France",
-  "price_min": "20",
-  "price_max": "45",
-  "phone": "+33 3 88 20 01 92",
+  "price_min": "20 euros",
+  "price_max": "45 euros",
+  "phone": "0388200192",
   "website": "http://www.burestubel.fr",
   "experience": "Assez confortable"
 },{
@@ -1143,9 +1143,9 @@
   "city": "Limoges",
   "postal_code": "87000",
   "state": "France",
-  "price_min": "27",
-  "price_max": "69",
-  "phone": "+33 5 55 49 01 26",
+  "price_min": "27 euros",
+  "price_max": "69 euros",
+  "phone": "0555490126",
   "website": "http://www.levanteaux.com",
   "experience": "Confortable"
 },{
@@ -1155,9 +1155,9 @@
   "city": "Guingamp",
   "postal_code": "22200",
   "state": "France",
-  "price_min": "18",
-  "price_max": "55",
-  "phone": "+33 2 96 21 33 63",
+  "price_min": "18 euros",
+  "price_max": "55 euros",
+  "phone": "0296213363",
   "experience": "Confortable"
 },{
   "name": "Olive et Artichaut",
@@ -1166,9 +1166,9 @@
   "city": "Nice",
   "postal_code": "06000",
   "state": "France",
-  "price_min": "33",
-  "price_max": "59",
-  "phone": "+33 4 89 14 97 51",
+  "price_min": "33 euros",
+  "price_max": "59 euros",
+  "phone": "0489149751",
   "website": "http://www.oliveartichaut.com",
   "experience": "Assez confortable"
 },{
@@ -1178,9 +1178,9 @@
   "city": "Croutelle",
   "postal_code": "86240",
   "state": "France",
-  "price_min": "21",
-  "price_max": "88",
-  "phone": "+33 5 49 57 11 52",
+  "price_min": "21 euros",
+  "price_max": "88 euros",
+  "phone": "0549571152",
   "website": "http://www.la-chenaie.com",
   "experience": "Confortable"
 },{
@@ -1190,9 +1190,9 @@
   "city": "Veuil",
   "postal_code": "36600",
   "state": "France",
-  "price_min": "23",
-  "price_max": "55",
-  "phone": "+33 2 54 40 32 78",
+  "price_min": "23 euros",
+  "price_max": "55 euros",
+  "phone": "0254403278",
   "website": "http://www.aubergesaintfiacre.com",
   "experience": "Confortable"
 },{
@@ -1202,9 +1202,9 @@
   "city": "Villegenon",
   "postal_code": "18260",
   "state": "France",
-  "price_min": "14",
-  "price_max": "40",
-  "phone": "+33 2 48 73 45 36",
+  "price_min": "14 euros",
+  "price_max": "40 euros",
+  "phone": "0248734536",
   "website": "http://www.la-recreation-gourmande.com",
   "experience": "Assez confortable"
 },{
@@ -1214,9 +1214,9 @@
   "city": "Fayence",
   "postal_code": "83440",
   "state": "France",
-  "price_min": "34",
-  "price_max": "78",
-  "phone": "+33 4 94 76 08 44",
+  "price_min": "34 euros",
+  "price_max": "78 euros",
+  "phone": "0494760844",
   "website": "http://www.latabledyves.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -1226,9 +1226,9 @@
   "city": "Val-de-Saâne",
   "postal_code": "76890",
   "state": "France",
-  "price_min": "25",
-  "price_max": "62",
-  "phone": "+33 2 35 32 30 13",
+  "price_min": "25 euros",
+  "price_max": "62 euros",
+  "phone": "0235323013",
   "website": "http://www.lamereduval.fr",
   "experience": "Confortable"
 },{
@@ -1238,9 +1238,9 @@
   "city": "Montluçon",
   "postal_code": "03100",
   "state": "France",
-  "price_min": "33",
-  "price_max": "59",
-  "phone": "+33 4 70 03 26 57",
+  "price_min": "33 euros",
+  "price_max": "59 euros",
+  "phone": "0470032657",
   "website": "http://www.chateau-saint-jean.com",
   "experience": "Assez confortable"
 },{
@@ -1250,9 +1250,9 @@
   "city": "Annecy",
   "postal_code": "74000",
   "state": "France",
-  "price_min": "22",
-  "price_max": "48",
-  "phone": "+33 4 50 65 00 25",
+  "price_min": "22 euros",
+  "price_max": "48 euros",
+  "phone": "0450650025",
   "website": "http://www.restaurantcozna.com",
   "experience": "Assez confortable"
 },{
@@ -1262,9 +1262,9 @@
   "city": "Saint-Savin",
   "postal_code": "65400",
   "state": "France",
-  "price_min": "19",
-  "price_max": "90",
-  "phone": "+33 5 62 97 02 28",
+  "price_min": "19 euros",
+  "price_max": "90 euros",
+  "phone": "0562970228",
   "website": "http://www.hotel-leviscos.com",
   "experience": "Très confortable"
 },{
@@ -1274,9 +1274,9 @@
   "city": "Versailles",
   "postal_code": "78000",
   "state": "France",
-  "price_min": "37",
-  "price_max": "",
-  "phone": "+33 1 75 45 63 70",
+  "price_min": "37 euros",
+  "price_max": " euros",
+  "phone": "0175456370",
   "website": "http://www.lebistrotdu11.com",
   "experience": "Assez confortable"
 },{
@@ -1286,9 +1286,9 @@
   "city": "Paris",
   "postal_code": "75009",
   "state": "France",
-  "price_min": "38",
-  "price_max": "49",
-  "phone": "+33 1 53 20 88 70",
+  "price_min": "38 euros",
+  "price_max": "49 euros",
+  "phone": "0153208870",
   "experience": "Assez confortable"
 },{
   "name": "La Ferme de Victorine",
@@ -1297,9 +1297,9 @@
   "city": "Notre-Dame-de-Bellecombe",
   "postal_code": "73590",
   "state": "France",
-  "price_min": "33",
-  "price_max": "70",
-  "phone": "+33 4 79 31 63 46",
+  "price_min": "33 euros",
+  "price_max": "70 euros",
+  "phone": "0479316346",
   "website": "http://www.la-ferme-de-victorine.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -1309,17 +1309,17 @@
   "city": "Royan",
   "postal_code": "17200",
   "state": "France",
-  "price_min": "28",
-  "price_max": "37",
-  "phone": "+33 5 16 65 85 43",
+  "price_min": "28 euros",
+  "price_max": "37 euros",
+  "phone": "0516658543",
   "experience": "Assez confortable"
 },{
   "name": "Le Bistrot 270",
   "type": "Cuisine traditionnelle",
   "street": "\n                                \n                                    \n                                        1 Offre\n                                    \n                                \n                            \n                                    \n                                        \n                                            1 Offre\n                                        \n                                    \n                                ",
-  "price_min": "32",
-  "price_max": "39",
-  "phone": "+33 4 75 90 86 86",
+  "price_min": "32 euros",
+  "price_max": "39 euros",
+  "phone": "0475908686",
   "experience": "Assez confortable"
 },{
   "name": "La Closerie des Roses",
@@ -1328,9 +1328,9 @@
   "city": "Varades",
   "postal_code": "44370",
   "state": "France",
-  "price_min": "33",
-  "price_max": "67",
-  "phone": "+33 2 40 98 33 30",
+  "price_min": "33 euros",
+  "price_max": "67 euros",
+  "phone": "0240983330",
   "website": "http://www.lacloseriedesroses.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -1340,9 +1340,9 @@
   "city": "Bormes-les-Mimosa",
   "postal_code": "83230",
   "state": "France",
-  "price_min": "33",
-  "price_max": "62",
-  "phone": "+33 9 87 36 49 46",
+  "price_min": "33 euros",
+  "price_max": "62 euros",
+  "phone": "0987364946",
   "experience": "Assez confortable"
 },{
   "name": "L'Ourdissoir",
@@ -1351,9 +1351,9 @@
   "city": "Cholet",
   "postal_code": "49300",
   "state": "France",
-  "price_min": "23",
-  "price_max": "56",
-  "phone": "+33 2 41 58 55 18",
+  "price_min": "23 euros",
+  "price_max": "56 euros",
+  "phone": "0241585518",
   "website": "http://www.lourdissoir.com",
   "experience": "Assez confortable"
 },{
@@ -1363,9 +1363,9 @@
   "city": "Rennes",
   "postal_code": "35000",
   "state": "France",
-  "price_min": "22",
-  "price_max": "45",
-  "phone": "+33 2 99 14 25 14",
+  "price_min": "22 euros",
+  "price_max": "45 euros",
+  "phone": "0299142514",
   "website": "http://www.restaurantessentiel.com",
   "experience": "Confortable"
 },{
@@ -1375,9 +1375,9 @@
   "city": "Flayosc",
   "postal_code": "83780",
   "state": "France",
-  "price_min": "32",
-  "price_max": "53",
-  "phone": "+33 4 94 68 09 96",
+  "price_min": "32 euros",
+  "price_max": "53 euros",
+  "phone": "0494680996",
   "website": "http://www.restaurantlenid.wixsite.com/lenidflayosc",
   "experience": "Assez confortable"
 },{
@@ -1387,9 +1387,9 @@
   "city": "Ingersheim",
   "postal_code": "68040",
   "state": "France",
-  "price_min": "19",
-  "price_max": "66",
-  "phone": "+33 3 89 27 08 41",
+  "price_min": "19 euros",
+  "price_max": "66 euros",
+  "phone": "0389270841",
   "website": "http://www.tavernealsacienne-familleguggenbuhl.com",
   "experience": "Confortable"
 },{
@@ -1399,9 +1399,9 @@
   "city": "Paris",
   "postal_code": "75005",
   "state": "France",
-  "price_min": "38",
-  "price_max": "60",
-  "phone": "+33 1 44 31 54 54",
+  "price_min": "38 euros",
+  "price_max": "60 euros",
+  "phone": "0144315454",
   "website": "http://www.cucina-mutualite.com",
   "experience": "Confortable"
 },{
@@ -1411,9 +1411,9 @@
   "city": "Arles",
   "postal_code": "13200",
   "state": "France",
-  "price_min": "33",
-  "price_max": "",
-  "phone": "+33 4 90 47 61 13",
+  "price_min": "33 euros",
+  "price_max": " euros",
+  "phone": "0490476113",
   "website": "http://www.rabanel.com",
   "experience": "Assez confortable"
 },{
@@ -1423,9 +1423,9 @@
   "city": "Le Croisic",
   "postal_code": "44490",
   "state": "France",
-  "price_min": "21",
-  "price_max": "75",
-  "phone": "+33 2 40 23 03 77",
+  "price_min": "21 euros",
+  "price_max": "75 euros",
+  "phone": "0240230377",
   "website": "http://www.lestacade.fr",
   "experience": "Confortable"
 },{
@@ -1435,9 +1435,9 @@
   "city": "Concarneau",
   "postal_code": "29900",
   "state": "France",
-  "price_min": "20",
-  "price_max": "88",
-  "phone": "+33 2 98 60 43 47",
+  "price_min": "20 euros",
+  "price_max": "88 euros",
+  "phone": "0298604347",
   "experience": "Confortable"
 },{
   "name": "Pho Tai",
@@ -1446,9 +1446,9 @@
   "city": "Paris",
   "postal_code": "75013",
   "state": "France",
-  "price_min": "25",
-  "price_max": "35",
-  "phone": "+33 1 45 85 97 36",
+  "price_min": "25 euros",
+  "price_max": "35 euros",
+  "phone": "0145859736",
   "experience": "Assez confortable"
 },{
   "name": "Le Saint-Jacques",
@@ -1457,9 +1457,9 @@
   "city": "Thorigné-sur-Dué",
   "postal_code": "72160",
   "state": "France",
-  "price_min": "33",
-  "price_max": "60",
-  "phone": "+33 2 43 89 95 50",
+  "price_min": "33 euros",
+  "price_max": "60 euros",
+  "phone": "0243899550",
   "website": "http://www.hotel-sarthe.fr",
   "experience": "Confortable"
 },{
@@ -1469,9 +1469,9 @@
   "city": "Saint-Benoît-sur-Loire",
   "postal_code": "45730",
   "state": "France",
-  "price_min": "34",
-  "price_max": "59",
-  "phone": "+33 2 38 35 11 92",
+  "price_min": "34 euros",
+  "price_max": "59 euros",
+  "phone": "0238351192",
   "website": "http://www.restaurant-grand-saint-benoit.com",
   "experience": "Confortable"
 },{
@@ -1481,9 +1481,9 @@
   "city": "Bâgé-le-Châtel",
   "postal_code": "01380",
   "state": "France",
-  "price_min": "34",
-  "price_max": "82",
-  "phone": "+33 3 85 30 54 22",
+  "price_min": "34 euros",
+  "price_max": "82 euros",
+  "phone": "0385305422",
   "website": "http://www.latablebagesienne.com",
   "experience": "Confortable"
 },{
@@ -1493,9 +1493,9 @@
   "city": "Nocé",
   "postal_code": "61340",
   "state": "France",
-  "price_min": "28",
-  "price_max": "45",
-  "phone": "+33 2 33 73 41 03",
+  "price_min": "28 euros",
+  "price_max": "45 euros",
+  "phone": "0233734103",
   "website": "http://www.auberge-3j.fr",
   "experience": "Confortable"
 },{
@@ -1505,9 +1505,9 @@
   "city": "Sainte-Geneviève-des-Bois",
   "postal_code": "91700",
   "state": "France",
-  "price_min": "32",
-  "price_max": "63",
-  "phone": "+33 1 60 15 71 53",
+  "price_min": "32 euros",
+  "price_max": "63 euros",
+  "phone": "0160157153",
   "website": "http://www.latabledantan.fr",
   "experience": "Confortable"
 },{
@@ -1517,9 +1517,9 @@
   "city": "Paris",
   "postal_code": "75002",
   "state": "France",
-  "price_min": "21",
-  "price_max": "45",
-  "phone": "+33 9 50 48 35 78",
+  "price_min": "21 euros",
+  "price_max": "45 euros",
+  "phone": "0950483578",
   "website": "http://www.itacoa.paris",
   "experience": "Assez confortable"
 },{
@@ -1529,9 +1529,9 @@
   "city": "Paris",
   "postal_code": "75014",
   "state": "France",
-  "price_min": "23",
-  "price_max": "37",
-  "phone": "+33 1 45 45 58 59",
+  "price_min": "23 euros",
+  "price_max": "37 euros",
+  "phone": "0145455859",
   "website": "http://www.bistrotters.com",
   "experience": "Assez confortable"
 },{
@@ -1541,9 +1541,9 @@
   "city": "Chinon",
   "postal_code": "37500",
   "state": "France",
-  "price_min": "30",
-  "price_max": "46",
-  "phone": "+33 2 47 98 08 08",
+  "price_min": "30 euros",
+  "price_max": "46 euros",
+  "phone": "0247980808",
   "website": "http://www.auchapeaurouge.fr",
   "experience": "Confortable"
 },{
@@ -1553,9 +1553,9 @@
   "city": "Renescure",
   "postal_code": "59173",
   "state": "France",
-  "price_min": "20",
-  "price_max": "32",
-  "phone": "+33 9 67 35 23 60",
+  "price_min": "20 euros",
+  "price_max": "32 euros",
+  "phone": "0967352360",
   "website": "http://www.tablederomain.kazeo.com",
   "experience": "Assez confortable"
 },{
@@ -1565,9 +1565,9 @@
   "city": "Charlieu",
   "postal_code": "42190",
   "state": "France",
-  "price_min": "23",
-  "price_max": "88",
-  "phone": "+33 4 77 60 00 88",
+  "price_min": "23 euros",
+  "price_max": "88 euros",
+  "phone": "0477600088",
   "website": "http://www.relais-abbaye.fr",
   "experience": "Confortable"
 },{
@@ -1577,9 +1577,9 @@
   "city": "Moulins",
   "postal_code": "03000",
   "state": "France",
-  "price_min": "33",
-  "price_max": "59",
-  "phone": "+33 4 43 51 23 82",
+  "price_min": "33 euros",
+  "price_max": "59 euros",
+  "phone": "0443512382",
   "experience": "Assez confortable"
 },{
   "name": "Ô Saveurs",
@@ -1588,9 +1588,9 @@
   "city": "Falaise",
   "postal_code": "14700",
   "state": "France",
-  "price_min": "22",
-  "price_max": "61",
-  "phone": "+33 2 31 90 13 14",
+  "price_min": "22 euros",
+  "price_max": "61 euros",
+  "phone": "0231901314",
   "experience": "Confortable"
 },{
   "name": "Le Saint-Eutrope",
@@ -1599,9 +1599,9 @@
   "city": "Clermont-Ferrand",
   "postal_code": "63000",
   "state": "France",
-  "price_min": "24",
-  "price_max": "58",
-  "phone": "+33 4 73 34 30 41",
+  "price_min": "24 euros",
+  "price_max": "58 euros",
+  "phone": "0473343041",
   "website": "http://www.sainteutrope.com",
   "experience": "Assez confortable"
 },{
@@ -1611,9 +1611,9 @@
   "city": "Bonnétage",
   "postal_code": "25210",
   "state": "France",
-  "price_min": "19",
-  "price_max": "57",
-  "phone": "+33 3 81 68 92 78",
+  "price_min": "19 euros",
+  "price_max": "57 euros",
+  "phone": "0381689278",
   "website": "http://www.etang-du-moulin.com",
   "experience": "Assez confortable"
 },{
@@ -1623,9 +1623,9 @@
   "city": "Bermicourt",
   "postal_code": "62130",
   "state": "France",
-  "price_min": "32",
-  "price_max": "40",
-  "phone": "+33 3 21 03 33 33",
+  "price_min": "32 euros",
+  "price_max": "40 euros",
+  "phone": "0321033333",
   "website": "http://www.lacourderemi.com",
   "experience": "Assez confortable"
 },{
@@ -1635,9 +1635,9 @@
   "city": "Argelès-sur-Mer",
   "postal_code": "66700",
   "state": "France",
-  "price_min": "31",
-  "price_max": "63",
-  "phone": "+33 6 19 25 70 13",
+  "price_min": "31 euros",
+  "price_max": "63 euros",
+  "phone": "0619257013",
   "website": "http://www.restaurant-labartavelle.fr",
   "experience": "Assez confortable"
 },{
@@ -1647,9 +1647,9 @@
   "city": "Lyon",
   "postal_code": "69006",
   "state": "France",
-  "price_min": "26",
-  "price_max": "29",
-  "phone": "+33 4 78 52 16 35",
+  "price_min": "26 euros",
+  "price_max": "29 euros",
+  "phone": "0478521635",
   "experience": "Assez confortable"
 },{
   "name": "L'Artimon",
@@ -1658,9 +1658,9 @@
   "city": "La Bernerie-en-Retz",
   "postal_code": "44760",
   "state": "France",
-  "price_min": "21",
-  "price_max": "45",
-  "phone": "+33 2 51 74 61 60",
+  "price_min": "21 euros",
+  "price_max": "45 euros",
+  "phone": "0251746160",
   "experience": "Assez confortable"
 },{
   "name": "Au Bout de la Rue",
@@ -1669,9 +1669,9 @@
   "city": "Flers",
   "postal_code": "61100",
   "state": "France",
-  "price_min": "25",
-  "price_max": "50",
-  "phone": "+33 2 33 65 31 53",
+  "price_min": "25 euros",
+  "price_max": "50 euros",
+  "phone": "0233653153",
   "website": "http://www.auboutdelarue.com",
   "experience": "Confortable"
 },{
@@ -1681,9 +1681,9 @@
   "city": "Châteauroux",
   "postal_code": "36000",
   "state": "France",
-  "price_min": "18",
-  "price_max": "52",
-  "phone": "+33 2 54 27 66 28",
+  "price_min": "18 euros",
+  "price_max": "52 euros",
+  "phone": "0254276628",
   "website": "http://www.jeux2gouts.fr",
   "experience": "Confortable"
 },{
@@ -1693,9 +1693,9 @@
   "city": "Nancy",
   "postal_code": "54000",
   "state": "France",
-  "price_min": "23",
-  "price_max": "75",
-  "phone": "+33 3 83 30 17 20",
+  "price_min": "23 euros",
+  "price_max": "75 euros",
+  "phone": "0383301720",
   "website": "http://www.latoqueblanche.fr",
   "experience": "Confortable"
 },{
@@ -1705,9 +1705,9 @@
   "city": "Paris",
   "postal_code": "75017",
   "state": "France",
-  "price_min": "32",
-  "price_max": "46",
-  "phone": "+33 1 42 26 01 02",
+  "price_min": "32 euros",
+  "price_max": "46 euros",
+  "phone": "0142260102",
   "website": "http://www.lenviedujour.com",
   "experience": "Assez confortable"
 },{
@@ -1717,18 +1717,18 @@
   "city": "Gassin",
   "postal_code": "83580",
   "state": "France",
-  "price_min": "33",
-  "price_max": "82",
-  "phone": "+33 4 94 56 17 30",
+  "price_min": "33 euros",
+  "price_max": "82 euros",
+  "phone": "0494561730",
   "website": "http://www.bellovisto.eu",
   "experience": "Confortable"
 },{
   "name": "Maison Chabran - Espace Gourmand",
   "type": "Cuisine moderne",
   "street": "\n                                \n                                    \n                                        2 Offres\n                                    \n                                \n                            \n                                    \n                                        \n                                            2 Offres\n                                        \n                                    \n                                ",
-  "price_min": "34",
-  "price_max": "79",
-  "phone": "+33 4 75 84 60 09",
+  "price_min": "34 euros",
+  "price_max": "79 euros",
+  "phone": "0475846009",
   "experience": "Assez confortable"
 },{
   "name": "L'Altévic",
@@ -1737,9 +1737,9 @@
   "city": "Hattstatt",
   "postal_code": "68420",
   "state": "France",
-  "price_min": "22",
-  "price_max": "78",
-  "phone": "+33 3 89 78 83 56",
+  "price_min": "22 euros",
+  "price_max": "78 euros",
+  "phone": "0389788356",
   "website": "http://www.restaurant-laltevic.fr",
   "experience": "Assez confortable"
 },{
@@ -1749,9 +1749,9 @@
   "city": "Tain-l'Hermitage",
   "postal_code": "26600",
   "state": "France",
-  "price_min": "33",
-  "price_max": "60",
-  "phone": "+33 4 75 09 19 85",
+  "price_min": "33 euros",
+  "price_max": "60 euros",
+  "phone": "0475091985",
   "website": "http://www.maisongambert.com",
   "experience": "Assez confortable"
 },{
@@ -1761,9 +1761,9 @@
   "city": "Berlou",
   "postal_code": "34360",
   "state": "France",
-  "price_min": "25",
-  "price_max": "67",
-  "phone": "+33 4 67 24 16 99",
+  "price_min": "25 euros",
+  "price_max": "67 euros",
+  "phone": "0467241699",
   "website": "http://www.lefaitout.net",
   "experience": "Assez confortable"
 },{
@@ -1773,9 +1773,9 @@
   "city": "Auch",
   "postal_code": "32000",
   "state": "France",
-  "price_min": "21",
-  "price_max": "71",
-  "phone": "+33 5 62 59 97 38",
+  "price_min": "21 euros",
+  "price_max": "71 euros",
+  "phone": "0562599738",
   "website": "http://www.ledomainedebaulieu.com",
   "experience": "Assez confortable"
 },{
@@ -1785,9 +1785,9 @@
   "city": "Valady",
   "postal_code": "12330",
   "state": "France",
-  "price_min": "19",
-  "price_max": "72",
-  "phone": "+33 5 65 72 70 24",
+  "price_min": "19 euros",
+  "price_max": "72 euros",
+  "phone": "0565727024",
   "website": "http://www.auberge-ady.com",
   "experience": "Confortable"
 },{
@@ -1797,9 +1797,9 @@
   "city": "Aubenas",
   "postal_code": "07200",
   "state": "France",
-  "price_min": "20",
-  "price_max": "51",
-  "phone": "+33 4 75 93 58 33",
+  "price_min": "20 euros",
+  "price_max": "51 euros",
+  "phone": "0475935833",
   "website": "http://www.les-coloquintes.com",
   "experience": "Confortable"
 },{
@@ -1809,9 +1809,9 @@
   "city": "Sanary-sur-Mer",
   "postal_code": "83110",
   "state": "France",
-  "price_min": "30",
-  "price_max": "45",
-  "phone": "+33 4 94 88 08 05",
+  "price_min": "30 euros",
+  "price_max": "45 euros",
+  "phone": "0494880805",
   "website": "http://www.laptitecour.com",
   "experience": "Confortable"
 },{
@@ -1821,9 +1821,9 @@
   "city": "Aragon",
   "postal_code": "11600",
   "state": "France",
-  "price_min": "33",
-  "price_max": "",
-  "phone": "+33 4 68 26 10 65",
+  "price_min": "33 euros",
+  "price_max": " euros",
+  "phone": "0468261065",
   "website": "http://www.labergeriearagon.com",
   "experience": "Confortable"
 },{
@@ -1833,18 +1833,18 @@
   "city": "Pont-Aven",
   "postal_code": "29930",
   "state": "France",
-  "price_min": "33",
-  "price_max": "58",
-  "phone": "+33 2 98 06 16 16",
+  "price_min": "33 euros",
+  "price_max": "58 euros",
+  "phone": "0298061616",
   "website": "http://www.surlepont-pontaven.fr",
   "experience": "Assez confortable"
 },{
   "name": "Esttia",
   "type": "Cuisine méditerranéenne",
   "street": "\n                                \n                                    \n                                        1 Offre\n                                    \n                                \n                            \n                                    \n                                        \n                                            1 Offre\n                                        \n                                    \n                                ",
-  "price_min": "22",
-  "price_max": "36",
-  "phone": "+33 1 72 60 43 63",
+  "price_min": "22 euros",
+  "price_max": "36 euros",
+  "phone": "0172604363",
   "experience": "Assez confortable"
 },{
   "name": "Mandoobar",
@@ -1853,9 +1853,9 @@
   "city": "Paris",
   "postal_code": "75008",
   "state": "France",
-  "price_min": "21",
-  "price_max": "35",
-  "phone": "+33 1 55 06 08 53",
+  "price_min": "21 euros",
+  "price_max": "35 euros",
+  "phone": "0155060853",
   "website": "http://www.mandoobar.fr",
   "experience": "Assez confortable"
 },{
@@ -1865,9 +1865,9 @@
   "city": "Brive-la-Gaillarde",
   "postal_code": "19100",
   "state": "France",
-  "price_min": "24",
-  "price_max": "53",
-  "phone": "+33 5 55 23 71 58",
+  "price_min": "24 euros",
+  "price_max": "53 euros",
+  "phone": "0555237158",
   "website": "http://www.latoupine.fr",
   "experience": "Confortable"
 },{
@@ -1877,9 +1877,9 @@
   "city": "Saint-Vaast-la-Hougue",
   "postal_code": "50550",
   "state": "France",
-  "price_min": "33",
-  "price_max": "83",
-  "phone": "+33 2 33 54 40 41",
+  "price_min": "33 euros",
+  "price_max": "83 euros",
+  "phone": "0233544041",
   "website": "http://www.france-fuchsias.com",
   "experience": "Confortable"
 },{
@@ -1889,9 +1889,9 @@
   "city": "Saint-Clément",
   "postal_code": "15800",
   "state": "France",
-  "price_min": "32",
-  "price_max": "80",
-  "phone": "+33 4 71 47 51 71",
+  "price_min": "32 euros",
+  "price_max": "80 euros",
+  "phone": "0471475171",
   "website": "http://www.hotelstclementcantal.com",
   "experience": "Confortable"
 },{
@@ -1901,9 +1901,9 @@
   "city": "Montrabé",
   "postal_code": "31850",
   "state": "France",
-  "price_min": "19",
-  "price_max": "55",
-  "phone": "+33 5 61 48 25 24",
+  "price_min": "19 euros",
+  "price_max": "55 euros",
+  "phone": "0561482524",
   "website": "http://www.restaurant-linstant.fr",
   "experience": "Assez confortable"
 },{
@@ -1913,9 +1913,9 @@
   "city": "Saint-Malo",
   "postal_code": "35400",
   "state": "France",
-  "price_min": "22",
-  "price_max": "59",
-  "phone": "+33 2 99 20 18 42",
+  "price_min": "22 euros",
+  "price_max": "59 euros",
+  "phone": "0299201842",
   "website": "http://www.cambusier.fr",
   "experience": "Assez confortable"
 },{
@@ -1925,9 +1925,9 @@
   "city": "Paris",
   "postal_code": "75011",
   "state": "France",
-  "price_min": "35",
-  "price_max": "70",
-  "phone": "+33 1 43 72 74 53",
+  "price_min": "35 euros",
+  "price_max": "70 euros",
+  "phone": "0143727453",
   "website": "http://www.clamato-charonne.fr",
   "experience": "Assez confortable"
 },{
@@ -1937,9 +1937,9 @@
   "city": "Rosenau",
   "postal_code": "68128",
   "state": "France",
-  "price_min": "23",
-  "price_max": "62",
-  "phone": "+33 3 89 68 21 97",
+  "price_min": "23 euros",
+  "price_max": "62 euros",
+  "phone": "0389682197",
   "website": "http://www.auliondor-rosenau.com",
   "experience": "Confortable"
 },{
@@ -1949,9 +1949,9 @@
   "city": "Montlivault",
   "postal_code": "41350",
   "state": "France",
-  "price_min": "32",
-  "price_max": "",
-  "phone": "+33 2 54 20 62 30",
+  "price_min": "32 euros",
+  "price_max": " euros",
+  "phone": "0254206230",
   "website": "http://www.lamaisondacote.fr",
   "experience": "Assez confortable"
 },{
@@ -1961,9 +1961,9 @@
   "city": "Tournus",
   "postal_code": "71700",
   "state": "France",
-  "price_min": "25",
-  "price_max": "70",
-  "phone": "+33 3 85 51 13 52",
+  "price_min": "25 euros",
+  "price_max": "70 euros",
+  "phone": "0385511352",
   "website": "http://www.restaurant-greuze.fr",
   "experience": "Assez confortable"
 },{
@@ -1973,9 +1973,9 @@
   "city": "Paris",
   "postal_code": "75011",
   "state": "France",
-  "price_min": "28",
-  "price_max": "70",
-  "phone": "+33 1 43 57 75 56",
+  "price_min": "28 euros",
+  "price_max": "70 euros",
+  "phone": "0143577556",
   "experience": "Assez confortable"
 },{
   "name": "Gabbro",
@@ -1984,9 +1984,9 @@
   "city": "Lille",
   "postal_code": "59000",
   "state": "France",
-  "price_min": "30",
-  "price_max": "42",
-  "phone": "+33 3 20 39 05 51",
+  "price_min": "30 euros",
+  "price_max": "42 euros",
+  "phone": "0320390551",
   "experience": "Assez confortable"
 },{
   "name": "Épices et Tout",
@@ -1995,9 +1995,9 @@
   "city": "Alès",
   "postal_code": "30100",
   "state": "France",
-  "price_min": "20",
-  "price_max": "37",
-  "phone": "+33 4 66 52 43 79",
+  "price_min": "20 euros",
+  "price_max": "37 euros",
+  "phone": "0466524379",
   "website": "http://www.epicesettout.fr",
   "experience": "Assez confortable"
 },{
@@ -2007,9 +2007,9 @@
   "city": "Toulouse",
   "postal_code": "31000",
   "state": "France",
-  "price_min": "19",
-  "price_max": "55",
-  "phone": "+33 5 61 25 03 51",
+  "price_min": "19 euros",
+  "price_max": "55 euros",
+  "phone": "0561250351",
   "website": "http://www.unetableadeux.fr",
   "experience": "Assez confortable"
 },{
@@ -2019,9 +2019,9 @@
   "city": "Baden",
   "postal_code": "56870",
   "state": "France",
-  "price_min": "24",
-  "price_max": "78",
-  "phone": "+33 2 97 57 00 82",
+  "price_min": "24 euros",
+  "price_max": "78 euros",
+  "phone": "0297570082",
   "website": "http://www.gavrinis.com",
   "experience": "Confortable"
 },{
@@ -2031,9 +2031,9 @@
   "city": "Charroux",
   "postal_code": "03140",
   "state": "France",
-  "price_min": "28",
-  "price_max": "69",
-  "phone": "+33 4 70 56 88 83",
+  "price_min": "28 euros",
+  "price_max": "69 euros",
+  "phone": "0470568883",
   "website": "http://www.fermesaintsebastien.fr",
   "experience": "Confortable"
 },{
@@ -2043,9 +2043,9 @@
   "city": "Pauillac",
   "postal_code": "33250",
   "state": "France",
-  "price_min": "29",
-  "price_max": "57",
-  "phone": "+33 5 57 75 00 09",
+  "price_min": "29 euros",
+  "price_max": "57 euros",
+  "phone": "0557750009",
   "website": "http://www.jmcazes.com/fr/cafe-lavinal",
   "experience": "Assez confortable"
 },{
@@ -2055,9 +2055,9 @@
   "city": "Sainte-Cécile",
   "postal_code": "71250",
   "state": "France",
-  "price_min": "18",
-  "price_max": "63",
-  "phone": "+33 3 85 50 81 81",
+  "price_min": "18 euros",
+  "price_max": "63 euros",
+  "phone": "0385508181",
   "website": "http://www.restaurant-lembellie.com",
   "experience": "Confortable"
 },{
@@ -2067,9 +2067,9 @@
   "city": "L'Île-Bouchard",
   "postal_code": "37220",
   "state": "France",
-  "price_min": "33",
-  "price_max": "56",
-  "phone": "+33 2 47 58 51 07",
+  "price_min": "33 euros",
+  "price_max": "56 euros",
+  "phone": "0247585107",
   "website": "http://www.aubergedelile.fr",
   "experience": "Confortable"
 },{
@@ -2079,9 +2079,9 @@
   "city": "Sélestat",
   "postal_code": "67600",
   "state": "France",
-  "price_min": "23",
-  "price_max": "33",
-  "phone": "+33 3 88 82 96 65",
+  "price_min": "23 euros",
+  "price_max": "33 euros",
+  "phone": "0388829665",
   "website": "http://www.aubonpichet.fr",
   "experience": "Assez confortable"
 },{
@@ -2091,9 +2091,9 @@
   "city": "Paris",
   "postal_code": "75019",
   "state": "France",
-  "price_min": "30",
-  "price_max": "50",
-  "phone": "+33 9 54 12 21 77",
+  "price_min": "30 euros",
+  "price_max": "50 euros",
+  "phone": "0954122177",
   "website": "http://chevaldorparis.com",
   "experience": "Assez confortable"
 },{
@@ -2103,9 +2103,9 @@
   "city": "Hambye",
   "postal_code": "50450",
   "state": "France",
-  "price_min": "29",
-  "price_max": "75",
-  "phone": "+33 2 33 61 42 19",
+  "price_min": "29 euros",
+  "price_max": "75 euros",
+  "phone": "0233614219",
   "website": "http://www.aubergedelabbayehambye.com",
   "experience": "Confortable"
 },{
@@ -2115,9 +2115,9 @@
   "city": "Les Ribas",
   "postal_code": "Tourtour",
   "state": "Tourtour",
-  "price_min": "29",
-  "price_max": "82",
-  "phone": "+33 4 94 70 55 95",
+  "price_min": "29 euros",
+  "price_max": "82 euros",
+  "phone": "0494705595",
   "website": "http://www.latable.fr",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -2127,9 +2127,9 @@
   "city": "Orléans",
   "postal_code": "45000",
   "state": "France",
-  "price_min": "32",
-  "price_max": "41",
-  "phone": "+33 2 38 72 74 11",
+  "price_min": "32 euros",
+  "price_max": "41 euros",
+  "phone": "0238727411",
   "website": "http://www.hibiscus-restaurant.com",
   "experience": "Assez confortable"
 },{
@@ -2139,9 +2139,9 @@
   "city": "Langoëlan",
   "postal_code": "56160",
   "state": "France",
-  "price_min": "13",
-  "price_max": "40",
-  "phone": "+33 2 97 51 37 81",
+  "price_min": "13 euros",
+  "price_max": "40 euros",
+  "phone": "0297513781",
   "experience": "Assez confortable"
 },{
   "name": "Le Buffet",
@@ -2150,9 +2150,9 @@
   "city": "Isbergues",
   "postal_code": "62330",
   "state": "France",
-  "price_min": "22",
-  "price_max": "70",
-  "phone": "+33 3 21 25 82 40",
+  "price_min": "22 euros",
+  "price_max": "70 euros",
+  "phone": "0321258240",
   "website": "http://www.le-buffet.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -2162,9 +2162,9 @@
   "city": "Nîmes",
   "postal_code": "30000",
   "state": "France",
-  "price_min": "34",
-  "price_max": "",
-  "phone": "+33 4 66 67 29 15",
+  "price_min": "34 euros",
+  "price_max": " euros",
+  "phone": "0466672915",
   "website": "http://www.lelisita.com",
   "experience": "Confortable"
 },{
@@ -2174,9 +2174,9 @@
   "city": "Paris",
   "postal_code": "75002",
   "state": "France",
-  "price_min": "30",
-  "price_max": "45",
-  "phone": "+33 1 42 61 67 07",
+  "price_min": "30 euros",
+  "price_max": "45 euros",
+  "phone": "0142616707",
   "website": "http://www.depotlegalparis.com",
   "experience": "Assez confortable"
 },{
@@ -2186,9 +2186,9 @@
   "city": "Oucques",
   "postal_code": "41290",
   "state": "France",
-  "price_min": "28",
-  "price_max": "78",
-  "phone": "+33 2 54 23 20 41",
+  "price_min": "28 euros",
+  "price_max": "78 euros",
+  "phone": "0254232041",
   "website": "http://www.o-en-couleur-oucques.com",
   "experience": "Confortable"
 },{
@@ -2198,9 +2198,9 @@
   "city": "Locronan",
   "postal_code": "29180",
   "state": "France",
-  "price_min": "23",
-  "price_max": "59",
-  "phone": "+33 2 98 91 70 74",
+  "price_min": "23 euros",
+  "price_max": "59 euros",
+  "phone": "0298917074",
   "website": "http://www.comptoir-des-voyageurs.fr",
   "experience": "Assez confortable"
 },{
@@ -2210,9 +2210,9 @@
   "city": "La Roche-sur-Yon",
   "postal_code": "85000",
   "state": "France",
-  "price_min": "19",
-  "price_max": "41",
-  "phone": "+33 9 83 25 83 71",
+  "price_min": "19 euros",
+  "price_max": "41 euros",
+  "phone": "0983258371",
   "website": "http://www.restaurantlesreflets.fr",
   "experience": "Assez confortable"
 },{
@@ -2222,9 +2222,9 @@
   "city": "Auzeville-Tolosane",
   "postal_code": "31320",
   "state": "France",
-  "price_min": "19",
-  "price_max": "100",
-  "phone": "+33 5 61 13 42 30",
+  "price_min": "19 euros",
+  "price_max": "100 euros",
+  "phone": "0561134230",
   "website": "http://www.la-table-dauzeville.fr",
   "experience": "Confortable"
 },{
@@ -2234,9 +2234,9 @@
   "city": "Tain-l'Hermitage",
   "postal_code": "26600",
   "state": "France",
-  "price_min": "34",
-  "price_max": "49",
-  "phone": "+33 4 75 08 00 76",
+  "price_min": "34 euros",
+  "price_max": "49 euros",
+  "phone": "0475080076",
   "experience": "Assez confortable"
 },{
   "name": "Aromatic",
@@ -2245,9 +2245,9 @@
   "city": "Lyon",
   "postal_code": "69004",
   "state": "France",
-  "price_min": "21",
-  "price_max": "48",
-  "phone": "+33 4 78 23 73 61",
+  "price_min": "21 euros",
+  "price_max": "48 euros",
+  "phone": "0478237361",
   "website": "http://www.aromaticrestaurant.fr",
   "experience": "Assez confortable"
 },{
@@ -2257,9 +2257,9 @@
   "city": "Yssingeaux",
   "postal_code": "43200",
   "state": "France",
-  "price_min": "24",
-  "price_max": "82",
-  "phone": "+33 4 71 59 06 54",
+  "price_min": "24 euros",
+  "price_max": "82 euros",
+  "phone": "0471590654",
   "website": "http://www.le-bourbon.com",
   "experience": "Confortable"
 },{
@@ -2269,9 +2269,9 @@
   "city": "Nantes",
   "postal_code": "44000",
   "state": "France",
-  "price_min": "22",
-  "price_max": "98",
-  "phone": "+33 2 40 20 32 28",
+  "price_min": "22 euros",
+  "price_max": "98 euros",
+  "phone": "0240203228",
   "website": "http://www.restaurant-oceanide.fr",
   "experience": "Confortable"
 },{
@@ -2281,9 +2281,9 @@
   "city": "Béziers",
   "postal_code": "34500",
   "state": "France",
-  "price_min": "23",
-  "price_max": "55",
-  "phone": "+33 4 48 11 03 40",
+  "price_min": "23 euros",
+  "price_max": "55 euros",
+  "phone": "0448110340",
   "experience": "Assez confortable"
 },{
   "name": "La Maison Tourangelle",
@@ -2292,9 +2292,9 @@
   "city": "Savonnières",
   "postal_code": "37510",
   "state": "France",
-  "price_min": "34",
-  "price_max": "110",
-  "phone": "+33 2 47 50 30 05",
+  "price_min": "34 euros",
+  "price_max": "110 euros",
+  "phone": "0247503005",
   "website": "http://www.lamaisontourangelle.com",
   "experience": "Confortable"
 },{
@@ -2304,9 +2304,9 @@
   "city": "Montendre",
   "postal_code": "17130",
   "state": "France",
-  "price_min": "22",
-  "price_max": "75",
-  "phone": "+33 5 46 70 42 41",
+  "price_min": "22 euros",
+  "price_max": "75 euros",
+  "phone": "0546704241",
   "website": "http://restaurantlaquincaillerie.eatbu.com",
   "experience": "Assez confortable"
 },{
@@ -2316,9 +2316,9 @@
   "city": "Montpellier",
   "postal_code": "34000",
   "state": "France",
-  "price_min": "25",
-  "price_max": "47",
-  "phone": "+33 9 83 22 42 61",
+  "price_min": "25 euros",
+  "price_max": "47 euros",
+  "phone": "0983224261",
   "website": "http://www.bistrourbain.com",
   "experience": "Assez confortable"
 },{
@@ -2328,9 +2328,9 @@
   "city": "Ploufragan",
   "postal_code": "22440",
   "state": "France",
-  "price_min": "19",
-  "price_max": "60",
-  "phone": "+33 2 96 01 59 37",
+  "price_min": "19 euros",
+  "price_max": "60 euros",
+  "phone": "0296015937",
   "website": "http://lebrezoune.fr",
   "experience": "Assez confortable"
 },{
@@ -2340,9 +2340,9 @@
   "city": "Bagnères-de-Bigorre",
   "postal_code": "65200",
   "state": "France",
-  "price_min": "21",
-  "price_max": "65",
-  "phone": "+33 5 62 91 07 95",
+  "price_min": "21 euros",
+  "price_max": "65 euros",
+  "phone": "0562910795",
   "website": "http://www.lejardindesbrouches.fr",
   "experience": "Confortable"
 },{
@@ -2352,9 +2352,9 @@
   "city": "Liessies",
   "postal_code": "59740",
   "state": "France",
-  "price_min": "34",
-  "price_max": "60",
-  "phone": "+33 3 27 61 80 21",
+  "price_min": "34 euros",
+  "price_max": "60 euros",
+  "phone": "0327618021",
   "website": "http://www.le-carillon.com",
   "experience": "Confortable"
 },{
@@ -2364,9 +2364,9 @@
   "city": "La Roche-l'Abeille",
   "postal_code": "87800",
   "state": "France",
-  "price_min": "33",
-  "price_max": "65",
-  "phone": "+33 5 55 00 22 03",
+  "price_min": "33 euros",
+  "price_max": "65 euros",
+  "phone": "0555002203",
   "website": "http://www.moulindelagorce.com",
   "experience": "Assez confortable"
 },{
@@ -2376,9 +2376,9 @@
   "city": "Quimper",
   "postal_code": "29000",
   "state": "France",
-  "price_min": "26",
-  "price_max": "85",
-  "phone": "+33 2 98 94 50 02",
+  "price_min": "26 euros",
+  "price_max": "85 euros",
+  "phone": "0298945002",
   "website": "http://www.restaurantticoz.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -2388,9 +2388,9 @@
   "city": "Messigny-et-Vantoux",
   "postal_code": "21380",
   "state": "France",
-  "price_min": "22",
-  "price_max": "32",
-  "phone": "+33 3 80 35 45 22",
+  "price_min": "22 euros",
+  "price_max": "32 euros",
+  "phone": "0380354522",
   "website": "http://www.restaurant-tilleuls.fr",
   "experience": "Assez confortable"
 },{
@@ -2400,9 +2400,9 @@
   "city": "Langeais",
   "postal_code": "37130",
   "state": "France",
-  "price_min": "33",
-  "price_max": "70",
-  "phone": "+33 2 47 96 37 25",
+  "price_min": "33 euros",
+  "price_max": "70 euros",
+  "phone": "0247963725",
   "website": "http://www.aucoindeshalles.com",
   "experience": "Assez confortable"
 },{
@@ -2412,9 +2412,9 @@
   "city": "Chaudes-Aigues",
   "postal_code": "15110",
   "state": "France",
-  "price_min": "32",
-  "price_max": "50",
-  "phone": "+33 4 71 60 10 23",
+  "price_min": "32 euros",
+  "price_max": "50 euros",
+  "phone": "0471601023",
   "website": "http://www.sergevieira.com",
   "experience": "Assez confortable"
 },{
@@ -2424,9 +2424,9 @@
   "city": "Monteils",
   "postal_code": "82300",
   "state": "France",
-  "price_min": "21",
-  "price_max": "58",
-  "phone": "+33 5 63 93 03 51",
+  "price_min": "21 euros",
+  "price_max": "58 euros",
+  "phone": "0563930351",
   "website": "http://www.leclosmonteils.fr",
   "experience": "Assez confortable"
 },{
@@ -2436,9 +2436,9 @@
   "city": "Lyon",
   "postal_code": "69003",
   "state": "France",
-  "price_min": "25",
-  "price_max": "56",
-  "phone": "+33 4 37 48 00 10",
+  "price_min": "25 euros",
+  "price_max": "56 euros",
+  "phone": "0437480010",
   "experience": "Assez confortable"
 },{
   "name": "La Table d'Inomoto",
@@ -2447,9 +2447,9 @@
   "city": "Saint-André-de-Cubzac",
   "postal_code": "33240",
   "state": "France",
-  "price_min": "17",
-  "price_max": "40",
-  "phone": "+33 9 74 56 17 63",
+  "price_min": "17 euros",
+  "price_max": "40 euros",
+  "phone": "0974561763",
   "website": "http://www.latabledinomoto.fr",
   "experience": "Assez confortable"
 },{
@@ -2459,9 +2459,9 @@
   "city": "Ribeauvillé",
   "postal_code": "68150",
   "state": "France",
-  "price_min": "27",
-  "price_max": "75",
-  "phone": "+33 3 89 86 05 75",
+  "price_min": "27 euros",
+  "price_max": "75 euros",
+  "phone": "0389860575",
   "website": "http://www.auberge-parc-carola.com",
   "experience": "Confortable"
 },{
@@ -2471,9 +2471,9 @@
   "city": "Paris",
   "postal_code": "75002",
   "state": "France",
-  "price_min": "29",
-  "price_max": "50",
-  "phone": "+33 1 45 08 13 76",
+  "price_min": "29 euros",
+  "price_max": "50 euros",
+  "phone": "0145081376",
   "website": "http://www.loseille-bourse.com",
   "experience": "Assez confortable"
 },{
@@ -2483,9 +2483,9 @@
   "city": "Peillon",
   "postal_code": "06440",
   "state": "France",
-  "price_min": "22",
-  "price_max": "42",
-  "phone": "+33 4 93 87 06 01",
+  "price_min": "22 euros",
+  "price_max": "42 euros",
+  "phone": "0493870601",
   "website": "http://www.lesplaisirs-peillon.com",
   "experience": "Assez confortable"
 },{
@@ -2495,9 +2495,9 @@
   "city": "Chancelade",
   "postal_code": "24650",
   "state": "France",
-  "price_min": "26",
-  "price_max": "",
-  "phone": "+33 5 53 03 53 59",
+  "price_min": "26 euros",
+  "price_max": " euros",
+  "phone": "0553035359",
   "website": "http://www.chateau-hotel-perigord.com",
   "experience": "Assez confortable"
 },{
@@ -2507,9 +2507,9 @@
   "city": "Fondettes",
   "postal_code": "37230",
   "state": "France",
-  "price_min": "23",
-  "price_max": "78",
-  "phone": "+33 2 47 42 24 04",
+  "price_min": "23 euros",
+  "price_max": "78 euros",
+  "phone": "0247422404",
   "website": "http://www.auberge-de-port-vallieres.fr",
   "experience": "Confortable"
 },{
@@ -2519,9 +2519,9 @@
   "city": "route de Salernes",
   "postal_code": "Lorgues",
   "state": "Lorgues",
-  "price_min": "33",
-  "price_max": "57",
-  "phone": "+33 4 94 60 43 51",
+  "price_min": "33 euros",
+  "price_max": "57 euros",
+  "phone": "0494604351",
   "website": "http://www.chateauberne.com",
   "experience": "Assez confortable"
 },{
@@ -2531,9 +2531,9 @@
   "city": "Sierentz",
   "postal_code": "68510",
   "state": "France",
-  "price_min": "20",
-  "price_max": "48",
-  "phone": "+33 9 83 37 16 80",
+  "price_min": "20 euros",
+  "price_max": "48 euros",
+  "phone": "0983371680",
   "website": "http://www.auberge-saintlaurent.fr",
   "experience": "Assez confortable"
 },{
@@ -2543,9 +2543,9 @@
   "city": "Treffort",
   "postal_code": "01370",
   "state": "France",
-  "price_min": "14",
-  "price_max": "69",
-  "phone": "+33 4 74 51 39 94",
+  "price_min": "14 euros",
+  "price_max": "69 euros",
+  "phone": "0474513994",
   "website": "http://www.voyagesdessens.com",
   "experience": "Confortable"
 },{
@@ -2555,9 +2555,9 @@
   "city": "Saint-Brieuc",
   "postal_code": "22000",
   "state": "France",
-  "price_min": "30",
-  "price_max": "59",
-  "phone": "+33 2 96 94 05 34",
+  "price_min": "30 euros",
+  "price_max": "59 euros",
+  "phone": "0296940534",
   "website": "http://www.osaveurs-restaurant.com",
   "experience": "Confortable"
 },{
@@ -2567,9 +2567,9 @@
   "city": "Châtelaillon-Plage",
   "postal_code": "17340",
   "state": "France",
-  "price_min": "31",
-  "price_max": "58",
-  "phone": "+33 5 46 56 23 42",
+  "price_min": "31 euros",
+  "price_max": "58 euros",
+  "phone": "0546562342",
   "website": "http://www.les-flots.fr",
   "experience": "Assez confortable"
 },{
@@ -2579,9 +2579,9 @@
   "city": "La Chaize-Giraud",
   "postal_code": "85220",
   "state": "France",
-  "price_min": "18",
-  "price_max": "37",
-  "phone": "+33 2 51 22 75 33",
+  "price_min": "18 euros",
+  "price_max": "37 euros",
+  "phone": "0251227533",
   "website": "http://www.lachaizegourmande.com",
   "experience": "Assez confortable"
 },{
@@ -2591,9 +2591,9 @@
   "city": "Paris",
   "postal_code": "75005",
   "state": "France",
-  "price_min": "25",
-  "price_max": "34",
-  "phone": "+33 1 44 07 13 29",
+  "price_min": "25 euros",
+  "price_max": "34 euros",
+  "phone": "0144071329",
   "website": "http://www.restaurantkokoro.blogspot.fr",
   "experience": "Assez confortable"
 },{
@@ -2603,9 +2603,9 @@
   "city": "Val-d'Isère",
   "postal_code": "73150",
   "state": "France",
-  "price_min": "33",
-  "price_max": "",
-  "phone": "+33 4 79 00 21 42",
+  "price_min": "33 euros",
+  "price_max": " euros",
+  "phone": "0479002142",
   "website": "http://www.atelier-edmond.com",
   "experience": "Assez confortable"
 },{
@@ -2615,9 +2615,9 @@
   "city": "Cevins",
   "postal_code": "73730",
   "state": "France",
-  "price_min": "23",
-  "price_max": "82",
-  "phone": "+33 4 79 37 49 98",
+  "price_min": "23 euros",
+  "price_max": "82 euros",
+  "phone": "0479374998",
   "website": "http://www.restaurant-fleurdesel.fr",
   "experience": "Confortable"
 },{
@@ -2627,9 +2627,9 @@
   "city": "Haguenau",
   "postal_code": "67500",
   "state": "France",
-  "price_min": "21",
-  "price_max": "63",
-  "phone": "+33 3 88 93 29 39",
+  "price_min": "21 euros",
+  "price_max": "63 euros",
+  "phone": "0388932939",
   "website": "http://www.lejardinhaguenau.fr",
   "experience": "Très confortable"
 },{
@@ -2639,9 +2639,9 @@
   "city": "Montech",
   "postal_code": "82700",
   "state": "France",
-  "price_min": "23",
-  "price_max": "38",
-  "phone": "+33 5 63 24 63 02",
+  "price_min": "23 euros",
+  "price_max": "38 euros",
+  "phone": "0563246302",
   "website": "http://www.bistrotconstant.com",
   "experience": "Assez confortable"
 },{
@@ -2651,9 +2651,9 @@
   "city": "Couëron",
   "postal_code": "44220",
   "state": "France",
-  "price_min": "18",
-  "price_max": "57",
-  "phone": "+33 2 40 38 32 32",
+  "price_min": "18 euros",
+  "price_max": "57 euros",
+  "phone": "0240383232",
   "website": "http://www.francois2.com",
   "experience": "Confortable"
 },{
@@ -2663,9 +2663,9 @@
   "city": "Hyères",
   "postal_code": "83400",
   "state": "France",
-  "price_min": "32",
-  "price_max": "76",
-  "phone": "+33 4 94 35 35 16",
+  "price_min": "32 euros",
+  "price_max": "76 euros",
+  "phone": "0494353516",
   "website": "http://www.restaurantlacolombe.com",
   "experience": "Confortable"
 },{
@@ -2675,9 +2675,9 @@
   "city": "Saumur",
   "postal_code": "49400",
   "state": "France",
-  "price_min": "21",
-  "price_max": "40",
-  "phone": "+33 2 41 51 20 88",
+  "price_min": "21 euros",
+  "price_max": "40 euros",
+  "phone": "0241512088",
   "experience": "Assez confortable"
 },{
   "name": "La Toile à Beurre",
@@ -2686,9 +2686,9 @@
   "city": "Ancenis",
   "postal_code": "44150",
   "state": "France",
-  "price_min": "18",
-  "price_max": "55",
-  "phone": "+33 2 40 98 89 64",
+  "price_min": "18 euros",
+  "price_max": "55 euros",
+  "phone": "0240988964",
   "website": "http://www.latoileabeurre.com",
   "experience": "Assez confortable"
 },{
@@ -2698,9 +2698,9 @@
   "city": "Saint-Pée-sur-Nivelle",
   "postal_code": "64310",
   "state": "France",
-  "price_min": "15",
-  "price_max": "47",
-  "phone": "+33 5 59 47 03 55",
+  "price_min": "15 euros",
+  "price_max": "47 euros",
+  "phone": "0559470355",
   "website": "http://www.ttotta.fr",
   "experience": "Assez confortable"
 },{
@@ -2710,9 +2710,9 @@
   "city": "Dole",
   "postal_code": "39100",
   "state": "France",
-  "price_min": "21",
-  "price_max": "60",
-  "phone": "+33 3 84 70 98 73",
+  "price_min": "21 euros",
+  "price_max": "60 euros",
+  "phone": "0384709873",
   "website": "http://www.iida-ya.fr",
   "experience": "Assez confortable"
 },{
@@ -2722,9 +2722,9 @@
   "city": "Landéda",
   "postal_code": "29870",
   "state": "France",
-  "price_min": "23",
-  "price_max": "90",
-  "phone": "+33 2 98 04 96 77",
+  "price_min": "23 euros",
+  "price_max": "90 euros",
+  "phone": "0298049677",
   "website": "http://www.vioben.com",
   "experience": "Assez confortable"
 },{
@@ -2734,9 +2734,9 @@
   "city": "Senonches",
   "postal_code": "28250",
   "state": "France",
-  "price_min": "18",
-  "price_max": "70",
-  "phone": "+33 2 37 37 78 50",
+  "price_min": "18 euros",
+  "price_max": "70 euros",
+  "phone": "0237377850",
   "website": "http://www.hoteldelaforet-senonches.com",
   "experience": "Confortable"
 },{
@@ -2746,9 +2746,9 @@
   "city": "Sète",
   "postal_code": "34200",
   "state": "France",
-  "price_min": "33",
-  "price_max": "75",
-  "phone": "+33 4 67 74 71 91",
+  "price_min": "33 euros",
+  "price_max": "75 euros",
+  "phone": "0467747191",
   "website": "http://www.legrandhotelsete.com",
   "experience": "Confortable"
 },{
@@ -2758,9 +2758,9 @@
   "city": "Le Pin-la-Garenne",
   "postal_code": "61400",
   "state": "France",
-  "price_min": "17",
-  "price_max": "49",
-  "phone": "+33 2 33 83 80 33",
+  "price_min": "17 euros",
+  "price_max": "49 euros",
+  "phone": "0233838033",
   "website": "http://lacroixdor.free.fr",
   "experience": "Confortable"
 },{
@@ -2770,9 +2770,9 @@
   "city": "Paris",
   "postal_code": "75007",
   "state": "France",
-  "price_min": "37",
-  "price_max": "85",
-  "phone": "+33 1 47 05 46 11",
+  "price_min": "37 euros",
+  "price_max": "85 euros",
+  "phone": "0147054611",
   "website": "http://www.aubonaccueilparis.com",
   "experience": "Confortable"
 },{
@@ -2782,9 +2782,9 @@
   "city": "à Saint-Aubin-le-Vertueux",
   "postal_code": "Bernay",
   "state": "Bernay",
-  "price_min": "26",
-  "price_max": "69",
-  "phone": "+33 2 32 43 19 95",
+  "price_min": "26 euros",
+  "price_max": "69 euros",
+  "phone": "0232431995",
   "website": "http://www.lemoulinfouret.fr",
   "experience": "Confortable"
 },{
@@ -2794,9 +2794,9 @@
   "city": "Le Frenz",
   "postal_code": "68820",
   "state": "France",
-  "price_min": "30",
-  "price_max": "46",
-  "phone": "+33 3 89 82 28 61",
+  "price_min": "30 euros",
+  "price_max": "46 euros",
+  "phone": "0389822861",
   "website": "http://www.hotel4saisons.com",
   "experience": "Assez confortable"
 },{
@@ -2806,9 +2806,9 @@
   "city": "Lyon",
   "postal_code": "69006",
   "state": "France",
-  "price_min": "34",
-  "price_max": "60",
-  "phone": "+33 6 46 58 36 90",
+  "price_min": "34 euros",
+  "price_max": "60 euros",
+  "phone": "0646583690",
   "website": "http://www.restaurant-semanteme-lyon.fr",
   "experience": "Assez confortable"
 },{
@@ -2818,9 +2818,9 @@
   "city": "Vougy",
   "postal_code": "74130",
   "state": "France",
-  "price_min": "33",
-  "price_max": "66",
-  "phone": "+33 4 50 34 03 50",
+  "price_min": "33 euros",
+  "price_max": "66 euros",
+  "phone": "0450340350",
   "website": "http://www.lecapucingourmand.com",
   "experience": "Confortable"
 },{
@@ -2830,9 +2830,9 @@
   "city": "Montmarault",
   "postal_code": "03390",
   "state": "France",
-  "price_min": "34",
-  "price_max": "71",
-  "phone": "+33 4 70 07 60 26",
+  "price_min": "34 euros",
+  "price_max": "71 euros",
+  "phone": "0470076026",
   "website": "http://www.hoteldefrance-montmarault.com",
   "experience": "Confortable"
 },{
@@ -2842,9 +2842,9 @@
   "city": "Privas",
   "postal_code": "07000",
   "state": "France",
-  "price_min": "19",
-  "price_max": "60",
-  "phone": "+33 4 75 64 48 48",
+  "price_min": "19 euros",
+  "price_max": "60 euros",
+  "phone": "0475644848",
   "website": "http://www.la-boria.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -2854,9 +2854,9 @@
   "city": "Le Cannet",
   "postal_code": "06110",
   "state": "France",
-  "price_min": "33",
-  "price_max": "93",
-  "phone": "+33 4 92 18 18 28",
+  "price_min": "33 euros",
+  "price_max": "93 euros",
+  "phone": "0492181828",
   "website": "http://www.bruno-oger.com",
   "experience": "Assez confortable"
 },{
@@ -2866,9 +2866,9 @@
   "city": "Puymirol",
   "postal_code": "47270",
   "state": "France",
-  "price_min": "33",
-  "price_max": "42",
-  "phone": "+33 5 53 95 31 46",
+  "price_min": "33 euros",
+  "price_max": "42 euros",
+  "phone": "0553953146",
   "website": "http://www.aubergade.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -2878,9 +2878,9 @@
   "city": "Pouillon",
   "postal_code": "40350",
   "state": "France",
-  "price_min": "13",
-  "price_max": "52",
-  "phone": "+33 5 58 98 34 65",
+  "price_min": "13 euros",
+  "price_max": "52 euros",
+  "phone": "0558983465",
   "website": "http://www.auberge-dupasdevent.com",
   "experience": "Confortable"
 },{
@@ -2890,9 +2890,9 @@
   "city": "Épernay",
   "postal_code": "51200",
   "state": "France",
-  "price_min": "27",
-  "price_max": "54",
-  "phone": "+33 3 26 58 88 19",
+  "price_min": "27 euros",
+  "price_max": "54 euros",
+  "phone": "0326588819",
   "website": "http://www.epernay-rest-letheatre.com",
   "experience": "Confortable"
 },{
@@ -2902,9 +2902,9 @@
   "city": "Bordeaux",
   "postal_code": "33000",
   "state": "France",
-  "price_min": "35",
-  "price_max": "63",
-  "phone": "+33 5 56 15 90 40",
+  "price_min": "35 euros",
+  "price_max": "63 euros",
+  "phone": "0556159040",
   "website": "http://www.cent33.com",
   "experience": "Assez confortable"
 },{
@@ -2914,9 +2914,9 @@
   "city": "Rennes",
   "postal_code": "35000",
   "state": "France",
-  "price_min": "17",
-  "price_max": "",
-  "phone": "+33 9 52 84 33 61",
+  "price_min": "17 euros",
+  "price_max": " euros",
+  "phone": "0952843361",
   "website": "http://restaurantlapetiteourse.com",
   "experience": "Assez confortable"
 },{
@@ -2926,9 +2926,9 @@
   "city": "Strasbourg",
   "postal_code": "67000",
   "state": "France",
-  "price_min": "29",
-  "price_max": "45",
-  "phone": "+33 3 88 35 60 68",
+  "price_min": "29 euros",
+  "price_max": "45 euros",
+  "phone": "0388356068",
   "experience": "Assez confortable"
 },{
   "name": "Balsamique",
@@ -2937,9 +2937,9 @@
   "city": "Wambrechies",
   "postal_code": "59118",
   "state": "France",
-  "price_min": "33",
-  "price_max": "59",
-  "phone": "+33 3 20 93 68 55",
+  "price_min": "33 euros",
+  "price_max": "59 euros",
+  "phone": "0320936855",
   "website": "http://www.balsamique-restaurant.com",
   "experience": "Assez confortable"
 },{
@@ -2949,9 +2949,9 @@
   "city": "Taillades",
   "postal_code": "84300",
   "state": "France",
-  "price_min": "18",
-  "price_max": "49",
-  "phone": "+33 4 90 72 37 55",
+  "price_min": "18 euros",
+  "price_max": "49 euros",
+  "phone": "0490723755",
   "website": "http://www.latelierlartdesmets.fr",
   "experience": "Assez confortable"
 },{
@@ -2961,9 +2961,9 @@
   "city": "Toulon",
   "postal_code": "83000",
   "state": "France",
-  "price_min": "35",
-  "price_max": "",
-  "phone": "+33 4 94 20 61 32",
+  "price_min": "35 euros",
+  "price_max": " euros",
+  "phone": "0494206132",
   "website": "http://www.restaurant-lelocal.fr",
   "experience": "Assez confortable"
 },{
@@ -2973,9 +2973,9 @@
   "city": "Servon",
   "postal_code": "50170",
   "state": "France",
-  "price_min": "25",
-  "price_max": "65",
-  "phone": "+33 2 33 60 17 92",
+  "price_min": "25 euros",
+  "price_max": "65 euros",
+  "phone": "0233601792",
   "experience": "Confortable"
 },{
   "name": "Arbequina",
@@ -2984,9 +2984,9 @@
   "city": "Thuir",
   "postal_code": "66300",
   "state": "France",
-  "price_min": "18",
-  "price_max": "46",
-  "phone": "+33 4 68 34 46 64",
+  "price_min": "18 euros",
+  "price_max": "46 euros",
+  "phone": "0468344664",
   "website": "http://www.arbequina-restaurant.com",
   "experience": "Assez confortable"
 },{
@@ -2996,9 +2996,9 @@
   "city": "Balma",
   "postal_code": "31130",
   "state": "France",
-  "price_min": "25",
-  "price_max": "55",
-  "phone": "+33 5 61 45 70 43",
+  "price_min": "25 euros",
+  "price_max": "55 euros",
+  "phone": "0561457043",
   "website": "http://www.restaurant-lequilibre.fr",
   "experience": "Assez confortable"
 },{
@@ -3008,9 +3008,9 @@
   "city": "Bergerac",
   "postal_code": "24100",
   "state": "France",
-  "price_min": "28",
-  "price_max": "37",
-  "phone": "+33 5 53 61 34 06",
+  "price_min": "28 euros",
+  "price_max": "37 euros",
+  "phone": "0553613406",
   "experience": "Assez confortable"
 },{
   "name": "Au Côte d'Argent",
@@ -3019,9 +3019,9 @@
   "city": "Calais",
   "postal_code": "62100",
   "state": "France",
-  "price_min": "22",
-  "price_max": "68",
-  "phone": "+33 3 21 34 68 07",
+  "price_min": "22 euros",
+  "price_max": "68 euros",
+  "phone": "0321346807",
   "website": "http://www.cotedargent.com",
   "experience": "Confortable"
 },{
@@ -3031,9 +3031,9 @@
   "city": "Chénérailles",
   "postal_code": "23130",
   "state": "France",
-  "price_min": "25",
-  "price_max": "61",
-  "phone": "+33 5 55 62 30 83",
+  "price_min": "25 euros",
+  "price_max": "61 euros",
+  "phone": "0555623083",
   "website": "http://www.restaurant-coqdor-23.com",
   "experience": "Confortable"
 },{
@@ -3043,9 +3043,9 @@
   "city": "Bourg-en-Bresse",
   "postal_code": "01000",
   "state": "France",
-  "price_min": "19",
-  "price_max": "69",
-  "phone": "+33 4 74 45 20 78",
+  "price_min": "19 euros",
+  "price_max": "69 euros",
+  "phone": "0474452078",
   "website": "http://www.restaurant-metsetvins.com",
   "experience": "Confortable"
 },{
@@ -3055,9 +3055,9 @@
   "city": "Munster",
   "postal_code": "68140",
   "state": "France",
-  "price_min": "20",
-  "price_max": "58",
-  "phone": "+33 3 89 77 15 15",
+  "price_min": "20 euros",
+  "price_max": "58 euros",
+  "phone": "0389771515",
   "website": "http://www.vertevallee.com",
   "experience": "Très confortable"
 },{
@@ -3067,9 +3067,9 @@
   "city": "Nice",
   "postal_code": "06000",
   "state": "France",
-  "price_min": "30",
-  "price_max": "33",
-  "phone": "+33 4 93 81 32 98",
+  "price_min": "30 euros",
+  "price_max": "33 euros",
+  "phone": "0493813298",
   "website": "http://www.restaurant-vegan.fr",
   "experience": "Assez confortable"
 },{
@@ -3079,18 +3079,18 @@
   "city": "Chamonix-Mont-Blanc",
   "postal_code": "74400",
   "state": "France",
-  "price_min": "28",
-  "price_max": "69",
-  "phone": "+33 4 50 47 04 66",
+  "price_min": "28 euros",
+  "price_max": "69 euros",
+  "phone": "0450470466",
   "website": "http://www.restaurant-latelecabine.fr",
   "experience": "Confortable"
 },{
   "name": "La Pointe du Cap Coz",
   "type": "Cuisine moderne",
   "street": "\n                                \n                                    \n                                        1 Offre\n                                    \n                                \n                            \n                                    \n                                        \n                                            1 Offre\n                                        \n                                    \n                                ",
-  "price_min": "34",
-  "price_max": "106",
-  "phone": "+33 2 98 56 01 63",
+  "price_min": "34 euros",
+  "price_max": "106 euros",
+  "phone": "0298560163",
   "experience": "Confortable"
 },{
   "name": "Chai l'amère Kolette",
@@ -3099,9 +3099,9 @@
   "city": "Kervignac",
   "postal_code": "56700",
   "state": "France",
-  "price_min": "19",
-  "price_max": "55",
-  "phone": "+33 2 97 36 28 74",
+  "price_min": "19 euros",
+  "price_max": "55 euros",
+  "phone": "0297362874",
   "experience": "Confortable"
 },{
   "name": "L'Aubépine",
@@ -3110,9 +3110,9 @@
   "city": "Aubenas",
   "postal_code": "07200",
   "state": "France",
-  "price_min": "23",
-  "price_max": "50",
-  "phone": "+33 4 75 35 01 28",
+  "price_min": "23 euros",
+  "price_max": "50 euros",
+  "phone": "0475350128",
   "website": "http://www.restaurant-aubepine.fr",
   "experience": "Assez confortable"
 },{
@@ -3122,9 +3122,9 @@
   "city": "Bardigues",
   "postal_code": "82340",
   "state": "France",
-  "price_min": "25",
-  "price_max": "52",
-  "phone": "+33 5 63 39 05 58",
+  "price_min": "25 euros",
+  "price_max": "52 euros",
+  "phone": "0563390558",
   "website": "http://www.aubergedebardigues.com",
   "experience": "Assez confortable"
 },{
@@ -3134,9 +3134,9 @@
   "city": "Sainte-Foy-la-Grande",
   "postal_code": "33220",
   "state": "France",
-  "price_min": "27",
-  "price_max": "37",
-  "phone": "+33 5 57 46 14 02",
+  "price_min": "27 euros",
+  "price_max": "37 euros",
+  "phone": "0557461402",
   "website": "http://www.cote-bastide.org",
   "experience": "Confortable"
 },{
@@ -3146,9 +3146,9 @@
   "city": "Cherbourg-en-Cotentin",
   "postal_code": "50100",
   "state": "France",
-  "price_min": "25",
-  "price_max": "62",
-  "phone": "+33 2 33 43 10 11",
+  "price_min": "25 euros",
+  "price_max": "62 euros",
+  "phone": "0233431011",
   "website": "http://www.levauban-cherbourg.fr",
   "experience": "Confortable"
 },{
@@ -3158,9 +3158,9 @@
   "city": "Les Gets",
   "postal_code": "74260",
   "state": "France",
-  "price_min": "33",
-  "price_max": "60",
-  "phone": "+33 4 50 80 62 53",
+  "price_min": "33 euros",
+  "price_max": "60 euros",
+  "phone": "0450806253",
   "experience": "Confortable"
 },{
   "name": "La Capitelle",
@@ -3169,9 +3169,9 @@
   "city": "Mirmande",
   "postal_code": "26270",
   "state": "France",
-  "price_min": "20",
-  "price_max": "44",
-  "phone": "+33 4 75 63 02 72",
+  "price_min": "20 euros",
+  "price_max": "44 euros",
+  "phone": "0475630272",
   "website": "http://www.lacapitelle.com",
   "experience": "Assez confortable"
 },{
@@ -3181,9 +3181,9 @@
   "city": "Saint-Avit-Sénieur",
   "postal_code": "24440",
   "state": "France",
-  "price_min": "33",
-  "price_max": "42",
-  "phone": "+33 5 53 57 89 15",
+  "price_min": "33 euros",
+  "price_max": "42 euros",
+  "phone": "0553578915",
   "website": "http://www.latabledeleo.fr",
   "experience": "Assez confortable"
 },{
@@ -3193,9 +3193,9 @@
   "city": "Paris",
   "postal_code": "75012",
   "state": "France",
-  "price_min": "24",
-  "price_max": "49",
-  "phone": "+33 1 56 58 04 73",
+  "price_min": "24 euros",
+  "price_max": "49 euros",
+  "phone": "0156580473",
   "website": "http://www.jouvence.paris",
   "experience": "Assez confortable"
 },{
@@ -3205,9 +3205,9 @@
   "city": "Annecy",
   "postal_code": "74000",
   "state": "France",
-  "price_min": "25",
-  "price_max": "65",
-  "phone": "+33 4 57 09 10 54",
+  "price_min": "25 euros",
+  "price_max": "65 euros",
+  "phone": "0457091054",
   "website": "http://www.restaurant-1ermets.fr",
   "experience": "Assez confortable"
 },{
@@ -3217,9 +3217,9 @@
   "city": "Étupes",
   "postal_code": "25460",
   "state": "France",
-  "price_min": "26",
-  "price_max": "66",
-  "phone": "+33 3 81 94 17 12",
+  "price_min": "26 euros",
+  "price_max": "66 euros",
+  "phone": "0381941712",
   "website": "http://www.aufildessaisons.eu",
   "experience": "Assez confortable"
 },{
@@ -3229,9 +3229,9 @@
   "city": "Paris",
   "postal_code": "75010",
   "state": "France",
-  "price_min": "35",
-  "price_max": "38",
-  "phone": "+33 1 44 53 06 20",
+  "price_min": "35 euros",
+  "price_max": "38 euros",
+  "phone": "0144530620",
   "website": "http://www.restaurantchezmichel.fr",
   "experience": "Assez confortable"
 },{
@@ -3241,9 +3241,9 @@
   "city": "Cogolin",
   "postal_code": "83310",
   "state": "France",
-  "price_min": "25",
-  "price_max": "60",
-  "phone": "+33 4 94 54 60 97",
+  "price_min": "25 euros",
+  "price_max": "60 euros",
+  "phone": "0494546097",
   "website": "http://www.grangeagapes.com",
   "experience": "Confortable"
 },{
@@ -3253,9 +3253,9 @@
   "city": "La Garenne-Colombes",
   "postal_code": "92250",
   "state": "France",
-  "price_min": "35",
-  "price_max": "60",
-  "phone": "+33 1 42 42 64 49",
+  "price_min": "35 euros",
+  "price_max": "60 euros",
+  "phone": "0142426449",
   "website": "http://www.lesaintjoseph-restaurant.fr",
   "experience": "Assez confortable"
 },{
@@ -3265,9 +3265,9 @@
   "city": "Sommières",
   "postal_code": "30250",
   "state": "France",
-  "price_min": "25",
-  "price_max": "66",
-  "phone": "+33 4 66 77 50 98",
+  "price_min": "25 euros",
+  "price_max": "66 euros",
+  "phone": "0466775098",
   "website": "http://www.le-patio-by-lou-caleou.com",
   "experience": "Assez confortable"
 },{
@@ -3277,9 +3277,9 @@
   "city": "Vesc",
   "postal_code": "26220",
   "state": "France",
-  "price_min": "34",
-  "price_max": "57",
-  "phone": "+33 4 75 04 20 74",
+  "price_min": "34 euros",
+  "price_max": "57 euros",
+  "phone": "0475042074",
   "website": "http://www.chezmonjules.com",
   "experience": "Assez confortable"
 },{
@@ -3289,9 +3289,9 @@
   "city": "Guiche",
   "postal_code": "64520",
   "state": "France",
-  "price_min": "31",
-  "price_max": "45",
-  "phone": "+33 5 59 56 46 63",
+  "price_min": "31 euros",
+  "price_max": "45 euros",
+  "phone": "0559564663",
   "website": "http://www.restaurant-le-gantxo.fr",
   "experience": "Assez confortable"
 },{
@@ -3301,9 +3301,9 @@
   "city": "Itterswiller",
   "postal_code": "67140",
   "state": "France",
-  "price_min": "24",
-  "price_max": "60",
-  "phone": "+33 3 88 85 50 58",
+  "price_min": "24 euros",
+  "price_max": "60 euros",
+  "phone": "0388855058",
   "website": "http://www.hotel-arnold.com",
   "experience": "Confortable"
 },{
@@ -3313,9 +3313,9 @@
   "city": "Condorcet",
   "postal_code": "26110",
   "state": "France",
-  "price_min": "26",
-  "price_max": "58",
-  "phone": "+33 4 75 27 72 33",
+  "price_min": "26 euros",
+  "price_max": "58 euros",
+  "phone": "0475277233",
   "website": "http://www.lacharrettebleue.net",
   "experience": "Assez confortable"
 },{
@@ -3325,9 +3325,9 @@
   "city": "Maillane",
   "postal_code": "13910",
   "state": "France",
-  "price_min": "34",
-  "price_max": "58",
-  "phone": "+33 4 90 95 74 60",
+  "price_min": "34 euros",
+  "price_max": "58 euros",
+  "phone": "0490957460",
   "website": "http://www.restaurant-saint-remy-de-provence.fr",
   "experience": "Confortable"
 },{
@@ -3337,9 +3337,9 @@
   "city": "San-Martino-di-Lota",
   "postal_code": "20200",
   "state": "France",
-  "price_min": "34",
-  "price_max": "80",
-  "phone": "+33 4 95 31 40 98",
+  "price_min": "34 euros",
+  "price_max": "80 euros",
+  "phone": "0495314098",
   "website": "http://www.hotel-lacorniche.com",
   "experience": "Confortable"
 },{
@@ -3349,9 +3349,9 @@
   "city": "Chédigny",
   "postal_code": "37310",
   "state": "France",
-  "price_min": "32",
-  "price_max": "58",
-  "phone": "+33 2 47 92 20 29",
+  "price_min": "32 euros",
+  "price_max": "58 euros",
+  "phone": "0247922029",
   "website": "http://www.leclosauxroses.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -3361,9 +3361,9 @@
   "city": "Dieppe",
   "postal_code": "76200",
   "state": "France",
-  "price_min": "30",
-  "price_max": "45",
-  "phone": "+33 2 35 84 68 57",
+  "price_min": "30 euros",
+  "price_max": "45 euros",
+  "phone": "0235846857",
   "website": "http://www.le-bistrot-du-pollet.zenchef.com",
   "experience": "Assez confortable"
 },{
@@ -3373,9 +3373,9 @@
   "city": "Zimmerbach",
   "postal_code": "68230",
   "state": "France",
-  "price_min": "16",
-  "price_max": "47",
-  "phone": "+33 3 89 71 05 69",
+  "price_min": "16 euros",
+  "price_max": "47 euros",
+  "phone": "0389710569",
   "website": "http://www.raisindor.fr",
   "experience": "Assez confortable"
 },{
@@ -3385,9 +3385,9 @@
   "city": "Ploubalay",
   "postal_code": "22650",
   "state": "France",
-  "price_min": "22",
-  "price_max": "70",
-  "phone": "+33 2 96 27 25 16",
+  "price_min": "22 euros",
+  "price_max": "70 euros",
+  "phone": "0296272516",
   "website": "http://www.restaurant-la-gare-ploubalay.com",
   "experience": "Confortable"
 },{
@@ -3397,9 +3397,9 @@
   "city": "Clermont-Ferrand",
   "postal_code": "63000",
   "state": "France",
-  "price_min": "18",
-  "price_max": "55",
-  "phone": "+33 4 73 29 16 16",
+  "price_min": "18 euros",
+  "price_max": "55 euros",
+  "phone": "0473291616",
   "website": "http://www.restaurant-bistrotdacote.fr",
   "experience": "Assez confortable"
 },{
@@ -3409,9 +3409,9 @@
   "city": "Saint-Lieux-lès-Lavaur",
   "postal_code": "81500",
   "state": "France",
-  "price_min": "15",
-  "price_max": "55",
-  "phone": "+33 5 63 41 32 47",
+  "price_min": "15 euros",
+  "price_max": "55 euros",
+  "phone": "0563413247",
   "website": "http://www.restaurantlecolvert.com",
   "experience": "Confortable"
 },{
@@ -3421,9 +3421,9 @@
   "city": "Mougins",
   "postal_code": "06250",
   "state": "France",
-  "price_min": "29",
-  "price_max": "77",
-  "phone": "+33 4 93 90 00 91",
+  "price_min": "29 euros",
+  "price_max": "77 euros",
+  "phone": "0493900091",
   "website": "http://www.amandier.fr",
   "experience": "Confortable"
 },{
@@ -3433,9 +3433,9 @@
   "city": "Puteaux",
   "postal_code": "92800",
   "state": "France",
-  "price_min": "36",
-  "price_max": "65",
-  "phone": "+33 1 41 37 00 00",
+  "price_min": "36 euros",
+  "price_max": "65 euros",
+  "phone": "0141370000",
   "website": "http://www.saperlipopette1.fr",
   "experience": "Confortable"
 },{
@@ -3445,9 +3445,9 @@
   "city": "Nancy",
   "postal_code": "54000",
   "state": "France",
-  "price_min": "22",
-  "price_max": "50",
-  "phone": "+33 3 83 22 37 18",
+  "price_min": "22 euros",
+  "price_max": "50 euros",
+  "phone": "0383223718",
   "website": "http://www.madamerestaurant.fr",
   "experience": "Assez confortable"
 },{
@@ -3457,9 +3457,9 @@
   "city": "Château-Thébaud",
   "postal_code": "44690",
   "state": "France",
-  "price_min": "15",
-  "price_max": "29",
-  "phone": "+33 2 28 21 31 16",
+  "price_min": "15 euros",
+  "price_max": "29 euros",
+  "phone": "0228213116",
   "website": "http://www.auberge-la-gaillotiere.fr",
   "experience": "Confortable"
 },{
@@ -3469,9 +3469,9 @@
   "city": "Hérouville-Saint-Clair",
   "postal_code": "14200",
   "state": "France",
-  "price_min": "22",
-  "price_max": "63",
-  "phone": "+33 2 31 44 97 10",
+  "price_min": "22 euros",
+  "price_max": "63 euros",
+  "phone": "0231449710",
   "website": "http://www.esperance-stephanecarbone.fr",
   "experience": "Confortable"
 },{
@@ -3481,18 +3481,18 @@
   "city": "Geneston",
   "postal_code": "44140",
   "state": "France",
-  "price_min": "30",
-  "price_max": "51",
-  "phone": "+33 2 40 04 77 88",
+  "price_min": "30 euros",
+  "price_max": "51 euros",
+  "phone": "0240047788",
   "website": "http://www.restaurantlepelican.fr",
   "experience": "Confortable"
 },{
   "name": "La Table d'Antoine",
   "type": "Cuisine moderne",
   "street": "\n                                \n                                    \n                                        1 Offre\n                                    \n                                \n                            \n                                    \n                                        \n                                            1 Offre\n                                        \n                                    \n                                ",
-  "price_min": "29",
-  "price_max": "77",
-  "phone": "+33 4 70 98 99 71",
+  "price_min": "29 euros",
+  "price_max": "77 euros",
+  "phone": "0470989971",
   "experience": "Confortable"
 },{
   "name": "Auberge de la Fontaine du Berger",
@@ -3501,9 +3501,9 @@
   "city": "Orcines",
   "postal_code": "63870",
   "state": "France",
-  "price_min": "33",
-  "price_max": "66",
-  "phone": "+33 4 73 62 10 52",
+  "price_min": "33 euros",
+  "price_max": "66 euros",
+  "phone": "0473621052",
   "website": "http://www.auberge.fr",
   "experience": "Assez confortable"
 },{
@@ -3513,9 +3513,9 @@
   "city": "Richardménil",
   "postal_code": "54630",
   "state": "France",
-  "price_min": "32",
-  "price_max": "65",
-  "phone": "+33 3 83 25 62 10",
+  "price_min": "32 euros",
+  "price_max": "65 euros",
+  "phone": "0383256210",
   "website": "http://www.aubonaccueil-restaurant.com",
   "experience": "Confortable"
 },{
@@ -3525,9 +3525,9 @@
   "city": "Illkirch-Graffenstaden",
   "postal_code": "67400",
   "state": "France",
-  "price_min": "30",
-  "price_max": "39",
-  "phone": "+33 3 88 66 06 58",
+  "price_min": "30 euros",
+  "price_max": "39 euros",
+  "phone": "0388660658",
   "website": "http://www.agneau-illkirch.fr",
   "experience": "Confortable"
 },{
@@ -3537,9 +3537,9 @@
   "city": "Périgueux",
   "postal_code": "24000",
   "state": "France",
-  "price_min": "24",
-  "price_max": "69",
-  "phone": "+33 5 53 04 56 71",
+  "price_min": "24 euros",
+  "price_max": "69 euros",
+  "phone": "0553045671",
   "website": "http://www.restaurant-perigueux-atelier.com",
   "experience": "Assez confortable"
 },{
@@ -3549,9 +3549,9 @@
   "city": "Saint-Martin-d'Uriage",
   "postal_code": "38410",
   "state": "France",
-  "price_min": "33",
-  "price_max": "",
-  "phone": "+33 4 58 17 48 30",
+  "price_min": "33 euros",
+  "price_max": " euros",
+  "phone": "0458174830",
   "website": "http://www.maisonaribert.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -3561,9 +3561,9 @@
   "city": "Châteaudun",
   "postal_code": "28200",
   "state": "France",
-  "price_min": "33",
-  "price_max": "68",
-  "phone": "+33 2 37 45 74 40",
+  "price_min": "33 euros",
+  "price_max": "68 euros",
+  "phone": "0237457440",
   "website": "http://www.aux-trois-pastoureaux.fr",
   "experience": "Confortable"
 },{
@@ -3573,9 +3573,9 @@
   "city": "Chamonix-Mont-Blanc",
   "postal_code": "74400",
   "state": "France",
-  "price_min": "34",
-  "price_max": "65",
-  "phone": "+33 4 50 54 55 56",
+  "price_min": "34 euros",
+  "price_max": "65 euros",
+  "phone": "0450545556",
   "website": "http://restaurant-akashon.com",
   "experience": "Assez confortable"
 },{
@@ -3585,9 +3585,9 @@
   "city": "Noirmoutier-en-l'Île",
   "postal_code": "85330",
   "state": "France",
-  "price_min": "32",
-  "price_max": "40",
-  "phone": "+33 2 51 54 93 95",
+  "price_min": "32 euros",
+  "price_max": "40 euros",
+  "phone": "0251549395",
   "website": "https://lassietteaujardin.fr",
   "experience": "Assez confortable"
 },{
@@ -3597,9 +3597,9 @@
   "city": "Puy-l'Évêque",
   "postal_code": "46700",
   "state": "France",
-  "price_min": "15",
-  "price_max": "35",
-  "phone": "+33 9 86 31 80 88",
+  "price_min": "15 euros",
+  "price_max": "35 euros",
+  "phone": "0986318088",
   "website": "http://www.lemedieval-puyleveque.fr",
   "experience": "Assez confortable"
 },{
@@ -3609,9 +3609,9 @@
   "city": "Les Saisies",
   "postal_code": "73620",
   "state": "France",
-  "price_min": "32",
-  "price_max": "65",
-  "phone": "+33 4 79 89 26 15",
+  "price_min": "32 euros",
+  "price_max": "65 euros",
+  "phone": "0479892615",
   "website": "http://www.latabledesarmaillis.fr",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -3621,9 +3621,9 @@
   "city": "Port-Lesney",
   "postal_code": "39330",
   "state": "France",
-  "price_min": "32",
-  "price_max": "",
-  "phone": "+33 3 84 37 83 27",
+  "price_min": "32 euros",
+  "price_max": " euros",
+  "phone": "0384378327",
   "website": "http://www.bistrotdeportlesney.com",
   "experience": "Assez confortable"
 },{
@@ -3633,9 +3633,9 @@
   "city": "Saint-Péray",
   "postal_code": "07130",
   "state": "France",
-  "price_min": "24",
-  "price_max": "35",
-  "phone": "+33 9 82 40 44 38",
+  "price_min": "24 euros",
+  "price_max": "35 euros",
+  "phone": "0982404438",
   "website": "http://www.laruche-saintperay.com",
   "experience": "Assez confortable"
 },{
@@ -3645,9 +3645,9 @@
   "city": "Gien",
   "postal_code": "45500",
   "state": "France",
-  "price_min": "27",
-  "price_max": "30",
-  "phone": "+33 2 38 67 84 40",
+  "price_min": "27 euros",
+  "price_max": "30 euros",
+  "phone": "0238678440",
   "website": "http://www.ptitbouchon.fr",
   "experience": "Assez confortable"
 },{
@@ -3656,9 +3656,9 @@
   "street": "Pigna",
   "city": "20220",
   "postal_code": "FrancePigna",
-  "price_min": "25",
-  "price_max": "50",
-  "phone": "+33 4 95 32 71 24",
+  "price_min": "25 euros",
+  "price_max": "50 euros",
+  "phone": "0495327124",
   "website": "http://www.amandria.com",
   "experience": "Assez confortable"
 },{
@@ -3668,9 +3668,9 @@
   "city": "Villefranche-de-Rouergue",
   "postal_code": "12200",
   "state": "France",
-  "price_min": "18",
-  "price_max": "68",
-  "phone": "+33 5 65 45 15 63",
+  "price_min": "18 euros",
+  "price_max": "68 euros",
+  "phone": "0565451563",
   "website": "http://www.lunivers-villefranche.com",
   "experience": "Assez confortable"
 },{
@@ -3680,9 +3680,9 @@
   "city": "Laroque-des-Albères",
   "postal_code": "66740",
   "state": "France",
-  "price_min": "33",
-  "price_max": "39",
-  "phone": "+33 4 34 12 36 51",
+  "price_min": "33 euros",
+  "price_max": "39 euros",
+  "phone": "0434123651",
   "website": "http://www.cotesaisons.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -3692,9 +3692,9 @@
   "city": "Juvigny-sous-Andaine",
   "postal_code": "61140",
   "state": "France",
-  "price_min": "22",
-  "price_max": "62",
-  "phone": "+33 2 33 38 10 04",
+  "price_min": "22 euros",
+  "price_max": "62 euros",
+  "phone": "0233381004",
   "website": "http://www.aubonaccueil-normand.com",
   "experience": "Confortable"
 },{
@@ -3704,9 +3704,9 @@
   "city": "Feldbach",
   "postal_code": "68640",
   "state": "France",
-  "price_min": "23",
-  "price_max": "56",
-  "phone": "+33 3 89 25 81 86",
+  "price_min": "23 euros",
+  "price_max": "56 euros",
+  "phone": "0389258186",
   "website": "http://www.cheval-blanc-feldbach.fr",
   "experience": "Confortable"
 },{
@@ -3716,9 +3716,9 @@
   "city": "Bandol",
   "postal_code": "83150",
   "state": "France",
-  "price_min": "33",
-  "price_max": "78",
-  "phone": "+33 4 94 05 85 29",
+  "price_min": "33 euros",
+  "price_max": "78 euros",
+  "phone": "0494058529",
   "website": "http://www.lesperance-bandol.com",
   "experience": "Confortable"
 },{
@@ -3728,9 +3728,9 @@
   "city": "La Roque-Gageac",
   "postal_code": "24250",
   "state": "France",
-  "price_min": "25",
-  "price_max": "65",
-  "phone": "+33 5 53 29 58 53",
+  "price_min": "25 euros",
+  "price_max": "65 euros",
+  "phone": "0553295853",
   "website": "http://www.o-plaisirdessens.com",
   "experience": "Confortable"
 },{
@@ -3740,9 +3740,9 @@
   "city": "Belleville",
   "postal_code": "69220",
   "state": "France",
-  "price_min": "19",
-  "price_max": "46",
-  "phone": "+33 4 74 66 05 31",
+  "price_min": "19 euros",
+  "price_max": "46 euros",
+  "phone": "0474660531",
   "website": "http://www.restaurant-le-beaujolais.com",
   "experience": "Assez confortable"
 },{
@@ -3752,9 +3752,9 @@
   "city": "Gasny",
   "postal_code": "27620",
   "state": "France",
-  "price_min": "33",
-  "price_max": "74",
-  "phone": "+33 2 32 52 10 01",
+  "price_min": "33 euros",
+  "price_max": "74 euros",
+  "phone": "0232521001",
   "website": "http://www.aubergeduprieurenormand.com",
   "experience": "Confortable"
 },{
@@ -3764,9 +3764,9 @@
   "city": "Lyon",
   "postal_code": "69006",
   "state": "France",
-  "price_min": "25",
-  "price_max": "44",
-  "phone": "+33 4 78 37 37 97",
+  "price_min": "25 euros",
+  "price_max": "44 euros",
+  "phone": "0478373797",
   "website": "http://www.lejeanmoulin-lyon.com",
   "experience": "Assez confortable"
 },{
@@ -3776,9 +3776,9 @@
   "city": "Saint-Étienne-de-Baïgorry",
   "postal_code": "64430",
   "state": "France",
-  "price_min": "32",
-  "price_max": "60",
-  "phone": "+33 5 59 37 40 14",
+  "price_min": "32 euros",
+  "price_max": "60 euros",
+  "phone": "0559374014",
   "website": "http://www.hotel-arce.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -3788,9 +3788,9 @@
   "city": "La Roche-Bernard",
   "postal_code": "56130",
   "state": "France",
-  "price_min": "24",
-  "price_max": "50",
-  "phone": "+33 2 99 90 60 75",
+  "price_min": "24 euros",
+  "price_max": "50 euros",
+  "phone": "0299906075",
   "website": "http://www.aubergedesdeuxmagots.fr",
   "experience": "Confortable"
 },{
@@ -3800,9 +3800,9 @@
   "city": "Montpellier",
   "postal_code": "34000",
   "state": "France",
-  "price_min": "26",
-  "price_max": "45",
-  "phone": "+33 4 67 67 91 86",
+  "price_min": "26 euros",
+  "price_max": "45 euros",
+  "phone": "0467679186",
   "website": "http://www.artichaut-restaurant.com",
   "experience": "Assez confortable"
 },{
@@ -3812,9 +3812,9 @@
   "city": "Le Rozier",
   "postal_code": "48150",
   "state": "France",
-  "price_min": "29",
-  "price_max": "39",
-  "phone": "+33 5 65 62 60 25",
+  "price_min": "29 euros",
+  "price_max": "39 euros",
+  "phone": "0565626025",
   "website": "http://www.hotel-doussiere.com",
   "experience": "Assez confortable"
 },{
@@ -3824,9 +3824,9 @@
   "city": "Toulouse",
   "postal_code": "31000",
   "state": "France",
-  "price_min": "22",
-  "price_max": "32",
-  "phone": "+33 5 67 06 54 08",
+  "price_min": "22 euros",
+  "price_max": "32 euros",
+  "phone": "0567065408",
   "website": "http://lairdefamilletoulouse.wordpress.com",
   "experience": "Assez confortable"
 },{
@@ -3836,9 +3836,9 @@
   "city": "Saintes",
   "postal_code": "17100",
   "state": "France",
-  "price_min": "34",
-  "price_max": "89",
-  "phone": "+33 5 46 93 50 99",
+  "price_min": "34 euros",
+  "price_max": "89 euros",
+  "phone": "0546935099",
   "website": "http://www.relaisdubois.com",
   "experience": "Très confortable"
 },{
@@ -3848,9 +3848,9 @@
   "city": "Villefranche-de-Rouergue",
   "postal_code": "12200",
   "state": "France",
-  "price_min": "23",
-  "price_max": "70",
-  "phone": "+33 5 65 65 83 64",
+  "price_min": "23 euros",
+  "price_max": "70 euros",
+  "phone": "0565658364",
   "website": "http://www.cote-saveurs.fr",
   "experience": "Confortable"
 },{
@@ -3860,9 +3860,9 @@
   "city": "Cluny",
   "postal_code": "71250",
   "state": "France",
-  "price_min": "29",
-  "price_max": "60",
-  "phone": "+33 3 85 59 05 65",
+  "price_min": "29 euros",
+  "price_max": "60 euros",
+  "phone": "0385590565",
   "website": "http://www.hostelleriedheloise.com",
   "experience": "Confortable"
 },{
@@ -3872,9 +3872,9 @@
   "city": "Saint-Gildas-de-Rhuys",
   "postal_code": "56730",
   "state": "France",
-  "price_min": "29",
-  "price_max": "50",
-  "phone": "+33 2 97 45 25 25",
+  "price_min": "29 euros",
+  "price_max": "50 euros",
+  "phone": "0297452525",
   "website": "http://www.levertdo.fr",
   "experience": "Confortable"
 },{
@@ -3884,9 +3884,9 @@
   "city": "Albi",
   "postal_code": "81000",
   "state": "France",
-  "price_min": "22",
-  "price_max": "55",
-  "phone": "+33 5 63 53 10 70",
+  "price_min": "22 euros",
+  "price_max": "55 euros",
+  "phone": "0563531070",
   "website": "http://www.restaurantlepicurien.com",
   "experience": "Confortable"
 },{
@@ -3896,9 +3896,9 @@
   "city": "Guidel",
   "postal_code": "56520",
   "state": "France",
-  "price_min": "20",
-  "price_max": "38",
-  "phone": "+33 2 97 32 42 07",
+  "price_min": "20 euros",
+  "price_max": "38 euros",
+  "phone": "0297324207",
   "experience": "Confortable"
 },{
   "name": "Auberge Pyrénées Cévennes",
@@ -3907,9 +3907,9 @@
   "city": "Paris",
   "postal_code": "75011",
   "state": "France",
-  "price_min": "36",
-  "price_max": "72",
-  "phone": "+33 1 43 57 33 78",
+  "price_min": "36 euros",
+  "price_max": "72 euros",
+  "phone": "0143573378",
   "website": "http://www.auberge-pyrenees-cevennes.fr",
   "experience": "Assez confortable"
 },{
@@ -3919,9 +3919,9 @@
   "city": "Lyon",
   "postal_code": "69003",
   "state": "France",
-  "price_min": "31",
-  "price_max": "64",
-  "phone": "+33 4 78 60 66 53",
+  "price_min": "31 euros",
+  "price_max": "64 euros",
+  "phone": "0478606653",
   "website": "http://www.daniel-et-denise.fr",
   "experience": "Assez confortable"
 },{
@@ -3931,9 +3931,9 @@
   "city": "Honfleur",
   "postal_code": "14600",
   "state": "France",
-  "price_min": "34",
-  "price_max": "75",
-  "phone": "+33 2 31 89 01 92",
+  "price_min": "34 euros",
+  "price_max": "75 euros",
+  "phone": "0231890192",
   "website": "http://www.lafleurdesel-honfleur.com",
   "experience": "Confortable"
 },{
@@ -3943,9 +3943,9 @@
   "city": "Nice",
   "postal_code": "06000",
   "state": "France",
-  "price_min": "34",
-  "price_max": "40",
-  "phone": "www.lamerenda.net",
+  "price_min": "34 euros",
+  "price_max": "40 euros",
+  "phone": "0",
   "website": "http://www.lamerenda.net",
   "experience": "Assez confortable"
 },{
@@ -3955,9 +3955,9 @@
   "city": "Saint-Chamas",
   "postal_code": "13250",
   "state": "France",
-  "price_min": "31",
-  "price_max": "50",
-  "phone": "+33 4 90 50 84 40",
+  "price_min": "31 euros",
+  "price_max": "50 euros",
+  "phone": "0490508440",
   "website": "http://www.restaurant-le-rabelais.com",
   "experience": "Confortable"
 },{
@@ -3967,9 +3967,9 @@
   "city": "Paris",
   "postal_code": "75009",
   "state": "France",
-  "price_min": "25",
-  "price_max": "40",
-  "phone": "+33 1 45 23 51 68",
+  "price_min": "25 euros",
+  "price_max": "40 euros",
+  "phone": "0145235168",
   "experience": "Assez confortable"
 },{
   "name": "L'Auberge...",
@@ -3978,9 +3978,9 @@
   "city": "Caëstre",
   "postal_code": "59190",
   "state": "France",
-  "price_min": "19",
-  "price_max": "33",
-  "phone": "+33 3 28 40 25 25",
+  "price_min": "19 euros",
+  "price_max": "33 euros",
+  "phone": "0328402525",
   "website": "http://www.laubergecaestre.com",
   "experience": "Assez confortable"
 },{
@@ -3990,9 +3990,9 @@
   "city": "Toulouse",
   "postal_code": "31000",
   "state": "France",
-  "price_min": "26",
-  "price_max": "33",
-  "phone": "+33 5 61 38 50 79",
+  "price_min": "26 euros",
+  "price_max": "33 euros",
+  "phone": "0561385079",
   "website": "http://www.nino-restaurant.com",
   "experience": "Assez confortable"
 },{
@@ -4002,9 +4002,9 @@
   "city": "Bidart",
   "postal_code": "64210",
   "state": "France",
-  "price_min": "32",
-  "price_max": "",
-  "phone": "+33 5 59 22 58 81",
+  "price_min": "32 euros",
+  "price_max": " euros",
+  "phone": "0559225881",
   "experience": "Assez confortable"
 },{
   "name": "La Ferme du Vert",
@@ -4013,9 +4013,9 @@
   "city": "Wierre-Effroy",
   "postal_code": "62720",
   "state": "France",
-  "price_min": "34",
-  "price_max": "65",
-  "phone": "+33 3 21 87 67 00",
+  "price_min": "34 euros",
+  "price_max": "65 euros",
+  "phone": "0321876700",
   "website": "http://www.fermeduvert.com",
   "experience": "Assez confortable"
 },{
@@ -4025,9 +4025,9 @@
   "city": "Chabrits",
   "postal_code": "48000",
   "state": "France",
-  "price_min": "25",
-  "price_max": "50",
-  "phone": "+33 4 66 49 31 54",
+  "price_min": "25 euros",
+  "price_max": "50 euros",
+  "phone": "0466493154",
   "website": "http://www.restaurant-la-safraniere.fr",
   "experience": "Confortable"
 },{
@@ -4037,9 +4037,9 @@
   "city": "Tournon-sur-Rhône",
   "postal_code": "07300",
   "state": "France",
-  "price_min": "32",
-  "price_max": "65",
-  "phone": "+33 4 75 08 91 02",
+  "price_min": "32 euros",
+  "price_max": "65 euros",
+  "phone": "0475089102",
   "website": "http://www.lecerisier-restaurant.fr",
   "experience": "Confortable"
 },{
@@ -4049,9 +4049,9 @@
   "city": "Bayeux",
   "postal_code": "14400",
   "state": "France",
-  "price_min": "33",
-  "price_max": "62",
-  "phone": "+33 2 31 92 03 01",
+  "price_min": "33 euros",
+  "price_max": "62 euros",
+  "phone": "0231920301",
   "website": "http://www.langlesaintlaurent.com",
   "experience": "Confortable"
 },{
@@ -4061,9 +4061,9 @@
   "city": "Lyon",
   "postal_code": "69004",
   "state": "France",
-  "price_min": "23",
-  "price_max": "44",
-  "phone": "+33 4 78 29 14 93",
+  "price_min": "23 euros",
+  "price_max": "44 euros",
+  "phone": "0478291493",
   "website": "http://www.substrat-restaurant.com",
   "experience": "Assez confortable"
 },{
@@ -4073,9 +4073,9 @@
   "city": "Apremont",
   "postal_code": "60300",
   "state": "France",
-  "price_min": "32",
-  "price_max": "99",
-  "phone": "+33 3 44 25 33 79",
+  "price_min": "32 euros",
+  "price_max": "99 euros",
+  "phone": "0344253379",
   "website": "http://www.lagrangeauxloups.com",
   "experience": "Confortable"
 },{
@@ -4085,9 +4085,9 @@
   "city": "Bourg-Charente",
   "postal_code": "16200",
   "state": "France",
-  "price_min": "32",
-  "price_max": "",
-  "phone": "+33 5 45 81 30 54",
+  "price_min": "32 euros",
+  "price_max": " euros",
+  "phone": "0545813054",
   "website": "http://www.laribaudiere.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -4097,9 +4097,9 @@
   "city": "Wœlfling-lès-Sarreguemines",
   "postal_code": "57200",
   "state": "France",
-  "price_min": "30",
-  "price_max": "94",
-  "phone": "+33 3 87 02 38 21",
+  "price_min": "30 euros",
+  "price_max": "94 euros",
+  "phone": "0387023821",
   "experience": "Confortable"
 },{
   "name": "La Poutre",
@@ -4108,9 +4108,9 @@
   "city": "Bonlieu",
   "postal_code": "39130",
   "state": "France",
-  "price_min": "34",
-  "price_max": "95",
-  "phone": "+33 3 84 25 57 77",
+  "price_min": "34 euros",
+  "price_max": "95 euros",
+  "phone": "0384255777",
   "website": "http://www.aubergedelapoutre.com",
   "experience": "Confortable"
 },{
@@ -4120,9 +4120,9 @@
   "city": "Lyon",
   "postal_code": "69007",
   "state": "France",
-  "price_min": "20",
-  "price_max": "50",
-  "phone": "+33 4 78 69 45 31",
+  "price_min": "20 euros",
+  "price_max": "50 euros",
+  "phone": "0478694531",
   "experience": "Assez confortable"
 },{
   "name": "L'Auberge du Laminak",
@@ -4131,9 +4131,9 @@
   "city": "Montcy-Notre-Dame",
   "postal_code": "08090",
   "state": "France",
-  "price_min": "17",
-  "price_max": "46",
-  "phone": "+33 3 24 33 37 55",
+  "price_min": "17 euros",
+  "price_max": "46 euros",
+  "phone": "0324333755",
   "website": "http://www.auberge-ardennes.com",
   "experience": "Confortable"
 },{
@@ -4143,9 +4143,9 @@
   "city": "Clermont-Ferrand",
   "postal_code": "63000",
   "state": "France",
-  "price_min": "20",
-  "price_max": "60",
-  "phone": "+33 4 73 90 30 59",
+  "price_min": "20 euros",
+  "price_max": "60 euros",
+  "phone": "0473903059",
   "website": "http://www.ungraindesaveur.fr",
   "experience": "Assez confortable"
 },{
@@ -4155,9 +4155,9 @@
   "city": "Orléans",
   "postal_code": "45000",
   "state": "France",
-  "price_min": "19",
-  "price_max": "42",
-  "phone": "+33 2 38 62 07 50",
+  "price_min": "19 euros",
+  "price_max": "42 euros",
+  "phone": "0238620750",
   "website": "http://www.restaurant-la-parenthese.com",
   "experience": "Assez confortable"
 },{
@@ -4167,9 +4167,9 @@
   "city": "Combes",
   "postal_code": "34240",
   "state": "France",
-  "price_min": "25",
-  "price_max": "65",
-  "phone": "+33 4 67 95 66 55",
+  "price_min": "25 euros",
+  "price_max": "65 euros",
+  "phone": "0467956655",
   "website": "http://www.aubergedecombes.com",
   "experience": "Assez confortable"
 },{
@@ -4179,9 +4179,9 @@
   "city": "Pont-Sainte-Marie",
   "postal_code": "10150",
   "state": "France",
-  "price_min": "19",
-  "price_max": "63",
-  "phone": "+33 3 25 80 90 99",
+  "price_min": "19 euros",
+  "price_max": "63 euros",
+  "phone": "0325809099",
   "website": "http://www.bistrotdupont.com",
   "experience": "Assez confortable"
 },{
@@ -4191,9 +4191,9 @@
   "city": "Clermont-Ferrand",
   "postal_code": "63000",
   "state": "France",
-  "price_min": "18",
-  "price_max": "60",
-  "phone": "+33 4 73 26 79 95",
+  "price_min": "18 euros",
+  "price_max": "60 euros",
+  "phone": "0473267995",
   "website": "http://www.lechardonnay.fr",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -4203,9 +4203,9 @@
   "city": "Paris",
   "postal_code": "75010",
   "state": "France",
-  "price_min": "33",
-  "price_max": "44",
-  "phone": "www.faubourgstden",
+  "price_min": "33 euros",
+  "price_max": "44 euros",
+  "phone": "0",
   "website": "http://www.faubourgstdenis.com",
   "experience": "Assez confortable"
 },{
@@ -4215,18 +4215,18 @@
   "city": "Coligny",
   "postal_code": "01270",
   "state": "France",
-  "price_min": "23",
-  "price_max": "108",
-  "phone": "+33 4 74 30 10 07",
+  "price_min": "23 euros",
+  "price_max": "108 euros",
+  "phone": "0474301007",
   "website": "http://www.aupetitrelais.fr",
   "experience": "Confortable"
 },{
   "name": "Au Cheval Blanc",
   "type": "Cuisine traditionnelle",
   "street": "\n                                \n                                    \n                                        3 Offres\n                                    \n                                \n                            \n                                    \n                                        \n                                            3 Offres\n                                        \n                                    \n                                ",
-  "price_min": "28",
-  "price_max": "55",
-  "phone": "+33 3 88 70 17 11",
+  "price_min": "28 euros",
+  "price_max": "55 euros",
+  "phone": "0388701711",
   "experience": "Confortable"
 },{
   "name": "Le Réciproque",
@@ -4235,18 +4235,18 @@
   "city": "Paris",
   "postal_code": "75018",
   "state": "France",
-  "price_min": "25",
-  "price_max": "45",
-  "phone": "+33 9 86 37 80 77",
+  "price_min": "25 euros",
+  "price_max": "45 euros",
+  "phone": "0986378077",
   "website": "http://www.lereciproque.com",
   "experience": "Assez confortable"
 },{
   "name": "Le Quai",
   "type": "Cuisine traditionnelle",
   "street": "\n                                \n                                    \n                                        2 Offres\n                                    \n                                \n                            \n                                    \n                                        \n                                            2 Offres\n                                        \n                                    \n                                ",
-  "price_min": "24",
-  "price_max": "61",
-  "phone": "+33 4 75 07 05 90",
+  "price_min": "24 euros",
+  "price_max": "61 euros",
+  "phone": "0475070590",
   "experience": "Assez confortable"
 },{
   "name": "Le Lancelot",
@@ -4255,9 +4255,9 @@
   "city": "Chilleurs-aux-Bois",
   "postal_code": "45170",
   "state": "France",
-  "price_min": "29",
-  "price_max": "80",
-  "phone": "+33 2 38 32 91 15",
+  "price_min": "29 euros",
+  "price_max": "80 euros",
+  "phone": "0238329115",
   "website": "http://www.restaurantlelancelot.com",
   "experience": "Confortable"
 },{
@@ -4267,9 +4267,9 @@
   "city": "Bressieux",
   "postal_code": "38870",
   "state": "France",
-  "price_min": "32",
-  "price_max": "76",
-  "phone": "+33 4 74 20 91 01",
+  "price_min": "32 euros",
+  "price_max": "76 euros",
+  "phone": "0474209101",
   "website": "http://www.aubergedebressieux.fr",
   "experience": "Confortable"
 },{
@@ -4279,9 +4279,9 @@
   "city": "Paris",
   "postal_code": "75020",
   "state": "France",
-  "price_min": "20",
-  "price_max": "40",
-  "phone": "+33 1 43 67 51 15",
+  "price_min": "20 euros",
+  "price_max": "40 euros",
+  "phone": "0143675115",
   "experience": "Assez confortable"
 },{
   "name": "L'Affranchi",
@@ -4290,9 +4290,9 @@
   "city": "Agen",
   "postal_code": "47000",
   "state": "France",
-  "price_min": "16",
-  "price_max": "47",
-  "phone": "+33 5 53 95 67 59",
+  "price_min": "16 euros",
+  "price_max": "47 euros",
+  "phone": "0553956759",
   "website": "http://www.restaurant-laffranchi.com",
   "experience": "Confortable"
 },{
@@ -4302,9 +4302,9 @@
   "city": "Billy",
   "postal_code": "03260",
   "state": "France",
-  "price_min": "21",
-  "price_max": "63",
-  "phone": "+33 4 70 43 50 09",
+  "price_min": "21 euros",
+  "price_max": "63 euros",
+  "phone": "0470435009",
   "website": "http://www.auberge-du-pont-billy.fr",
   "experience": "Assez confortable"
 },{
@@ -4314,9 +4314,9 @@
   "city": "Montgibaud",
   "postal_code": "19210",
   "state": "France",
-  "price_min": "31",
-  "price_max": "57",
-  "phone": "+33 5 55 98 01 96",
+  "price_min": "31 euros",
+  "price_max": "57 euros",
+  "phone": "0555980196",
   "experience": "Assez confortable"
 },{
   "name": "In Extremis",
@@ -4325,9 +4325,9 @@
   "city": "Épinal",
   "postal_code": "88000",
   "state": "France",
-  "price_min": "25",
-  "price_max": "59",
-  "phone": "+33 3 29 35 46 41",
+  "price_min": "25 euros",
+  "price_max": "59 euros",
+  "phone": "0329354641",
   "website": "http://www.restaurant-inextremis.com",
   "experience": "Assez confortable"
 },{
@@ -4337,9 +4337,9 @@
   "city": "Guilvinec",
   "postal_code": "29730",
   "state": "France",
-  "price_min": "20",
-  "price_max": "59",
-  "phone": "+33 2 98 58 23 83",
+  "price_min": "20 euros",
+  "price_max": "59 euros",
+  "phone": "0298582383",
   "website": "http://www.lepoissondavril.fr",
   "experience": "Assez confortable"
 },{
@@ -4349,9 +4349,9 @@
   "city": "Paris",
   "postal_code": "75008",
   "state": "France",
-  "price_min": "28",
-  "price_max": "45",
-  "phone": "+33 1 71 26 77 28",
+  "price_min": "28 euros",
+  "price_max": "45 euros",
+  "phone": "0171267728",
   "website": "http://www.udon-kisin.fr",
   "experience": "Assez confortable"
 },{
@@ -4361,9 +4361,9 @@
   "city": "Nîmes",
   "postal_code": "30000",
   "state": "France",
-  "price_min": "27",
-  "price_max": "70",
-  "phone": "+33 4 66 23 59 04",
+  "price_min": "27 euros",
+  "price_max": "70 euros",
+  "phone": "0466235904",
   "experience": "Assez confortable"
 },{
   "name": "Le Garriane",
@@ -4372,9 +4372,9 @@
   "city": "Perpignan",
   "postal_code": "66000",
   "state": "France",
-  "price_min": "25",
-  "price_max": "55",
-  "phone": "+33 4 68 67 07 44",
+  "price_min": "25 euros",
+  "price_max": "55 euros",
+  "phone": "0468670744",
   "experience": "Assez confortable"
 },{
   "name": "Auberge de la Roche",
@@ -4383,9 +4383,9 @@
   "city": "Saint-Jean-de-Linières",
   "postal_code": "49070",
   "state": "France",
-  "price_min": "24",
-  "price_max": "62",
-  "phone": "+33 2 41 39 72 21",
+  "price_min": "24 euros",
+  "price_max": "62 euros",
+  "phone": "0241397221",
   "website": "http://www.auberge-de-la-roche.com",
   "experience": "Confortable"
 },{
@@ -4395,9 +4395,9 @@
   "city": "Royat",
   "postal_code": "63130",
   "state": "France",
-  "price_min": "25",
-  "price_max": "88",
-  "phone": "+33 4 73 35 63 63",
+  "price_min": "25 euros",
+  "price_max": "88 euros",
+  "phone": "0473356363",
   "website": "http://www.princesse-flore-hotel.com",
   "experience": "Confortable"
 },{
@@ -4407,9 +4407,9 @@
   "city": "Saint-Lizier",
   "postal_code": "09190",
   "state": "France",
-  "price_min": "23",
-  "price_max": "65",
-  "phone": "+33 5 61 65 65 65",
+  "price_min": "23 euros",
+  "price_max": "65 euros",
+  "phone": "0561656565",
   "website": "http://www.lecarredelange.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -4419,9 +4419,9 @@
   "city": "Le Cannet",
   "postal_code": "06110",
   "state": "France",
-  "price_min": "33",
-  "price_max": "54",
-  "phone": "+33 4 93 94 42 03",
+  "price_min": "33 euros",
+  "price_max": "54 euros",
+  "phone": "0493944203",
   "website": "http://www.bistrotsaintsauveur.fr",
   "experience": "Assez confortable"
 },{
@@ -4431,9 +4431,9 @@
   "city": "Toulouse",
   "postal_code": "31000",
   "state": "France",
-  "price_min": "21",
-  "price_max": "40",
-  "phone": "+33 5 61 25 07 07",
+  "price_min": "21 euros",
+  "price_max": "40 euros",
+  "phone": "0561250707",
   "website": "http://www.maisonmarius.com",
   "experience": "Assez confortable"
 },{
@@ -4443,9 +4443,9 @@
   "city": "Cruzy",
   "postal_code": "34310",
   "state": "France",
-  "price_min": "20",
-  "price_max": "68",
-  "phone": "+33 4 67 89 71 26",
+  "price_min": "20 euros",
+  "price_max": "68 euros",
+  "phone": "0467897126",
   "website": "http://www.leterminus-cote-gare.fr",
   "experience": "Assez confortable"
 },{
@@ -4455,9 +4455,9 @@
   "city": "Sète",
   "postal_code": "34200",
   "state": "France",
-  "price_min": "34",
-  "price_max": "50",
-  "phone": "+33 4 67 74 97 73",
+  "price_min": "34 euros",
+  "price_max": "50 euros",
+  "phone": "0467749773",
   "experience": "Assez confortable"
 },{
   "name": "Fine Gueule",
@@ -4466,9 +4466,9 @@
   "city": "Nice",
   "postal_code": "06300",
   "state": "France",
-  "price_min": "30",
-  "price_max": "50",
-  "phone": "+33 4 93 80 21 64",
+  "price_min": "30 euros",
+  "price_max": "50 euros",
+  "phone": "0493802164",
   "website": "http://www.finegueule.fr",
   "experience": "Assez confortable"
 },{
@@ -4478,9 +4478,9 @@
   "city": "Bordeaux",
   "postal_code": "33000",
   "state": "France",
-  "price_min": "22",
-  "price_max": "58",
-  "phone": "+33 5 57 83 38 24",
+  "price_min": "22 euros",
+  "price_max": "58 euros",
+  "phone": "0557833824",
   "website": "http://www.metsmots.fr",
   "experience": "Assez confortable"
 },{
@@ -4490,9 +4490,9 @@
   "city": "Paris",
   "postal_code": "75011",
   "state": "France",
-  "price_min": "20",
-  "price_max": "36",
-  "phone": "+33 9 81 01 81 10",
+  "price_min": "20 euros",
+  "price_max": "36 euros",
+  "phone": "0981018110",
   "experience": "Assez confortable"
 },{
   "name": "La Vieille Forge",
@@ -4501,9 +4501,9 @@
   "city": "Mesquer",
   "postal_code": "44420",
   "state": "France",
-  "price_min": "20",
-  "price_max": "60",
-  "phone": "+33 2 40 42 62 68",
+  "price_min": "20 euros",
+  "price_max": "60 euros",
+  "phone": "0240426268",
   "website": "http://www.vieilleforge.fr",
   "experience": "Confortable"
 },{
@@ -4513,9 +4513,9 @@
   "city": "Clères",
   "postal_code": "76690",
   "state": "France",
-  "price_min": "33",
-  "price_max": "63",
-  "phone": "+33 2 35 33 62 76",
+  "price_min": "33 euros",
+  "price_max": "63 euros",
+  "phone": "0235336276",
   "website": "http://www.aubergedumoulin.org",
   "experience": "Confortable"
 },{
@@ -4525,9 +4525,9 @@
   "city": "Palavas-les-Flots",
   "postal_code": "34250",
   "state": "France",
-  "price_min": "33",
-  "price_max": "65",
-  "phone": "+33 4 67 68 31 38",
+  "price_min": "33 euros",
+  "price_max": "65 euros",
+  "phone": "0467683138",
   "website": "http://www.restaurant-st-georges.fr",
   "experience": "Confortable"
 },{
@@ -4537,9 +4537,9 @@
   "city": "Saintes",
   "postal_code": "17100",
   "state": "France",
-  "price_min": "19",
-  "price_max": "55",
-  "phone": "+33 5 46 94 17 91",
+  "price_min": "19 euros",
+  "price_max": "55 euros",
+  "phone": "0546941791",
   "website": "http://www.saveurs-abbaye.com",
   "experience": "Confortable"
 },{
@@ -4549,9 +4549,9 @@
   "city": "Marseille",
   "postal_code": "13006",
   "state": "France",
-  "price_min": "30",
-  "price_max": "",
-  "phone": "+33 4 91 42 88 80",
+  "price_min": "30 euros",
+  "price_max": " euros",
+  "phone": "0491428880",
   "experience": "Assez confortable"
 },{
   "name": "Le Bréard",
@@ -4560,9 +4560,9 @@
   "city": "Honfleur",
   "postal_code": "14600",
   "state": "France",
-  "price_min": "34",
-  "price_max": "65",
-  "phone": "+33 2 31 89 53 40",
+  "price_min": "34 euros",
+  "price_max": "65 euros",
+  "phone": "0231895340",
   "website": "http://www.restaurant-lebreard.com",
   "experience": "Confortable"
 },{
@@ -4572,9 +4572,9 @@
   "city": "Cairanne",
   "postal_code": "84290",
   "state": "France",
-  "price_min": "28",
-  "price_max": "79",
-  "phone": "+33 4 90 66 35 99",
+  "price_min": "28 euros",
+  "price_max": "79 euros",
+  "phone": "0490663599",
   "website": "http://www.coteauxetfourchettes.com",
   "experience": "Confortable"
 },{
@@ -4584,9 +4584,9 @@
   "city": "Valloux",
   "postal_code": "89200",
   "state": "France",
-  "price_min": "29",
-  "price_max": "66",
-  "phone": "+33 3 86 34 23 34",
+  "price_min": "29 euros",
+  "price_max": "66 euros",
+  "phone": "0386342334",
   "experience": "Confortable. Nos établissements de charme."
 },{
   "name": "Mensae",
@@ -4595,9 +4595,9 @@
   "city": "Paris",
   "postal_code": "75019",
   "state": "France",
-  "price_min": "27",
-  "price_max": "36",
-  "phone": "+33 1 53 19 80 98",
+  "price_min": "27 euros",
+  "price_max": "36 euros",
+  "phone": "0153198098",
   "experience": "Assez confortable"
 },{
   "name": "L'Alambic",
@@ -4606,9 +4606,9 @@
   "city": "Vichy",
   "postal_code": "03200",
   "state": "France",
-  "price_min": "30",
-  "price_max": "52",
-  "phone": "+33 4 70 59 12 71",
+  "price_min": "30 euros",
+  "price_max": "52 euros",
+  "phone": "0470591271",
   "experience": "Assez confortable"
 },{
   "name": "Le Central",
@@ -4617,9 +4617,9 @@
   "city": "Coulon",
   "postal_code": "79510",
   "state": "France",
-  "price_min": "22",
-  "price_max": "60",
-  "phone": "+33 5 49 35 90 20",
+  "price_min": "22 euros",
+  "price_max": "60 euros",
+  "phone": "0549359020",
   "website": "http://www.hotel-lecentral-coulon.com",
   "experience": "Confortable"
 },{
@@ -4629,9 +4629,9 @@
   "city": "Bozouls",
   "postal_code": "12340",
   "state": "France",
-  "price_min": "21",
-  "price_max": "46",
-  "phone": "+33 5 65 44 92 27",
+  "price_min": "21 euros",
+  "price_max": "46 euros",
+  "phone": "0565449227",
   "website": "http://www.laroutedargent.com",
   "experience": "Confortable"
 },{
@@ -4641,9 +4641,9 @@
   "city": "Saint-Palais-sur-Mer",
   "postal_code": "17420",
   "state": "France",
-  "price_min": "33",
-  "price_max": "",
-  "phone": "+33 5 46 23 10 32",
+  "price_min": "33 euros",
+  "price_max": " euros",
+  "phone": "0546231032",
   "website": "http://www.hoteldelaplage-stpalais.fr",
   "experience": "Confortable"
 },{
@@ -4653,9 +4653,9 @@
   "city": "Paris",
   "postal_code": "75001",
   "state": "France",
-  "price_min": "21",
-  "price_max": "60",
-  "phone": "+33 1 42 61 93 99",
+  "price_min": "21 euros",
+  "price_max": "60 euros",
+  "phone": "0142619399",
   "website": "http://www.restaurantzenparis.fr",
   "experience": "Assez confortable"
 },{
@@ -4665,9 +4665,9 @@
   "city": "Nice",
   "postal_code": "06300",
   "state": "France",
-  "price_min": "28",
-  "price_max": "54",
-  "phone": "+33 4 93 85 29 57",
+  "price_min": "28 euros",
+  "price_max": "54 euros",
+  "phone": "0493852957",
   "experience": "Assez confortable"
 },{
   "name": "Maison Joanto",
@@ -4676,9 +4676,9 @@
   "city": "Briscous",
   "postal_code": "64240",
   "state": "France",
-  "price_min": "13",
-  "price_max": "47",
-  "phone": "+33 5 59 20 27 70",
+  "price_min": "13 euros",
+  "price_max": "47 euros",
+  "phone": "0559202770",
   "website": "http://www.maisonjoanto-restaurant.fr",
   "experience": "Assez confortable"
 },{
@@ -4688,9 +4688,9 @@
   "city": "Saint-Malo",
   "postal_code": "35400",
   "state": "France",
-  "price_min": "22",
-  "price_max": "50",
-  "phone": "+33 2 99 40 82 05",
+  "price_min": "22 euros",
+  "price_max": "50 euros",
+  "phone": "0299408205",
   "experience": "Assez confortable"
 },{
   "name": "Le Grapiot",
@@ -4699,9 +4699,9 @@
   "city": "Pupillin",
   "postal_code": "39600",
   "state": "France",
-  "price_min": "33",
-  "price_max": "62",
-  "phone": "+33 3 84 37 49 44",
+  "price_min": "33 euros",
+  "price_max": "62 euros",
+  "phone": "0384374944",
   "website": "http://www.legrapiot.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -4711,9 +4711,9 @@
   "city": "Uchaux",
   "postal_code": "84100",
   "state": "France",
-  "price_min": "26",
-  "price_max": "65",
-  "phone": "+33 4 90 40 66 08",
+  "price_min": "26 euros",
+  "price_max": "65 euros",
+  "phone": "0490406608",
   "website": "http://www.restaurantcotesud.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -4723,9 +4723,9 @@
   "city": "Cesson-Sévigné",
   "postal_code": "35510",
   "state": "France",
-  "price_min": "21",
-  "price_max": "54",
-  "phone": "+33 2 99 83 82 06",
+  "price_min": "21 euros",
+  "price_max": "54 euros",
+  "phone": "0299838206",
   "website": "http://www.restaurant-zest.fr",
   "experience": "Assez confortable"
 },{
@@ -4735,9 +4735,9 @@
   "city": "Labaroche",
   "postal_code": "68910",
   "state": "France",
-  "price_min": "33",
-  "price_max": "71",
-  "phone": "+33 3 89 49 80 40",
+  "price_min": "33 euros",
+  "price_max": "71 euros",
+  "phone": "0389498040",
   "website": "http://www.larochette-hotel.fr",
   "experience": "Confortable"
 },{
@@ -4747,9 +4747,9 @@
   "city": "Irissarry",
   "postal_code": "64780",
   "state": "France",
-  "price_min": "32",
-  "price_max": "57",
-  "phone": "+33 5 59 37 23 83",
+  "price_min": "32 euros",
+  "price_max": "57 euros",
+  "phone": "0559372383",
   "website": "http://www.restaurant-art-zain.fr",
   "experience": "Assez confortable"
 },{
@@ -4759,9 +4759,9 @@
   "city": "Coulombiers",
   "postal_code": "86600",
   "state": "France",
-  "price_min": "33",
-  "price_max": "85",
-  "phone": "+33 5 49 60 90 15",
+  "price_min": "33 euros",
+  "price_max": "85 euros",
+  "phone": "0549609015",
   "website": "http://www.centre-poitou.com",
   "experience": "Confortable"
 },{
@@ -4771,9 +4771,9 @@
   "city": "Marseille",
   "postal_code": "13008",
   "state": "France",
-  "price_min": "26",
-  "price_max": "41",
-  "phone": "+33 4 91 71 16 52",
+  "price_min": "26 euros",
+  "price_max": "41 euros",
+  "phone": "0491711652",
   "experience": "Assez confortable"
 },{
   "name": "La Cuisine d'Amélie",
@@ -4782,9 +4782,9 @@
   "city": "Lauris",
   "postal_code": "84360",
   "state": "France",
-  "price_min": "30",
-  "price_max": "60",
-  "phone": "+33 4 13 98 00 00",
+  "price_min": "30 euros",
+  "price_max": "60 euros",
+  "phone": "0413980000",
   "website": "http://www.domainedefontenille.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -4794,9 +4794,9 @@
   "city": "Fontaine-de-Vaucluse",
   "postal_code": "84800",
   "state": "France",
-  "price_min": "33",
-  "price_max": "79",
-  "phone": "+33 9 75 59 28 63",
+  "price_min": "33 euros",
+  "price_max": "79 euros",
+  "phone": "0975592863",
   "experience": "Assez confortable"
 },{
   "name": "Restaurant du Dauphin",
@@ -4805,9 +4805,9 @@
   "city": "La Ferté-Bernard",
   "postal_code": "72400",
   "state": "France",
-  "price_min": "22",
-  "price_max": "85",
-  "phone": "+33 2 43 93 00 39",
+  "price_min": "22 euros",
+  "price_max": "85 euros",
+  "phone": "0243930039",
   "website": "http://www.restaurant-du-dauphin.com",
   "experience": "Confortable"
 },{
@@ -4817,9 +4817,9 @@
   "city": "Argoules",
   "postal_code": "80120",
   "state": "France",
-  "price_min": "23",
-  "price_max": "48",
-  "phone": "+33 3 22 29 92 09",
+  "price_min": "23 euros",
+  "price_max": "48 euros",
+  "phone": "0322299209",
   "experience": "Assez confortable"
 },{
   "name": "Auberge La Baquère",
@@ -4828,9 +4828,9 @@
   "city": "Préneron",
   "postal_code": "32190",
   "state": "France",
-  "price_min": "18",
-  "price_max": "59",
-  "phone": "+33 5 62 06 42 75",
+  "price_min": "18 euros",
+  "price_max": "59 euros",
+  "phone": "0562064275",
   "website": "http://www.aubergelabaquere.com",
   "experience": "Assez confortable"
 },{
@@ -4840,9 +4840,9 @@
   "city": "Gevrey-Chambertin",
   "postal_code": "21220",
   "state": "France",
-  "price_min": "24",
-  "price_max": "39",
-  "phone": "+33 3 80 58 51 51",
+  "price_min": "24 euros",
+  "price_max": "39 euros",
+  "phone": "0380585151",
   "website": "http://www.chez-guy.fr",
   "experience": "Confortable"
 },{
@@ -4852,9 +4852,9 @@
   "city": "Paris",
   "postal_code": "75007",
   "state": "France",
-  "price_min": "34",
-  "price_max": "65",
-  "phone": "+33 1 47 05 14 20",
+  "price_min": "34 euros",
+  "price_max": "65 euros",
+  "phone": "0147051420",
   "website": "http://www.restaurant20eiffel.fr",
   "experience": "Assez confortable"
 },{
@@ -4864,9 +4864,9 @@
   "city": "Favières",
   "postal_code": "80120",
   "state": "France",
-  "price_min": "27",
-  "price_max": "53",
-  "phone": "+33 3 22 27 88 00",
+  "price_min": "27 euros",
+  "price_max": "53 euros",
+  "phone": "0322278800",
   "website": "http://www.restaurant-lacledeschamps.com",
   "experience": "Confortable"
 },{
@@ -4876,9 +4876,9 @@
   "city": "Les Herbiers",
   "postal_code": "85500",
   "state": "France",
-  "price_min": "33",
-  "price_max": "55",
-  "phone": "+33 9 86 19 30 21",
+  "price_min": "33 euros",
+  "price_max": "55 euros",
+  "phone": "0986193021",
   "website": "http://www.envers-du-decor.fr",
   "experience": "Confortable"
 },{
@@ -4888,9 +4888,9 @@
   "city": "La Bresse",
   "postal_code": "88250",
   "state": "France",
-  "price_min": "21",
-  "price_max": "66",
-  "phone": "+33 3 29 25 41 97",
+  "price_min": "21 euros",
+  "price_max": "66 euros",
+  "phone": "0329254197",
   "website": "http://www.la-table-dangele.com",
   "experience": "Assez confortable"
 },{
@@ -4900,9 +4900,9 @@
   "city": "Coudekerque-Branche",
   "postal_code": "59210",
   "state": "France",
-  "price_min": "28",
-  "price_max": "51",
-  "phone": "+33 3 28 64 66 00",
+  "price_min": "28 euros",
+  "price_max": "51 euros",
+  "phone": "0328646600",
   "website": "http://www.restaurant-soubise.com",
   "experience": "Très confortable. Nos établissements de charme."
 },{
@@ -4912,9 +4912,9 @@
   "city": "Delme",
   "postal_code": "57590",
   "state": "France",
-  "price_min": "14",
-  "price_max": "70",
-  "phone": "+33 3 87 01 30 18",
+  "price_min": "14 euros",
+  "price_max": "70 euros",
+  "phone": "0387013018",
   "website": "http://www.ala12.fr",
   "experience": "Confortable"
 },{
@@ -4924,9 +4924,9 @@
   "city": "Villars",
   "postal_code": "84400",
   "state": "France",
-  "price_min": "33",
-  "price_max": "50",
-  "phone": "+33 4 90 75 45 18",
+  "price_min": "33 euros",
+  "price_max": "50 euros",
+  "phone": "0490754518",
   "website": "http://www.latabledepablo.com",
   "experience": "Assez confortable"
 },{
@@ -4936,9 +4936,9 @@
   "city": "Brebières",
   "postal_code": "62117",
   "state": "France",
-  "price_min": "33",
-  "price_max": "70",
-  "phone": "+33 3 21 50 01 02",
+  "price_min": "33 euros",
+  "price_max": "70 euros",
+  "phone": "0321500102",
   "website": "http://www.air-accueil-restaurant.com",
   "experience": "Très confortable"
 },{
@@ -4948,9 +4948,9 @@
   "city": "Saint-Bonnet-le-Froid",
   "postal_code": "43290",
   "state": "France",
-  "price_min": "32",
-  "price_max": "50",
-  "phone": "+33 4 71 65 63 62",
+  "price_min": "32 euros",
+  "price_max": "50 euros",
+  "phone": "0471656362",
   "website": "http://www.regismarcon.fr",
   "experience": "Confortable"
 },{
@@ -4960,9 +4960,9 @@
   "city": "Paris",
   "postal_code": "75013",
   "state": "France",
-  "price_min": "20",
-  "price_max": "50",
-  "phone": "+33 1 45 86 42 40",
+  "price_min": "20 euros",
+  "price_max": "50 euros",
+  "phone": "0145864240",
   "experience": "Assez confortable"
 },{
   "name": "Atmosphère",
@@ -4971,9 +4971,9 @@
   "city": "Chamonix-Mont-Blanc",
   "postal_code": "74400",
   "state": "France",
-  "price_min": "25",
-  "price_max": "85",
-  "phone": "+33 4 50 55 97 97",
+  "price_min": "25 euros",
+  "price_max": "85 euros",
+  "phone": "0450559797",
   "website": "http://www.restaurant-atmosphere.com",
   "experience": "Confortable"
 },{
@@ -4983,9 +4983,9 @@
   "city": "Paris",
   "postal_code": "75015",
   "state": "France",
-  "price_min": "37",
-  "price_max": "45",
-  "phone": "+33 1 40 33 99 26",
+  "price_min": "37 euros",
+  "price_max": "45 euros",
+  "phone": "0140339926",
   "website": "http://www.restaurantleradisbeurre.com",
   "experience": "Assez confortable"
 },{
@@ -4995,9 +4995,9 @@
   "city": "Saules",
   "postal_code": "25580",
   "state": "France",
-  "price_min": "17",
-  "price_max": "50",
-  "phone": "+33 3 81 57 17 71",
+  "price_min": "17 euros",
+  "price_max": "50 euros",
+  "phone": "0381571771",
   "website": "http://www.lagriotte.fr",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -5007,9 +5007,9 @@
   "city": "Saint-Malo",
   "postal_code": "35400",
   "state": "France",
-  "price_min": "19",
-  "price_max": "40",
-  "phone": "+33 2 99 56 96 08",
+  "price_min": "19 euros",
+  "price_max": "40 euros",
+  "phone": "0299569608",
   "website": "http://www.breizhcafe.com",
   "experience": "Assez confortable"
 },{
@@ -5019,9 +5019,9 @@
   "city": "Vichy",
   "postal_code": "03200",
   "state": "France",
-  "price_min": "34",
-  "price_max": "80",
-  "phone": "+33 4 70 97 85 42",
+  "price_min": "34 euros",
+  "price_max": "80 euros",
+  "phone": "0470978542",
   "website": "http://www.restaurantlarotonde-vichy.com",
   "experience": "Confortable"
 },{
@@ -5031,9 +5031,9 @@
   "city": "Saint-Étienne",
   "postal_code": "42000",
   "state": "France",
-  "price_min": "20",
-  "price_max": "58",
-  "phone": "+33 4 77 32 34 34",
+  "price_min": "20 euros",
+  "price_max": "58 euros",
+  "phone": "0477323434",
   "website": "http://www.insens-restaurant.fr",
   "experience": "Assez confortable"
 },{
@@ -5043,9 +5043,9 @@
   "city": "Strasbourg",
   "postal_code": "67200",
   "state": "France",
-  "price_min": "25",
-  "price_max": "69",
-  "phone": "+33 3 88 22 52 16",
+  "price_min": "25 euros",
+  "price_max": "69 euros",
+  "phone": "0388225216",
   "website": "http://www.restaurant-colbert.com",
   "experience": "Confortable"
 },{
@@ -5055,9 +5055,9 @@
   "city": "Cognac",
   "postal_code": "16100",
   "state": "France",
-  "price_min": "34",
-  "price_max": "86",
-  "phone": "+33 5 45 35 21 77",
+  "price_min": "34 euros",
+  "price_max": "86 euros",
+  "phone": "0545352177",
   "website": "http://www.restaurant-lamaison-cognac.fr",
   "experience": "Confortable"
 },{
@@ -5067,9 +5067,9 @@
   "city": "Pau",
   "postal_code": "64000",
   "state": "France",
-  "price_min": "20",
-  "price_max": "48",
-  "phone": "+33 9 83 97 58 58",
+  "price_min": "20 euros",
+  "price_max": "48 euros",
+  "phone": "0983975858",
   "website": "http://www.restaurant-louesberit.com",
   "experience": "Assez confortable"
 },{
@@ -5079,9 +5079,9 @@
   "city": "Paris",
   "postal_code": "75008",
   "state": "France",
-  "price_min": "37",
-  "price_max": "64",
-  "phone": "+33 1 42 65 65 83",
+  "price_min": "37 euros",
+  "price_max": "64 euros",
+  "phone": "0142656583",
   "website": "http://www.pomze.com",
   "experience": "Confortable"
 },{
@@ -5091,9 +5091,9 @@
   "city": "Castéra-Verduzan",
   "postal_code": "32410",
   "state": "France",
-  "price_min": "19",
-  "price_max": "65",
-  "phone": "+33 5 62 68 13 22",
+  "price_min": "19 euros",
+  "price_max": "65 euros",
+  "phone": "0562681322",
   "website": "http://www.lefloridagascony.fr",
   "experience": "Confortable"
 },{
@@ -5103,9 +5103,9 @@
   "city": "Laon",
   "postal_code": "02000",
   "state": "France",
-  "price_min": "33",
-  "price_max": "70",
-  "phone": "+33 3 23 23 02 38",
+  "price_min": "33 euros",
+  "price_max": "70 euros",
+  "phone": "0323230238",
   "website": "http://www.zorn-lapetiteauberge.com",
   "experience": "Confortable"
 },{
@@ -5115,9 +5115,9 @@
   "city": "Marseille",
   "postal_code": "13006",
   "state": "France",
-  "price_min": "23",
-  "price_max": "45",
-  "phone": "+33 4 91 48 10 48",
+  "price_min": "23 euros",
+  "price_max": "45 euros",
+  "phone": "0491481048",
   "website": "http://www.restaurantlacantinetta.fr",
   "experience": "Assez confortable"
 },{
@@ -5127,9 +5127,9 @@
   "city": "La Turbie",
   "postal_code": "06320",
   "state": "France",
-  "price_min": "30",
-  "price_max": "45",
-  "phone": "+33 4 93 28 52 79",
+  "price_min": "30 euros",
+  "price_max": "45 euros",
+  "phone": "0493285279",
   "website": "http://www.hostellerie-jerome.com",
   "experience": "Assez confortable"
 },{
@@ -5138,9 +5138,9 @@
   "street": "Le Pin-au-Haras",
   "city": "61310",
   "postal_code": "FranceLe Pin-au-Haras",
-  "price_min": "32",
-  "price_max": "49",
-  "phone": "+33 2 33 35 57 69",
+  "price_min": "32 euros",
+  "price_max": "49 euros",
+  "phone": "0233355769",
   "website": "http://www.lateteauloup.fr",
   "experience": "Confortable"
 },{
@@ -5150,9 +5150,9 @@
   "city": "Houlgate",
   "postal_code": "14510",
   "state": "France",
-  "price_min": "27",
-  "price_max": "87",
-  "phone": "+33 2 31 24 84 37",
+  "price_min": "27 euros",
+  "price_max": "87 euros",
+  "phone": "0231248437",
   "website": "http://www.eden-houlgate.com",
   "experience": "Confortable"
 },{
@@ -5162,9 +5162,9 @@
   "city": "Quiberon",
   "postal_code": "56170",
   "state": "France",
-  "price_min": "34",
-  "price_max": "57",
-  "phone": "+33 2 97 50 17 67",
+  "price_min": "34 euros",
+  "price_max": "57 euros",
+  "phone": "0297501767",
   "website": "http://www.restaurant-lachaumine.com",
   "experience": "Confortable"
 },{
@@ -5174,9 +5174,9 @@
   "city": "Castres",
   "postal_code": "81100",
   "state": "France",
-  "price_min": "19",
-  "price_max": "49",
-  "phone": "+33 5 63 51 65 25",
+  "price_min": "19 euros",
+  "price_max": "49 euros",
+  "phone": "0563516525",
   "experience": "Assez confortable"
 },{
   "name": "Les Résistants",
@@ -5185,9 +5185,9 @@
   "city": "Paris",
   "postal_code": "75010",
   "state": "France",
-  "price_min": "19",
-  "price_max": "40",
-  "phone": "+33 1 77 32 77 61",
+  "price_min": "19 euros",
+  "price_max": "40 euros",
+  "phone": "0177327761",
   "website": "http://www.lesresistants.fr",
   "experience": "Assez confortable"
 },{
@@ -5197,9 +5197,9 @@
   "city": "Lyon",
   "postal_code": "69004",
   "state": "France",
-  "price_min": "22",
-  "price_max": "34",
-  "phone": "+33 4 78 29 17 23",
+  "price_min": "22 euros",
+  "price_max": "34 euros",
+  "phone": "0478291723",
   "website": "http://www.lecanutetlesgones.com",
   "experience": "Assez confortable"
 },{
@@ -5209,9 +5209,9 @@
   "city": "Solignac-sous-Roche",
   "postal_code": "43130",
   "state": "France",
-  "price_min": "13",
-  "price_max": "47",
-  "phone": "+33 4 71 65 21 54",
+  "price_min": "13 euros",
+  "price_max": "47 euros",
+  "phone": "0471652154",
   "website": "http://www.auberge-loupinatou.fr",
   "experience": "Assez confortable"
 },{
@@ -5221,9 +5221,9 @@
   "city": "Le Havre",
   "postal_code": "76600",
   "state": "France",
-  "price_min": "25",
-  "price_max": "44",
-  "phone": "+33 2 35 45 44 60",
+  "price_min": "25 euros",
+  "price_max": "44 euros",
+  "phone": "0235454460",
   "experience": "Assez confortable"
 },{
   "name": "Le Sabayon",
@@ -5232,18 +5232,18 @@
   "city": "Lorient",
   "postal_code": "56100",
   "state": "France",
-  "price_min": "32",
-  "price_max": "73",
-  "phone": "+33 2 97 21 19 79",
+  "price_min": "32 euros",
+  "price_max": "73 euros",
+  "phone": "0297211979",
   "website": "http://www.lesabayon.fr",
   "experience": "Confortable"
 },{
   "name": "Les Cocottes - Tour Eiffel",
   "type": "Cuisine traditionnelle",
   "street": "\n                                \n                                    \n                                        1 Offre\n                                    \n                                \n                            \n                                    \n                                        \n                                            1 Offre\n                                        \n                                    \n                                ",
-  "price_min": "30",
-  "price_max": "60",
-  "phone": "+33 1 45 50 10 28",
+  "price_min": "30 euros",
+  "price_max": "60 euros",
+  "phone": "0145501028",
   "experience": "Assez confortable"
 },{
   "name": "Au Plaisir Ambré",
@@ -5252,9 +5252,9 @@
   "city": "Briançon",
   "postal_code": "05100",
   "state": "France",
-  "price_min": "26",
-  "price_max": "46",
-  "phone": "+33 4 92 52 63 46",
+  "price_min": "26 euros",
+  "price_max": "46 euros",
+  "phone": "0492526346",
   "website": "http://www.auplaisirambre.com",
   "experience": "Confortable"
 },{
@@ -5264,9 +5264,9 @@
   "city": "Roanne",
   "postal_code": "42300",
   "state": "France",
-  "price_min": "24",
-  "price_max": "33",
-  "phone": "+33 4 77 67 72 72",
+  "price_min": "24 euros",
+  "price_max": "33 euros",
+  "phone": "0477677272",
   "website": "http://www.troisgros.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -5276,9 +5276,9 @@
   "city": "Suresnes",
   "postal_code": "92150",
   "state": "France",
-  "price_min": "29",
-  "price_max": "38",
-  "phone": "+33 1 41 47 87 61",
+  "price_min": "29 euros",
+  "price_max": "38 euros",
+  "phone": "0141478761",
   "website": "http://www.restaurantlespetitsprinces.fr",
   "experience": "Assez confortable"
 },{
@@ -5288,9 +5288,9 @@
   "city": "Paris",
   "postal_code": "75009",
   "state": "France",
-  "price_min": "38",
-  "price_max": "",
-  "phone": "+33 1 48 78 55 60",
+  "price_min": "38 euros",
+  "price_max": " euros",
+  "phone": "0148785560",
   "experience": "Assez confortable"
 },{
   "name": "Le Kitchen Café",
@@ -5299,9 +5299,9 @@
   "city": "Lyon",
   "postal_code": "69007",
   "state": "France",
-  "price_min": "24",
-  "price_max": "32",
-  "phone": "+33 6 03 36 42 75",
+  "price_min": "24 euros",
+  "price_max": "32 euros",
+  "phone": "0603364275",
   "website": "http://www.lekitchencafe.com",
   "experience": "Assez confortable"
 },{
@@ -5311,9 +5311,9 @@
   "city": "Font-Romeu",
   "postal_code": "66120",
   "state": "France",
-  "price_min": "23",
-  "price_max": "65",
-  "phone": "+33 4 68 30 04 40",
+  "price_min": "23 euros",
+  "price_max": "65 euros",
+  "phone": "0468300440",
   "website": "http://www.restaurantlachaumiere.fr",
   "experience": "Confortable"
 },{
@@ -5323,9 +5323,9 @@
   "city": "Évian-les-Bains",
   "postal_code": "74500",
   "state": "France",
-  "price_min": "34",
-  "price_max": "71",
-  "phone": "+33 4 50 92 82 49",
+  "price_min": "34 euros",
+  "price_max": "71 euros",
+  "phone": "0450928249",
   "website": "http://www.muratore-restaurant-evian.com",
   "experience": "Assez confortable"
 },{
@@ -5335,9 +5335,9 @@
   "city": "Plouider",
   "postal_code": "29260",
   "state": "France",
-  "price_min": "28",
-  "price_max": "",
-  "phone": "+33 2 98 25 40 54",
+  "price_min": "28 euros",
+  "price_max": " euros",
+  "phone": "0298254054",
   "website": "http://lecomptoir.labutte.fr",
   "experience": "Assez confortable"
 },{
@@ -5347,9 +5347,9 @@
   "city": "Tours",
   "postal_code": "37000",
   "state": "France",
-  "price_min": "31",
-  "price_max": "63",
-  "phone": "+33 2 47 61 93 82",
+  "price_min": "31 euros",
+  "price_max": "63 euros",
+  "phone": "0247619382",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
   "name": "L'Amandier",
@@ -5358,9 +5358,9 @@
   "city": "Fréjus",
   "postal_code": "83600",
   "state": "France",
-  "price_min": "31",
-  "price_max": "52",
-  "phone": "+33 4 94 53 48 77",
+  "price_min": "31 euros",
+  "price_max": "52 euros",
+  "phone": "0494534877",
   "website": "http://www.restaurant-lamandier-frejus.com",
   "experience": "Confortable"
 },{
@@ -5370,9 +5370,9 @@
   "city": "Gémenos",
   "postal_code": "13420",
   "state": "France",
-  "price_min": "34",
-  "price_max": "75",
-  "phone": "+33 9 80 73 06 60",
+  "price_min": "34 euros",
+  "price_max": "75 euros",
+  "phone": "0980730660",
   "website": "http://www.lesaromesgemenos.fr",
   "experience": "Confortable"
 },{
@@ -5382,9 +5382,9 @@
   "city": "Onzain",
   "postal_code": "41150",
   "state": "France",
-  "price_min": "33",
-  "price_max": "76",
-  "phone": "+33 2 54 20 72 57",
+  "price_min": "33 euros",
+  "price_max": "76 euros",
+  "phone": "0254207257",
   "website": "http://www.hautsdeloire.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -5394,9 +5394,9 @@
   "city": "Auray",
   "postal_code": "56400",
   "state": "France",
-  "price_min": "24",
-  "price_max": "60",
-  "phone": "+33 2 97 56 37 30",
+  "price_min": "24 euros",
+  "price_max": "60 euros",
+  "phone": "0297563730",
   "website": "http://www.restaurantleptitgo.wixsite.com/leptitgoustan",
   "experience": "Assez confortable"
 },{
@@ -5406,9 +5406,9 @@
   "city": "Ouistreham",
   "postal_code": "14150",
   "state": "France",
-  "price_min": "33",
-  "price_max": "60",
-  "phone": "+33 2 31 97 18 44",
+  "price_min": "33 euros",
+  "price_max": "60 euros",
+  "phone": "0231971844",
   "website": "http://www.latabledhotes-caen.com",
   "experience": "Confortable"
 },{
@@ -5418,9 +5418,9 @@
   "city": "Paris",
   "postal_code": "75007",
   "state": "France",
-  "price_min": "37",
-  "price_max": "85",
-  "phone": "+33 1 47 05 89 86",
+  "price_min": "37 euros",
+  "price_max": "85 euros",
+  "phone": "0147058986",
   "website": "http://www.chezlesanges.com",
   "experience": "Confortable"
 },{
@@ -5430,9 +5430,9 @@
   "city": "Orléans",
   "postal_code": "45000",
   "state": "France",
-  "price_min": "28",
-  "price_max": "",
-  "phone": "+33 2 38 77 26 67",
+  "price_min": "28 euros",
+  "price_max": " euros",
+  "phone": "0238772667",
   "experience": "Assez confortable"
 },{
   "name": "Histoire Ancienne",
@@ -5441,9 +5441,9 @@
   "city": "Calais",
   "postal_code": "62100",
   "state": "France",
-  "price_min": "23",
-  "price_max": "63",
-  "phone": "+33 3 21 34 11 20",
+  "price_min": "23 euros",
+  "price_max": "63 euros",
+  "phone": "0321341120",
   "website": "http://www.histoire-ancienne.com",
   "experience": "Assez confortable"
 },{
@@ -5453,9 +5453,9 @@
   "city": "La Rochelle",
   "postal_code": "17000",
   "state": "France",
-  "price_min": "26",
-  "price_max": "57",
-  "phone": "+33 5 46 34 12 52",
+  "price_min": "26 euros",
+  "price_max": "57 euros",
+  "phone": "0546341252",
   "website": "http://www.restaurant-le-mail.com",
   "experience": "Assez confortable"
 },{
@@ -5465,9 +5465,9 @@
   "city": "Bessas",
   "postal_code": "07150",
   "state": "France",
-  "price_min": "33",
-  "price_max": "66",
-  "phone": "+33 4 75 38 02 01",
+  "price_min": "33 euros",
+  "price_max": "66 euros",
+  "phone": "0475380201",
   "website": "http://www.aubergedesgranges.com",
   "experience": "Assez confortable"
 },{
@@ -5477,9 +5477,9 @@
   "city": "Anse",
   "postal_code": "69480",
   "state": "France",
-  "price_min": "26",
-  "price_max": "69",
-  "phone": "+33 4 74 67 04 68",
+  "price_min": "26 euros",
+  "price_max": "69 euros",
+  "phone": "0474670468",
   "website": "http://www.aucolombier.com",
   "experience": "Assez confortable"
 },{
@@ -5489,9 +5489,9 @@
   "city": "Yerres",
   "postal_code": "91330",
   "state": "France",
-  "price_min": "30",
-  "price_max": "",
-  "phone": "+33 1 79 93 28 81",
+  "price_min": "30 euros",
+  "price_max": " euros",
+  "phone": "0179932881",
   "website": "http://www.bird-restaurant.com",
   "experience": "Assez confortable"
 },{
@@ -5501,9 +5501,9 @@
   "city": "Hyères",
   "postal_code": "83400",
   "state": "France",
-  "price_min": "31",
-  "price_max": "60",
-  "phone": "+33 4 83 99 42 04",
+  "price_min": "31 euros",
+  "price_max": "60 euros",
+  "phone": "0483994204",
   "experience": "Assez confortable"
 },{
   "name": "Manoir de la Pommeraie",
@@ -5512,9 +5512,9 @@
   "city": "Vire",
   "postal_code": "14500",
   "state": "France",
-  "price_min": "33",
-  "price_max": "58",
-  "phone": "+33 2 31 68 07 71",
+  "price_min": "33 euros",
+  "price_max": "58 euros",
+  "phone": "0231680771",
   "website": "http://www.manoirdelapommeraie.com",
   "experience": "Confortable"
 },{
@@ -5524,9 +5524,9 @@
   "city": "Natzwiller",
   "postal_code": "67130",
   "state": "France",
-  "price_min": "27",
-  "price_max": "65",
-  "phone": "+33 3 88 97 02 42",
+  "price_min": "27 euros",
+  "price_max": "65 euros",
+  "phone": "0388970242",
   "website": "http://www.hotel-aubergemetzger.com",
   "experience": "Confortable"
 },{
@@ -5536,9 +5536,9 @@
   "city": "Bayeux",
   "postal_code": "14400",
   "state": "France",
-  "price_min": "17",
-  "price_max": "55",
-  "phone": "+33 2 31 92 30 08",
+  "price_min": "17 euros",
+  "price_max": "55 euros",
+  "phone": "0231923008",
   "experience": "Assez confortable"
 },{
   "name": "La Méditerranée",
@@ -5547,9 +5547,9 @@
   "city": "Paris",
   "postal_code": "75006",
   "state": "France",
-  "price_min": "37",
-  "price_max": "80",
-  "phone": "+33 1 43 26 02 30",
+  "price_min": "37 euros",
+  "price_max": "80 euros",
+  "phone": "0143260230",
   "website": "http://www.la-mediterranee.com",
   "experience": "Confortable"
 },{
@@ -5559,9 +5559,9 @@
   "city": "Nantes",
   "postal_code": "44000",
   "state": "France",
-  "price_min": "17",
-  "price_max": "33",
-  "phone": "+33 2 40 47 41 64",
+  "price_min": "17 euros",
+  "price_max": "33 euros",
+  "phone": "0240474164",
   "website": "http://www.linstinctgourmand.com",
   "experience": "Assez confortable"
 },{
@@ -5571,9 +5571,9 @@
   "city": "Écouviez",
   "postal_code": "55600",
   "state": "France",
-  "price_min": "30",
-  "price_max": "72",
-  "phone": "+33 3 29 86 84 58",
+  "price_min": "30 euros",
+  "price_max": "72 euros",
+  "phone": "0329868458",
   "website": "http://www.lesepicescuriens.com",
   "experience": "Assez confortable"
 },{
@@ -5583,9 +5583,9 @@
   "city": "Le Havre",
   "postal_code": "76600",
   "state": "France",
-  "price_min": "32",
-  "price_max": "67",
-  "phone": "+33 2 35 43 68 10",
+  "price_min": "32 euros",
+  "price_max": "67 euros",
+  "phone": "0235436810",
   "website": "http://www.lemargote.fr",
   "experience": "Confortable"
 },{
@@ -5595,9 +5595,9 @@
   "city": "Gevrey-Chambertin",
   "postal_code": "21220",
   "state": "France",
-  "price_min": "28",
-  "price_max": "65",
-  "phone": "+33 3 80 34 33 20",
+  "price_min": "28 euros",
+  "price_max": "65 euros",
+  "phone": "0380343320",
   "website": "http://www.thomascollomb.fr",
   "experience": "Assez confortable"
 },{
@@ -5607,9 +5607,9 @@
   "city": "Dunes",
   "postal_code": "82340",
   "state": "France",
-  "price_min": "22",
-  "price_max": "55",
-  "phone": "+33 5 63 39 86 21",
+  "price_min": "22 euros",
+  "price_max": "55 euros",
+  "phone": "0563398621",
   "experience": "Confortable"
 },{
   "name": "En Cuisine",
@@ -5618,9 +5618,9 @@
   "city": "Brive-la-Gaillarde",
   "postal_code": "19100",
   "state": "France",
-  "price_min": "33",
-  "price_max": "45",
-  "phone": "+33 5 55 74 97 53",
+  "price_min": "33 euros",
+  "price_max": "45 euros",
+  "phone": "0555749753",
   "website": "http://www.encuisine.net",
   "experience": "Confortable"
 },{
@@ -5630,9 +5630,9 @@
   "city": "Lyon",
   "postal_code": "69006",
   "state": "France",
-  "price_min": "29",
-  "price_max": "39",
-  "phone": "+33 4 78 89 55 19",
+  "price_min": "29 euros",
+  "price_max": "39 euros",
+  "phone": "0478895519",
   "website": "http://www.mrestaurant.fr",
   "experience": "Assez confortable"
 },{
@@ -5642,9 +5642,9 @@
   "city": "Dax",
   "postal_code": "40100",
   "state": "France",
-  "price_min": "30",
-  "price_max": "55",
-  "phone": "+33 5 58 74 58 05",
+  "price_min": "30 euros",
+  "price_max": "55 euros",
+  "phone": "0558745805",
   "experience": "Confortable"
 },{
   "name": "Relais Ste-Anne",
@@ -5653,9 +5653,9 @@
   "city": "Martel",
   "postal_code": "46600",
   "state": "France",
-  "price_min": "32",
-  "price_max": "54",
-  "phone": "+33 5 65 37 40 56",
+  "price_min": "32 euros",
+  "price_max": "54 euros",
+  "phone": "0565374056",
   "website": "http://www.relais-sainte-anne.com",
   "experience": "Confortable"
 },{
@@ -5665,9 +5665,9 @@
   "city": "Paris",
   "postal_code": "75001",
   "state": "France",
-  "price_min": "18",
-  "price_max": "30",
-  "phone": "+33 1 42 86 11 85",
+  "price_min": "18 euros",
+  "price_max": "30 euros",
+  "phone": "0142861185",
   "experience": "Assez confortable"
 },{
   "name": "L'Araignée Gourmande",
@@ -5676,9 +5676,9 @@
   "city": "Laragne-Montéglin",
   "postal_code": "05300",
   "state": "France",
-  "price_min": "33",
-  "price_max": "55",
-  "phone": "+33 4 92 65 13 39",
+  "price_min": "33 euros",
+  "price_max": "55 euros",
+  "phone": "0492651339",
   "website": "http://www.laraignee-gourmande.fr",
   "experience": "Confortable"
 },{
@@ -5688,9 +5688,9 @@
   "city": "Paris",
   "postal_code": "75020",
   "state": "France",
-  "price_min": "25",
-  "price_max": "45",
-  "phone": "+33 9 83 02 72 02",
+  "price_min": "25 euros",
+  "price_max": "45 euros",
+  "phone": "0983027202",
   "website": "http://www.legrandbainparis.com",
   "experience": "Assez confortable"
 },{
@@ -5700,9 +5700,9 @@
   "city": "Avignon",
   "postal_code": "84000",
   "state": "France",
-  "price_min": "34",
-  "price_max": "120",
-  "phone": "+33 4 86 81 62 27",
+  "price_min": "34 euros",
+  "price_max": "120 euros",
+  "phone": "0486816227",
   "experience": "Assez confortable"
 },{
   "name": "Le Pré St-Jean",
@@ -5711,9 +5711,9 @@
   "city": "Pézenas",
   "postal_code": "34120",
   "state": "France",
-  "price_min": "34",
-  "price_max": "80",
-  "phone": "+33 4 67 98 15 31",
+  "price_min": "34 euros",
+  "price_max": "80 euros",
+  "phone": "0467981531",
   "website": "http://www.restaurant-leprestjean.fr",
   "experience": "Confortable"
 },{
@@ -5723,9 +5723,9 @@
   "city": "Épernay",
   "postal_code": "51200",
   "state": "France",
-  "price_min": "22",
-  "price_max": "45",
-  "phone": "+33 3 26 54 89 80",
+  "price_min": "22 euros",
+  "price_max": "45 euros",
+  "phone": "0326548980",
   "experience": "Assez confortable"
 },{
   "name": "La Ferme du Poulet",
@@ -5734,9 +5734,9 @@
   "city": "Villefranche-sur-Saône",
   "postal_code": "69400",
   "state": "France",
-  "price_min": "20",
-  "price_max": "82",
-  "phone": "+33 4 74 62 19 07",
+  "price_min": "20 euros",
+  "price_max": "82 euros",
+  "phone": "0474621907",
   "website": "http://www.lafermedupoulet.com",
   "experience": "Confortable"
 },{
@@ -5746,9 +5746,9 @@
   "city": "Pailherols",
   "postal_code": "15800",
   "state": "France",
-  "price_min": "30",
-  "price_max": "43",
-  "phone": "+33 4 71 47 57 01",
+  "price_min": "30 euros",
+  "price_max": "43 euros",
+  "phone": "0471475701",
   "website": "http://www.auberge-des-montagnes.com",
   "experience": "Confortable"
 },{
@@ -5758,9 +5758,9 @@
   "city": "Paris",
   "postal_code": "75010",
   "state": "France",
-  "price_min": "25",
-  "price_max": "55",
-  "phone": "+33 1 44 79 03 98",
+  "price_min": "25 euros",
+  "price_max": "55 euros",
+  "phone": "0144790398",
   "website": "http://www.mamagoto.fr",
   "experience": "Assez confortable"
 },{
@@ -5770,9 +5770,9 @@
   "city": "Montcenis",
   "postal_code": "71710",
   "state": "France",
-  "price_min": "26",
-  "price_max": "90",
-  "phone": "+33 3 85 55 44 36",
+  "price_min": "26 euros",
+  "price_max": "90 euros",
+  "phone": "0385554436",
   "experience": "Confortable"
 },{
   "name": "L'Instant du Sud",
@@ -5781,9 +5781,9 @@
   "city": "Générac",
   "postal_code": "30510",
   "state": "France",
-  "price_min": "33",
-  "price_max": "37",
-  "phone": "+33 4 66 02 03 93",
+  "price_min": "33 euros",
+  "price_max": "37 euros",
+  "phone": "0466020393",
   "website": "http://www.instantdusud.fr",
   "experience": "Assez confortable"
 },{
@@ -5793,9 +5793,9 @@
   "city": "Rochetoirin",
   "postal_code": "38110",
   "state": "France",
-  "price_min": "24",
-  "price_max": "50",
-  "phone": "+33 4 74 97 60 38",
+  "price_min": "24 euros",
+  "price_max": "50 euros",
+  "phone": "0474976038",
   "website": "http://www.lerochetoirin.fr",
   "experience": "Confortable"
 },{
@@ -5805,9 +5805,9 @@
   "city": "Caen",
   "postal_code": "14000",
   "state": "France",
-  "price_min": "26",
-  "price_max": "90",
-  "phone": "+33 2 31 86 22 26",
+  "price_min": "26 euros",
+  "price_max": "90 euros",
+  "phone": "0231862226",
   "website": "http://www.le-dauphin-normandie.fr",
   "experience": "Très confortable"
 },{
@@ -5817,9 +5817,9 @@
   "city": "Saint-Quirin",
   "postal_code": "57560",
   "state": "France",
-  "price_min": "15",
-  "price_max": "85",
-  "phone": "+33 3 87 08 66 52",
+  "price_min": "15 euros",
+  "price_max": "85 euros",
+  "phone": "0387086652",
   "website": "http://www.prieuresaintquirin.com",
   "experience": "Confortable"
 },{
@@ -5829,9 +5829,9 @@
   "city": "Montferrat",
   "postal_code": "83131",
   "state": "France",
-  "price_min": "30",
-  "price_max": "75",
-  "phone": "+33 4 94 50 21 30",
+  "price_min": "30 euros",
+  "price_max": "75 euros",
+  "phone": "0494502130",
   "website": "http://www.clospierrepont.com",
   "experience": "Confortable"
 },{
@@ -5841,9 +5841,9 @@
   "city": "Paris",
   "postal_code": "75015",
   "state": "France",
-  "price_min": "35",
-  "price_max": "",
-  "phone": "+33 1 45 66 09 01",
+  "price_min": "35 euros",
+  "price_max": " euros",
+  "phone": "0145660901",
   "website": "http://www.le-cassenoix.fr",
   "experience": "Assez confortable"
 },{
@@ -5853,9 +5853,9 @@
   "city": "Chamonix-Mont-Blanc",
   "postal_code": "74400",
   "state": "France",
-  "price_min": "33",
-  "price_max": "72",
-  "phone": "+33 4 50 53 00 03",
+  "price_min": "33 euros",
+  "price_max": "72 euros",
+  "phone": "0450530003",
   "website": "http://www.hameaualbert.fr",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -5865,9 +5865,9 @@
   "city": "Niort",
   "postal_code": "79000",
   "state": "France",
-  "price_min": "17",
-  "price_max": "43",
-  "phone": "+33 5 49 24 05 34",
+  "price_min": "17 euros",
+  "price_max": "43 euros",
+  "phone": "0549240534",
   "website": "http://www.leptitrouquin.com",
   "experience": "Assez confortable"
 },{
@@ -5877,9 +5877,9 @@
   "city": "Blienschwiller",
   "postal_code": "67650",
   "state": "France",
-  "price_min": "33",
-  "price_max": "57",
-  "phone": "+33 3 88 92 43 01",
+  "price_min": "33 euros",
+  "price_max": "57 euros",
+  "phone": "0388924301",
   "experience": "Confortable"
 },{
   "name": "L'Eau d'Oust",
@@ -5888,9 +5888,9 @@
   "city": "Rohan",
   "postal_code": "56580",
   "state": "France",
-  "price_min": "18",
-  "price_max": "80",
-  "phone": "+33 2 97 38 91 86",
+  "price_min": "18 euros",
+  "price_max": "80 euros",
+  "phone": "0297389186",
   "website": "http://www.leaudoust.fr",
   "experience": "Confortable"
 },{
@@ -5900,9 +5900,9 @@
   "city": "Remiremont",
   "postal_code": "88200",
   "state": "France",
-  "price_min": "31",
-  "price_max": "69",
-  "phone": "+33 3 29 62 08 04",
+  "price_min": "31 euros",
+  "price_max": "69 euros",
+  "phone": "0329620804",
   "website": "http://www.leclosheurtebise.com",
   "experience": "Confortable"
 },{
@@ -5912,9 +5912,9 @@
   "city": "Belfort",
   "postal_code": "90000",
   "state": "France",
-  "price_min": "23",
-  "price_max": "65",
-  "phone": "+33 3 84 28 04 60",
+  "price_min": "23 euros",
+  "price_max": "65 euros",
+  "phone": "0384280460",
   "website": "http://www.hotellescapucins.com",
   "experience": "Confortable"
 },{
@@ -5924,9 +5924,9 @@
   "city": "Lans-en-Vercors",
   "postal_code": "38250",
   "state": "France",
-  "price_min": "18",
-  "price_max": "54",
-  "phone": "+33 4 76 95 48 99",
+  "price_min": "18 euros",
+  "price_max": "54 euros",
+  "phone": "0476954899",
   "experience": "Assez confortable"
 },{
   "name": "Perle des Vosges",
@@ -5935,9 +5935,9 @@
   "city": "Muhlbach-sur-Munster",
   "postal_code": "68380",
   "state": "France",
-  "price_min": "18",
-  "price_max": "59",
-  "phone": "+33 3 89 77 61 34",
+  "price_min": "18 euros",
+  "price_max": "59 euros",
+  "phone": "0389776134",
   "website": "http://www.perledesvosges.net",
   "experience": "Confortable"
 },{
@@ -5947,18 +5947,18 @@
   "city": "Gundershoffen",
   "postal_code": "67110",
   "state": "France",
-  "price_min": "33",
-  "price_max": "68",
-  "phone": "+33 3 88 72 96 43",
+  "price_min": "33 euros",
+  "price_max": "68 euros",
+  "phone": "0388729643",
   "website": "http://www.aucygne.fr",
   "experience": "Confortable"
 },{
   "name": "La Gazette",
   "type": "Cuisine moderne",
   "street": "\n                                \n                                    \n                                        2 Offres\n                                    \n                                \n                            \n                                    \n                                        \n                                            2 Offres\n                                        \n                                    \n                                ",
-  "price_min": "26",
-  "price_max": "54",
-  "phone": "+33 2 32 33 43 40",
+  "price_min": "26 euros",
+  "price_max": "54 euros",
+  "phone": "0232334340",
   "experience": "Confortable"
 },{
   "name": "Mokko",
@@ -5967,9 +5967,9 @@
   "city": "Paris",
   "postal_code": "75018",
   "state": "France",
-  "price_min": "24",
-  "price_max": "45",
-  "phone": "+33 9 80 96 93 60",
+  "price_min": "24 euros",
+  "price_max": "45 euros",
+  "phone": "0980969360",
   "experience": "Assez confortable"
 },{
   "name": "Le Castet",
@@ -5978,9 +5978,9 @@
   "city": "Martres-Tolosane",
   "postal_code": "31220",
   "state": "France",
-  "price_min": "19",
-  "price_max": "100",
-  "phone": "+33 5 61 98 80 20",
+  "price_min": "19 euros",
+  "price_max": "100 euros",
+  "phone": "0561988020",
   "website": "http://maisoncastet.eatbu.com",
   "experience": "Confortable"
 },{
@@ -5990,9 +5990,9 @@
   "city": "Rivesaltes",
   "postal_code": "66600",
   "state": "France",
-  "price_min": "29",
-  "price_max": "34",
-  "phone": "+33 4 68 34 35 77",
+  "price_min": "29 euros",
+  "price_max": "34 euros",
+  "phone": "0468343577",
   "website": "http://www.latabledaime.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -6002,9 +6002,9 @@
   "city": "Cahors",
   "postal_code": "46000",
   "state": "France",
-  "price_min": "27",
-  "price_max": "45",
-  "phone": "+33 5 65 35 65 69",
+  "price_min": "27 euros",
+  "price_max": "45 euros",
+  "phone": "0565356569",
   "website": "http://www.loalabouche-restaurant.com",
   "experience": "Confortable"
 },{
@@ -6014,9 +6014,9 @@
   "city": "Montarcher",
   "postal_code": "42380",
   "state": "France",
-  "price_min": "34",
-  "price_max": "55",
-  "phone": "+33 4 77 50 00 08",
+  "price_min": "34 euros",
+  "price_max": "55 euros",
+  "phone": "0477500008",
   "website": "http://www.leclosperche.fr",
   "experience": "Confortable"
 },{
@@ -6026,9 +6026,9 @@
   "city": "Pomerol",
   "postal_code": "33500",
   "state": "France",
-  "price_min": "21",
-  "price_max": "61",
-  "phone": "+33 5 57 84 40 40",
+  "price_min": "21 euros",
+  "price_max": "61 euros",
+  "phone": "0557844040",
   "experience": "Assez confortable"
 },{
   "name": "L'Arche de Meslay",
@@ -6037,9 +6037,9 @@
   "city": "Parçay-Meslay",
   "postal_code": "37210",
   "state": "France",
-  "price_min": "23",
-  "price_max": "75",
-  "phone": "+33 2 47 29 00 07",
+  "price_min": "23 euros",
+  "price_max": "75 euros",
+  "phone": "0247290007",
   "website": "http://www.larchedemeslay.fr",
   "experience": "Confortable"
 },{
@@ -6049,9 +6049,9 @@
   "city": "Chonas-l'Amballan",
   "postal_code": "38121",
   "state": "France",
-  "price_min": "30",
-  "price_max": "55",
-  "phone": "+33 4 74 58 83 28",
+  "price_min": "30 euros",
+  "price_max": "55 euros",
+  "phone": "0474588328",
   "website": "http://www.domaine-de-clairefontaine.fr",
   "experience": "Assez confortable"
 },{
@@ -6061,9 +6061,9 @@
   "city": "Saint-Julien-Chapteuil",
   "postal_code": "43260",
   "state": "France",
-  "price_min": "31",
-  "price_max": "80",
-  "phone": "+33 4 71 08 70 50",
+  "price_min": "31 euros",
+  "price_max": "80 euros",
+  "phone": "0471087050",
   "website": "http://www.restaurant-vidal.com",
   "experience": "Très confortable"
 },{
@@ -6073,9 +6073,9 @@
   "city": "Châteauneuf-de-Gadagne",
   "postal_code": "84470",
   "state": "France",
-  "price_min": "21",
-  "price_max": "70",
-  "phone": "+33 4 90 16 08 61",
+  "price_min": "21 euros",
+  "price_max": "70 euros",
+  "phone": "0490160861",
   "website": "http://www.lamaisondecelou84.com",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -6085,9 +6085,9 @@
   "city": "quartier de Caseblanche",
   "postal_code": "Saint-Martin-de-Belleville",
   "state": "Saint-Martin-de-Belleville",
-  "price_min": "34",
-  "price_max": "58",
-  "phone": "+33 4 86 80 02 91",
+  "price_min": "34 euros",
+  "price_max": "58 euros",
+  "phone": "0486800291",
   "website": "http://www.simple-meilleur.com",
   "experience": "Assez confortable"
 },{
@@ -6097,9 +6097,9 @@
   "city": "L'Isle-sur-la-Sorgue",
   "postal_code": "84800",
   "state": "France",
-  "price_min": "20",
-  "price_max": "54",
-  "phone": "+33 4 90 95 27 85",
+  "price_min": "20 euros",
+  "price_max": "54 euros",
+  "phone": "0490952785",
   "website": "http://www.balade-des-saveurs.com",
   "experience": "Confortable"
 },{
@@ -6109,9 +6109,9 @@
   "city": "Rions",
   "postal_code": "33410",
   "state": "France",
-  "price_min": "18",
-  "price_max": "55",
-  "phone": "+33 5 56 27 43 31",
+  "price_min": "18 euros",
+  "price_max": "55 euros",
+  "phone": "0556274331",
   "website": "http://www.lechaudrondanna.com",
   "experience": "Assez confortable"
 },{
@@ -6121,9 +6121,9 @@
   "city": "Locronan",
   "postal_code": "29180",
   "state": "France",
-  "price_min": "19",
-  "price_max": "45",
-  "phone": "+33 2 56 10 18 37",
+  "price_min": "19 euros",
+  "price_max": "45 euros",
+  "phone": "0256101837",
   "experience": "Assez confortable"
 },{
   "name": "Le St-Vincent",
@@ -6132,9 +6132,9 @@
   "city": "Roquefort",
   "postal_code": "40120",
   "state": "France",
-  "price_min": "24",
-  "price_max": "42",
-  "phone": "+33 5 58 45 75 36",
+  "price_min": "24 euros",
+  "price_max": "42 euros",
+  "phone": "0558457536",
   "website": "http://www.lestvincent.com",
   "experience": "Confortable"
 },{
@@ -6144,9 +6144,9 @@
   "city": "Toulon",
   "postal_code": "83000",
   "state": "France",
-  "price_min": "30",
-  "price_max": "49",
-  "phone": "+33 4 94 92 98 21",
+  "price_min": "30 euros",
+  "price_max": "49 euros",
+  "phone": "0494929821",
   "website": "http://www.carre2vigne.com",
   "experience": "Assez confortable"
 },{
@@ -6156,9 +6156,9 @@
   "city": "Castries",
   "postal_code": "34160",
   "state": "France",
-  "price_min": "24",
-  "price_max": "69",
-  "phone": "+33 4 67 41 97 86",
+  "price_min": "24 euros",
+  "price_max": "69 euros",
+  "phone": "0467419786",
   "website": "http://www.disini-hotel.com",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -6168,9 +6168,9 @@
   "city": "Busnes",
   "postal_code": "62350",
   "state": "France",
-  "price_min": "33",
-  "price_max": "57",
-  "phone": "+33 3 21 68 88 88",
+  "price_min": "33 euros",
+  "price_max": "57 euros",
+  "phone": "0321688888",
   "website": "http://www.lejardindalice.fr",
   "experience": "Confortable. Nos établissements de charme."
 },{
@@ -6180,9 +6180,9 @@
   "city": "Salies-de-Béarn",
   "postal_code": "64270",
   "state": "France",
-  "price_min": "33",
-  "price_max": "47",
-  "phone": "+33 5 59 38 01 79",
+  "price_min": "33 euros",
+  "price_max": "47 euros",
+  "phone": "0559380179",
   "website": "http://www.restaurant-des-voisins.fr",
   "experience": "Confortable"
 },{
@@ -6192,9 +6192,9 @@
   "city": "Saint-Étienne-du-Vauvray",
   "postal_code": "27430",
   "state": "France",
-  "price_min": "31",
-  "price_max": "50",
-  "phone": "+33 2 32 59 14 22",
+  "price_min": "31 euros",
+  "price_max": "50 euros",
+  "phone": "0232591422",
   "website": "http://www.restaurant-ferme-haute-cremonville.com",
   "experience": "Assez confortable"
 },{
@@ -6204,9 +6204,9 @@
   "city": "Saint-Jean-de-Thouars",
   "postal_code": "79100",
   "state": "France",
-  "price_min": "20",
-  "price_max": "47",
-  "phone": "+33 5 49 96 12 60",
+  "price_min": "20 euros",
+  "price_max": "47 euros",
+  "phone": "0549961260",
   "website": "http://www.hotellerie-st-jean.com",
   "experience": "Confortable"
 },{
@@ -6216,9 +6216,9 @@
   "city": "Marseille",
   "postal_code": "13002",
   "state": "France",
-  "price_min": "33",
-  "price_max": "42",
-  "phone": "+33 4 91 01 81 39",
+  "price_min": "33 euros",
+  "price_max": "42 euros",
+  "phone": "0491018139",
   "experience": "Assez confortable"
 },{
   "name": "La Côte Rôtie",
@@ -6227,9 +6227,9 @@
   "city": "La Rochelle",
   "postal_code": "17000",
   "state": "France",
-  "price_min": "32",
-  "price_max": "57",
-  "phone": "+33 5 46 44 04 19",
+  "price_min": "32 euros",
+  "price_max": "57 euros",
+  "phone": "0546440419",
   "experience": "Assez confortable"
 },{
   "name": "L'Essentiel",
@@ -6238,9 +6238,9 @@
   "city": "Dijon",
   "postal_code": "21000",
   "state": "France",
-  "price_min": "20",
-  "price_max": "56",
-  "phone": "+33 3 80 30 14 52",
+  "price_min": "20 euros",
+  "price_max": "56 euros",
+  "phone": "0380301452",
   "website": "http://www.lessentiel-dijon.com",
   "experience": "Assez confortable"
 },{
@@ -6250,9 +6250,9 @@
   "city": "Tremblay-en-France",
   "postal_code": "93290",
   "state": "France",
-  "price_min": "33",
-  "price_max": "58",
-  "phone": "+33 1 48 60 69 90",
+  "price_min": "33 euros",
+  "price_max": "58 euros",
+  "phone": "0148606990",
   "website": "http://www.aubergelajumentverte.fr",
   "experience": "Assez confortable"
 },{
@@ -6262,9 +6262,9 @@
   "city": "Boudes",
   "postal_code": "63340",
   "state": "France",
-  "price_min": "24",
-  "price_max": "60",
-  "phone": "+33 4 73 96 55 66",
+  "price_min": "24 euros",
+  "price_max": "60 euros",
+  "phone": "0473965566",
   "website": "http://www.leboudeslavigne.franceserv.com",
   "experience": "Confortable"
 },{
@@ -6274,9 +6274,9 @@
   "city": "Cieurac",
   "postal_code": "46230",
   "state": "France",
-  "price_min": "32",
-  "price_max": "52",
-  "phone": "+33 5 65 20 80 20",
+  "price_min": "32 euros",
+  "price_max": "52 euros",
+  "phone": "0565208020",
   "website": "http://www.hauteserre.fr",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -6286,9 +6286,9 @@
   "city": "La Bussière-sur-Ouche",
   "postal_code": "21360",
   "state": "France",
-  "price_min": "33",
-  "price_max": "39",
-  "phone": "+33 3 80 49 02 29",
+  "price_min": "33 euros",
+  "price_max": "39 euros",
+  "phone": "0380490229",
   "website": "http://www.abbayedelabussiere.fr",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
@@ -6298,9 +6298,9 @@
   "city": "Berrwiller",
   "postal_code": "68500",
   "state": "France",
-  "price_min": "26",
-  "price_max": "82",
-  "phone": "+33 3 89 76 73 19",
+  "price_min": "26 euros",
+  "price_max": "82 euros",
+  "phone": "0389767319",
   "website": "http://www.restaurant-koenig.com",
   "experience": "Confortable"
 },{
@@ -6310,9 +6310,9 @@
   "city": "Weyersheim",
   "postal_code": "67720",
   "state": "France",
-  "price_min": "28",
-  "price_max": "51",
-  "phone": "+33 3 88 51 36 87",
+  "price_min": "28 euros",
+  "price_max": "51 euros",
+  "phone": "0388513687",
   "website": "http://www.pontdelazorn.fr",
   "experience": "Assez confortable"
 },{
@@ -6322,9 +6322,9 @@
   "city": "La Roque-Gageac",
   "postal_code": "24250",
   "state": "France",
-  "price_min": "33",
-  "price_max": "55",
-  "phone": "+33 5 53 29 51 44",
+  "price_min": "33 euros",
+  "price_max": "55 euros",
+  "phone": "0553295144",
   "website": "http://www.belleetoile.fr",
   "experience": "Confortable"
 },{
@@ -6334,9 +6334,9 @@
   "city": "Paris",
   "postal_code": "75007",
   "state": "France",
-  "price_min": "28",
-  "price_max": "65",
-  "phone": "+33 1 45 51 88 38",
+  "price_min": "28 euros",
+  "price_max": "65 euros",
+  "phone": "0145518838",
   "website": "http://www.pottoka.fr",
   "experience": "Assez confortable"
 },{
@@ -6346,9 +6346,9 @@
   "city": "Lectoure",
   "postal_code": "32700",
   "state": "France",
-  "price_min": "21",
-  "price_max": "75",
-  "phone": "+33 5 62 68 95 13",
+  "price_min": "21 euros",
+  "price_max": "75 euros",
+  "phone": "0562689513",
   "website": "http://aubergedesbouviers.eatbu.com",
   "experience": "Assez confortable"
 },{
@@ -6358,9 +6358,9 @@
   "city": "Sancerre",
   "postal_code": "18300",
   "state": "France",
-  "price_min": "23",
-  "price_max": "65",
-  "phone": "+33 2 48 54 13 30",
+  "price_min": "23 euros",
+  "price_max": "65 euros",
+  "phone": "0248541330",
   "website": "http://lapommedor-sancerre.fr",
   "experience": "Assez confortable"
 },{
@@ -6370,9 +6370,9 @@
   "city": "Ribeauvillé",
   "postal_code": "68150",
   "state": "France",
-  "price_min": "17",
-  "price_max": "62",
-  "phone": "+33 3 89 73 64 52",
+  "price_min": "17 euros",
+  "price_max": "62 euros",
+  "phone": "0389736452",
   "website": "http://www.restaurant-menetriers.com",
   "experience": "Confortable"
 },{
@@ -6382,9 +6382,9 @@
   "city": "Paris",
   "postal_code": "75008",
   "state": "France",
-  "price_min": "33",
-  "price_max": "48",
-  "phone": "+33 1 45 63 65 26",
+  "price_min": "33 euros",
+  "price_max": "48 euros",
+  "phone": "0145636526",
   "experience": "Assez confortable"
 },{
   "name": "Auberge le Nézil",
@@ -6393,9 +6393,9 @@
   "city": "Saint-Lyphard",
   "postal_code": "44410",
   "state": "France",
-  "price_min": "34",
-  "price_max": "42",
-  "phone": "+33 2 40 91 41 41",
+  "price_min": "34 euros",
+  "price_max": "42 euros",
+  "phone": "0240914141",
   "website": "http://www.aubergelenezil.fr",
   "experience": "Assez confortable"
 },{
@@ -6405,9 +6405,9 @@
   "city": "Le Grand-Village-Plage",
   "postal_code": "17370",
   "state": "France",
-  "price_min": "33",
-  "price_max": "44",
-  "phone": "+33 5 46 75 82 42",
+  "price_min": "33 euros",
+  "price_max": "44 euros",
+  "phone": "0546758242",
   "website": "http://www.lerelaisdessalines.com",
   "experience": "Assez confortable"
 },{
@@ -6417,9 +6417,9 @@
   "city": "La Tremblade",
   "postal_code": "17390",
   "state": "France",
-  "price_min": "27",
-  "price_max": "69",
-  "phone": "+33 5 46 36 60 01",
+  "price_min": "27 euros",
+  "price_max": "69 euros",
+  "phone": "0546366001",
   "experience": "Assez confortable"
 },{
   "name": "L'Atelier d'Olivier Arlot",
@@ -6428,9 +6428,9 @@
   "city": "Saint-Cyr-sur-Loire",
   "postal_code": "37540",
   "state": "France",
-  "price_min": "33",
-  "price_max": "43",
-  "phone": "+33 2 47 73 18 63",
+  "price_min": "33 euros",
+  "price_max": "43 euros",
+  "phone": "0247731863",
   "experience": "Assez confortable"
 },{
   "name": "Le Vallon de Chérisy",
@@ -6439,9 +6439,9 @@
   "city": "Cherisy",
   "postal_code": "28500",
   "state": "France",
-  "price_min": "31",
-  "price_max": "70",
-  "phone": "+33 2 37 43 70 08",
+  "price_min": "31 euros",
+  "price_max": "70 euros",
+  "phone": "0237437008",
   "website": "http://www.le-vallon-de-cherisy.fr",
   "experience": "Confortable"
 },{
@@ -6451,9 +6451,9 @@
   "city": "Castres",
   "postal_code": "81100",
   "state": "France",
-  "price_min": "30",
-  "price_max": "48",
-  "phone": "+33 5 63 35 78 42",
+  "price_min": "30 euros",
+  "price_max": "48 euros",
+  "phone": "0563357842",
   "experience": "Confortable"
 },{
   "name": "L'Écureuil",
@@ -6462,9 +6462,9 @@
   "city": "Clermont-Ferrand",
   "postal_code": "63000",
   "state": "France",
-  "price_min": "15",
-  "price_max": "52",
-  "phone": "+33 4 73 37 83 86",
+  "price_min": "15 euros",
+  "price_max": "52 euros",
+  "phone": "0473378386",
   "experience": "Assez confortable"
 },{
   "name": "Biscotte",
@@ -6473,9 +6473,9 @@
   "city": "Paris",
   "postal_code": "75015",
   "state": "France",
-  "price_min": "38",
-  "price_max": "49",
-  "phone": "+33 1 45 33 22 22",
+  "price_min": "38 euros",
+  "price_max": "49 euros",
+  "phone": "0145332222",
   "website": "http://www.restaurant-biscotte.com",
   "experience": "Assez confortable"
 },{
@@ -6485,9 +6485,9 @@
   "city": "Montpellier",
   "postal_code": "34000",
   "state": "France",
-  "price_min": "23",
-  "price_max": "45",
-  "phone": "+33 4 67 60 61 65",
+  "price_min": "23 euros",
+  "price_max": "45 euros",
+  "phone": "0467606165",
   "experience": "Assez confortable"
 },{
   "name": "Les Canailles Pigalle",
@@ -6496,9 +6496,9 @@
   "city": "Paris",
   "postal_code": "75009",
   "state": "France",
-  "price_min": "37",
-  "price_max": "55",
-  "phone": "+33 1 48 74 10 48",
+  "price_min": "37 euros",
+  "price_max": "55 euros",
+  "phone": "0148741048",
   "website": "http://www.restaurantlescanailles.fr",
   "experience": "Assez confortable"
 },{
@@ -6508,9 +6508,9 @@
   "city": "Beaulieu-sur-Dordogne",
   "postal_code": "19120",
   "state": "France",
-  "price_min": "16",
-  "price_max": "62",
-  "phone": "+33 5 55 28 63 60",
+  "price_min": "16 euros",
+  "price_max": "62 euros",
+  "phone": "0555286360",
   "website": "http://www.leturenne.com",
   "experience": "Assez confortable"
 },{
@@ -6520,9 +6520,9 @@
   "city": "Paris",
   "postal_code": "75017",
   "state": "France",
-  "price_min": "24",
-  "price_max": "65",
-  "phone": "+33 1 42 28 89 53",
+  "price_min": "24 euros",
+  "price_max": "65 euros",
+  "phone": "0142288953",
   "website": "http://www.comme-chez-maman.com",
   "experience": "Assez confortable"
 },{
@@ -6532,9 +6532,9 @@
   "city": "Lorient",
   "postal_code": "56100",
   "state": "France",
-  "price_min": "22",
-  "price_max": "70",
-  "phone": "+33 2 97 84 71 92",
+  "price_min": "22 euros",
+  "price_max": "70 euros",
+  "phone": "0297847192",
   "website": "http://www.restaurantalorient.com",
   "experience": "Confortable"
 },{
@@ -6544,18 +6544,18 @@
   "city": "Clermont-Ferrand",
   "postal_code": "63000",
   "state": "France",
-  "price_min": "20",
-  "price_max": "60",
-  "phone": "+33 4 73 90 44 02",
+  "price_min": "20 euros",
+  "price_max": "60 euros",
+  "phone": "0473904402",
   "website": "http://www.restaurant-smorrebrod.com",
   "experience": "Assez confortable"
 },{
   "name": "Sadarnac",
   "type": "Cuisine moderne",
   "street": "\n                                \n                                    \n                                        1 Offre\n                                    \n                                \n                            \n                                    \n                                        \n                                            1 Offre\n                                        \n                                    \n                                ",
-  "price_min": "25",
-  "price_max": "62",
-  "phone": "+33 1 72 60 72 06",
+  "price_min": "25 euros",
+  "price_max": "62 euros",
+  "phone": "0172607206",
   "experience": "Assez confortable"
 },{
   "name": "Jeu de Quilles",
@@ -6564,9 +6564,9 @@
   "city": "Cajarc",
   "postal_code": "46160",
   "state": "France",
-  "price_min": "32",
-  "price_max": "36",
-  "phone": "+33 5 65 33 71 40",
+  "price_min": "32 euros",
+  "price_max": "36 euros",
+  "phone": "0565337140",
   "experience": "Assez confortable"
 },{
   "name": "Le Bastion",
@@ -6575,9 +6575,9 @@
   "city": "Lagrasse",
   "postal_code": "11220",
   "state": "France",
-  "price_min": "21",
-  "price_max": "52",
-  "phone": "+33 4 68 12 02 51",
+  "price_min": "21 euros",
+  "price_max": "52 euros",
+  "phone": "0468120251",
   "website": "http://www.restaurant-bastion-lagrasse.fr",
   "experience": "Assez confortable"
 },{
@@ -6587,9 +6587,9 @@
   "city": "Aurillac",
   "postal_code": "15000",
   "state": "France",
-  "price_min": "34",
-  "price_max": "80",
-  "phone": "+33 4 71 64 85 38",
+  "price_min": "34 euros",
+  "price_max": "80 euros",
+  "phone": "0471648538",
   "website": "http://www.quatresaisons.onlc.fr",
   "experience": "Assez confortable"
 },{
@@ -6599,9 +6599,9 @@
   "city": "Combeaufontaine",
   "postal_code": "70120",
   "state": "France",
-  "price_min": "30",
-  "price_max": "74",
-  "phone": "+33 3 84 92 11 13",
+  "price_min": "30 euros",
+  "price_max": "74 euros",
+  "phone": "0384921113",
   "website": "http://www.le-balcon-70.fr",
   "experience": "Confortable"
 }]

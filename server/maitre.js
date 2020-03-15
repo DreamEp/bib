@@ -17,10 +17,13 @@ const parse = data => {
     address = address.replace(/\n|  /g,'');
 
     var phone = $(element).find('div.single_info3 > div:nth-child(3)').text();
-    phone = phone.replace(/\n| /g,'');
+    if (phone!=undefined)
+    {
+      phone=phone.trim().replace(/,/g, '').split(" ").join("");
+    }
 
 
-    maitres.push(JSON.stringify({ name: name_tab[0], address: address, phone: "+33 " + phone }, null, 2));
+    maitres.push(JSON.stringify({ name: name_tab[0], address: address, phone: phone }, null, 2));
 
   });
   return maitres;

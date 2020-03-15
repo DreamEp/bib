@@ -21,13 +21,18 @@ const parse = data => {
 
   var price_min= $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('\n')[2];
   if(price_min != undefined) price_min = price_min.trim();
+  price_min = price_min + " euros";
   var price_max = $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('\n')[5];
   if(price_max != undefined) price_max = price_max.trim();
+  price_max = price_max + " euros";
 
   var type = $('div.restaurant-details__heading.d-lg-none > ul > li.restaurant-details__heading-price').text().split('•')[1];
   if(type != undefined) type = type.trim();
 
-  const phone = $('.section-main span.flex-fill').text().substring(0,17);
+  var phone = $('span[x-ms-format-detection="none"]').text().trim();
+	phone=phone.replace(/\s/g, '');
+	phone=phone.substring(3)
+	phone="0".concat(phone);
   const website = $('body > main > div.restaurant-details > div.container > div > div.col-xl-8.col-lg-7 > section:nth-child(4) > div.row > div:nth-child(1) > div > div.collapse__block-item.link-item > a').attr('href');
   
   var experience =$('#experience-section > ul > li:nth-child(2)').text().split('\n')[2];
