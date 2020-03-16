@@ -379,13 +379,13 @@
   "address": "51 rue de la r�publique38440 SAINT-JEAN-DE-BOURNAY",
   "phone": "0474877334"
 },{
-  "name": "LES FOUS DE L'ILE",
-  "address": "33 avenue des deux ponts75004 PARIS",
-  "phone": "0143257667"
-},{
   "name": "LE COLVERT BISTROT",
   "address": "Angle 30 rue des grands augustins 54 rue Saint Andr� des Arts75006 PARIS",
   "phone": "0142037367"
+},{
+  "name": "LES FOUS DE L'ILE",
+  "address": "33 avenue des deux ponts75004 PARIS",
+  "phone": "0143257667"
 },{
   "name": "LE CHRISTINE",
   "address": "1 rue Christine75006 PARIS",
@@ -1019,10 +1019,6 @@
   "address": "7 avenue Georges Cl�menceau06000 NICE",
   "phone": "0493887923"
 },{
-  "name": "LA GUEULARDIERE",
-  "address": "66 avenue du GAL DE GAULLE77330 OZOIR-LA-FERRI�RE",
-  "phone": "0160029456"
-},{
   "name": "L'AMARYLLIS",
   "address": "Chemin de Martorez71100 SAINT-REMY",
   "phone": "0385448634"
@@ -1038,11 +1034,11 @@
   "name": "L'IMPROMPTU",
   "address": "Place henri Mengin54000 NANCY",
   "phone": "0383300256"
-}]{
+},{
   "name": "AUX PESKED DEAUVILLE",
   "address": "35 AVENUE DE LA REPUBLIQUE14800 DEAUVILLE",
   "phone": "0231880040"
-},{
+}]{
   "name": "LA COMMANDERIE DE CHAMPAREY",
   "address": "7 Boulevard de Champaret38300 BOURGOIN-JALLIEU",
   "phone": "0474930426"
@@ -1078,11 +1074,11 @@
   "name": "L'AMBASSADE DES TERROIRS",
   "address": "45 rue Pierre Timbaud92230 GENNEVILLIERS",
   "phone": "0147983926"
-}]{
+},{
   "name": "LE BEC AU CAUCHOIS",
   "address": "rue Andr� Fiquet76540 VALMONT",
   "phone": "0235297756"
-},{
+}]{
   "name": "AU P�RE LAPIN",
   "address": "10 rue du Calvaire92150 SURESNES",
   "phone": "0145067289"
@@ -1118,11 +1114,11 @@
   "name": "LA CALYPSO",
   "address": "158 rue du P�56340 CARNAC PLAGE",
   "phone": "0297520614"
-}]{
+},{
   "name": "DOMAINE DU SEUDRE",
   "address": "2 le rail17240 SAINT-GERMAIN-DU-SEUDRE",
   "phone": "0546709126"
-},{
+}]{
   "name": "LA TETRADE COTE LAC",
   "address": "1187 avenue Touring Club de France40150 HOSSEGOR",
   "phone": "0558435148"
@@ -1158,11 +1154,11 @@
   "name": "LA MAISON CARRIER",
   "address": "44 route du Bouchet74400 CHAMONIX-MONT-BLANC",
   "phone": "0450530003"
-}]{
+},{
   "name": "LE PATIO",
   "address": "32 rue Saint Jean66500 VILLEFRANCHE-DE-CONFLENT",
   "phone": "0468050192"
-},{
+}]{
   "name": "LOU PEBRE D'A�",
   "address": "Quartier Sainte Madeleine83640 PLAN D'AUPS",
   "phone": "0442045042"
@@ -1198,11 +1194,11 @@
   "name": "CUISINE COMPTOIR ET COMPAGNIE",
   "address": "3 Place des Martyrs de la R�sistance79000 NIORT",
   "phone": "0549080532"
-}]{
+},{
   "name": "LA PETITE AUBERGE",
   "address": "4 rue de l'�glise68500 BERGHOLTZ",
   "phone": "0389285290"
-},{
+}]{
   "name": "LE CASTILLAN",
   "address": "RN 9105230 LA GRAVE",
   "phone": "0476799004"
@@ -1238,11 +1234,11 @@
   "name": "LE JARROUSSET",
   "address": "Les Barraires15300 VIRARGUES",
   "phone": "0471201069"
-}]{
+},{
   "name": "RESTAURANT CAZAUDEHORE",
   "address": "1, avenue Kennedy78100 SAINT-GERMAIN-EN-LAYE",
   "phone": "0130616464"
-},{
+}]{
   "name": "LE TIVOLI",
   "address": "Place Gambetta65500 VIC-EN-BIGORRE",
   "phone": "0562967039"
@@ -1278,11 +1274,11 @@
   "name": "L'O DES VIGNES",
   "address": "rue du bourg71960 FUISS�",
   "phone": "0385383340"
-}]{
+},{
   "name": "LA TABLE DE NICOLAS",
   "address": "26 Place Dalton62200 BOULOGNE-SUR-MER",
   "phone": "0321315131"
-},{
+}]{
   "name": "LA GARAUDIERE",
   "address": "10 Grande rue21200 LEVERNOIS",
   "phone": "0380224770"
@@ -1318,11 +1314,11 @@
   "name": "L'ALBATROS",
   "address": "1 boulevard de l'Oc�an56750 DAMGAN",
   "phone": "0297411685"
-}]{
+},{
   "name": "RESTAURANT D'IZOARD",
   "address": "92 le chef lieu05100 CERVI�RES",
   "phone": "0492210649"
-},{
+}]{
   "name": "A L'ERE DU TEMPS",
   "address": "123 avenue de Laon51100 REIMS",
   "phone": "0326061688"
@@ -1358,11 +1354,11 @@
   "name": "LE TIRE BOUCHON",
   "address": "16 rue du Boeuf69005 LYON",
   "phone": "0983228847"
-}]{
+},{
   "name": "CHEZ MARCEL",
   "address": "7 rue Stanislas75006 PARIS",
   "phone": "0145482994"
-},{
+}]{
   "name": "LE MADELEINE",
   "address": "206, rue de la Madeleine27130 VERNEUIL-SUR-AVRE",
   "phone": "0232379181"
@@ -1398,11 +1394,11 @@
   "name": "LE RELAIS FLEURI",
   "address": "LA CERCE89200 SAUVIGNY-LE-BOIS",
   "phone": "0386340285"
-}]{
+},{
   "name": "LA PART DES ANGES",
   "address": "5, place de La Croix35190 B�CHEREL",
   "phone": "0299668723"
-},{
+}]{
   "name": "LE TOURDION",
   "address": "17 rue de sully42300 ROANNE",
   "phone": "0477708458"
@@ -1438,11 +1434,11 @@
   "name": "Le virgil",
   "address": "40 rue Jean Jaur�s31150 FENOUILLET",
   "phone": "0561091472"
-}]{
+},{
   "name": "RESTAURANT LE 32",
   "address": "32 rue Francine Fromont69120 VAULX-EN-VELIN",
   "phone": "0478383305"
-},{
+}]{
   "name": "AUBERGE DE THOIRE",
   "address": "20 route de Bourg39240 THOIRETTE-COISIA",
   "phone": "0474492205"
@@ -1478,11 +1474,11 @@
   "name": "Le Grand R�fectoire",
   "address": "3 Cour Saint-HenriLe Grand Hotel DIEU - Cours Saint Henri<br>Le Grand R�fectoire<br>69002 LYON",
   "phone": "0428280666"
-}]{
+},{
   "name": "LA HALTE NAUTIQUE",
   "address": "Port de Plaisance la Halte Nautique30127 BELLEGRADE",
   "phone": "0466206169"
-},{
+}]{
   "name": "anthony\\'z",
   "address": "10 all�e des tilleulscentre commercial des tilleuls<br>74940 ANNECY-LE-VIEUX",
   "phone": "0632837347"
@@ -1518,11 +1514,11 @@
   "name": "LA CHARTREUSE DU VAL SAINT ESPRIT",
   "address": "1 rue De Fouqui�res62199 GOSNAY",
   "phone": "0321628000"
-}]{
+},{
   "name": "LE RIVALET",
   "address": "Le Rivalet63320 MONTAIGUT-LE-BLANC",
   "phone": "0473967267"
-},{
+}]{
   "name": "Domaine de Chastelet",
   "address": "5 Chemin de la Landaise33360 QUINSAC",
   "phone": "0556338441"
@@ -1558,11 +1554,11 @@
   "name": "HOTEL DU PONT",
   "address": "15 rue du Mal de Rochambeau41100 THOR�-LA-ROCHETTE",
   "phone": "0254728062"
-}]{
+},{
   "name": "BRASSERIE PAUL",
   "address": "1 Place de la cathedrale76000 ROUEN",
   "phone": "0235718607"
-},{
+}]{
   "name": "LA MARINE",
   "address": "5 rue Marie Lemonnier85330 NOIRMOUTIER-EN-L'�LE",
   "phone": "0251392309"
@@ -1598,11 +1594,11 @@
   "name": "LA CHARBONNIERE",
   "address": "Boulevard Joubert44150 ANCENIS",
   "phone": "0240832517"
-}]{
+},{
   "name": "CAFFE MAZZO",
   "address": "23 rue de l'Emin�e63000 CLERMONT FERRAND",
   "phone": "0473442222"
-},{
+}]{
   "name": "BRASSERIE DES HALLES",
   "address": "35 Place des Halles76600 LE HAVRE",
   "phone": "0235417291"
@@ -1638,11 +1634,11 @@
   "name": "RESTAURANT DU CH�TEAU",
   "address": "38 rue du G�n�ral de Gaulle68240 KAYSERSBERG",
   "phone": "0389782433"
-}]{
+},{
   "name": "CAFE FLOW",
   "address": "2 all�e du levant69890 LA TOUR DE SALVAGNY",
   "phone": "0478872987"
-},{
+}]{
   "name": "BRASSERIE FLOW",
   "address": "82 Route de Lyon69680 CHASSIEU",
   "phone": "0472477272"
@@ -1678,11 +1674,11 @@
   "name": "LE FEU DE BOIS",
   "address": "69 route de Lezoux63190 ORL�AT",
   "phone": "0473536086"
-}]{
+},{
   "name": "LES TOURNESOLS",
   "address": "6 rue du pamphiot74200 THONON-LES-BAINS",
   "phone": "0450703670"
-},{
+}]{
   "name": "SCA Cave de Labastide de L�vis",
   "address": "Lieu Dit La Barthe81150 LABASTIDE DE L�VIS",
   "phone": "0563538519"
@@ -1718,11 +1714,11 @@
   "name": "Celest Bar et Restaurant",
   "address": "129 Rue Servienthotel Radisson Blu Lyon<br>69003 LYON 3E ARRONDISSEMENT",
   "phone": "0478635546"
-}]{
+},{
   "name": "AU P'TIT MUNSTER",
   "address": "30 rue de la R�publique68140 MUNSTER",
   "phone": "0389775193"
-},{
+}]{
   "name": "LA PETILLE",
   "address": "27, Place d'Armes95420 MAGNY-EN-VEXIN",
   "phone": "0134672758"
@@ -1758,11 +1754,11 @@
   "name": "NEIGE ET ROC",
   "address": "255 Grande rue74340 SAMO�NS",
   "phone": "0450344072"
-}]{
+},{
   "name": "LE CLAIR DE LUNE",
   "address": "50 rue de Gand59000 LILLE",
   "phone": "0320514655"
-},{
+}]{
   "name": "Restaurant le CITRUS",
   "address": "14 bis, rue Yves Verney35800 DINARD",
   "phone": "0290040354"
@@ -1798,11 +1794,11 @@
   "name": "SCEV DELAVENNE PERE ET FILS",
   "address": "6 RUE DE TOURS SUR MARNE51150 BOUZY",
   "phone": "0326570204"
-}]{
+},{
   "name": "L'ESCAPADE",
   "address": "83 rue du march� aux raisins84410 B�DOIN",
   "phone": "0630344178"
-},{
+}]{
   "name": "COULEURS SAVEURS",
   "address": "2 route de la Bretonni�re50290 BRICQUEVILLE-SUR-MER",
   "phone": "0233616562"
@@ -1838,11 +1834,11 @@
   "name": "Le grain de sel des 3 Tiki",
   "address": "6 Boulevard de Puyblanc19100 BRIVE-LA-GAILLARDE",
   "phone": "0555240622"
-}]{
+},{
   "name": "le castel fleuri",
   "address": "Le Castel Fleuri24 espace du 25 mai 1944<br>83660 CARNOULES",
   "phone": "0494283801"
-},{
+}]{
   "name": "DE BALAJAN",
   "address": "41 route de Montpellier34110 VIC-LA-GARDIOLE",
   "phone": "0467481399"
@@ -1878,11 +1874,11 @@
   "name": "LA CHARPINIERE",
   "address": "La charpini�re42330 SAINT-GALMIER",
   "phone": "0477527500"
-}]{
+},{
   "name": "AUBERGE DE TI COZ",
   "address": "4 hent Coz29000 QUIMPER",
   "phone": "0298945002"
-},{
+}]{
   "name": "HOSTELLERIE DU GRAND SULLY",
   "address": "10 bd du champ de foire45600 SULLY-SUR-LOIRE",
   "phone": "0238362756"
@@ -1918,11 +1914,11 @@
   "name": "Le Floril�ge Saint Jorioz",
   "address": "45 route de l'�glise74410 SAINT-JORIOZ",
   "phone": "0450608078"
-}]{
+},{
   "name": "WISTUB BRENNER",
   "address": "1 rue DE TURENNE68000 COLMAR",
   "phone": "0389414233"
-},{
+}]{
   "name": "BISTROT DES LAVANDIERES",
   "address": "12 rue Saint Jean68000 COLMAR",
   "phone": "0389241922"
@@ -1958,11 +1954,11 @@
   "name": "VILLA DONDELLI",
   "address": "1 rue Monsigny75002 PARIS",
   "phone": "0142961661"
-}]{
+},{
   "name": "Vignes Secr�tes",
   "address": "Ch�teau La Tuili�reLieu dit la Tuili�re<br>33710 SAINT-CIERS-DE-CANESSE",
   "phone": "0557648090"
-},{
+}]{
   "name": "LE TEMPS DES SAISONS",
   "address": "1 B impasse du boucher69330 JONAGE",
   "phone": "0983380507"
@@ -1998,11 +1994,11 @@
   "name": "H�TEL FLORIMONT & LE CHALET FLORIMONT",
   "address": "1006 rue du Champ Canon74210 SAINT-FERR�OL",
   "phone": "0450445005"
-}]{
+},{
   "name": "LES TRESOMS",
   "address": "15 bd de la Corniche74000 ANNECY",
   "phone": "0450514384"
-},{
+}]{
   "name": "LE GRAND MORIEN",
   "address": "35 Place Jean Bart59140 DUNKERQUE",
   "phone": "0328665518"
@@ -2038,11 +2034,11 @@
   "name": "VILLA DUFLOT",
   "address": "ROND POINT ALBERT DONNEZAN66000 PERPIGNAN",
   "phone": "0468566767"
-}]{
+},{
   "name": "LA TABLE",
   "address": "5 avenue Ney57000 METZ",
   "phone": "0387171717"
-},{
+}]{
   "name": "AU CHAPEAU ROUGE",
   "address": "49 Place du Gal de Gaulle37500 CHINON",
   "phone": "0247980808"
@@ -2078,11 +2074,11 @@
   "name": "LE MANOIR DU SPHINX",
   "address": "67 chemin de la messe22700 PERROS-GUIREC",
   "phone": "0296232542"
-}]{
+},{
   "name": "CH�TEAU DE LA TOUR",
   "address": "2 avenue de la Liberation33410 B�GUEY",
   "phone": "0556769200"
-},{
+}]{
   "name": "LE SAINT M",
   "address": "6 avenue de la R�publique13310 SAINT-MARTIN-DE-CRAU",
   "phone": "0490473245"
@@ -2118,11 +2114,11 @@
   "name": "LE RECIPROQUE",
   "address": "14 rue Ferdinand Flocon75018 PARIS",
   "phone": "0986378077"
-}]{
+},{
   "name": "LA HACHE",
   "address": "11, rue de la Douane67000 STRASBOURG",
   "phone": "0388323432"
-},{
+}]{
   "name": "LE SAINT PIERRE",
   "address": "19 rue de S�narmont28100 DREUX",
   "phone": "0237464700"
@@ -2158,11 +2154,11 @@
   "name": "L'ATELIER DE NICOLAS",
   "address": "28 rue d'Alsace de Lorraine30220 AIGUES-MORTES",
   "phone": "0434280484"
-}]{
+},{
   "name": "AR MAEN HIR",
   "address": "15 bis rue du prieur�29180 LOCRONAN",
   "phone": "0256101837"
-},{
+}]{
   "name": "AU CERF D'OR",
   "address": "6 Place de l'h�pital67000 STRASBOURG",
   "phone": "0388362005"
@@ -2198,11 +2194,11 @@
   "name": "RESTAURANT COLLIN",
   "address": "4 rue du Ch�teau68480 FERRETTE",
   "phone": "0389404072"
-}]{
+},{
   "name": "DU COTE DE MARJON",
   "address": "Lieu Dit Le Marjon69510 SOUCIEU EN JAREST",
   "phone": "0478057324"
-},{
+}]{
   "name": "BALADE DES SAVEURS",
   "address": "3 quai Jean Jaur�s84800 L'ISLE-SUR-LA-SORGUE",
   "phone": "0490952785"
@@ -2238,11 +2234,11 @@
   "name": "RESTAURANT PIANO",
   "address": "78 rue Saint S�bastien13006 MARSEILLE",
   "phone": "0491634879"
-}]{
+},{
   "name": "CHAI NOUS COMME CHAI VOUS",
   "address": "1 rue de la garde17630 LA FLOTTE EN RE",
   "phone": "0546094985"
-},{
+}]{
   "name": "LE GRAND JARDIN",
   "address": "6 Place Guillaume de Poupet39210 BAUME-LES-MESSIEURS",
   "phone": "0384446837"
@@ -2275,10 +2271,6 @@
   "address": "102 Cours Lafayette69003 LYON",
   "phone": "0478609161"
 },{
-  "name": "L'ANTIDOTE",
-  "address": "60 bd d'Alsace06400 CANNES",
-  "phone": "0493433219"
-}]{
   "name": "L'ancien moulin",
   "address": "2 place du chateau, 54180 Houdemont, France54180 HOUDEMONT",
   "phone": "0383514013"
@@ -2286,7 +2278,7 @@
   "name": "LA CAFETIERE FELEE",
   "address": "18 rue du Marc06600 ANTIBES",
   "phone": "0493345189"
-},{
+}]{
   "name": "BLACK PEARL",
   "address": "Avenue de l'EuropeLa Coursive, Marina<br>97118 SAINT-FRAN�OIS",
   "phone": "0690561990"
@@ -2318,7 +2310,7 @@
   "name": "FLOTTES",
   "address": "2 rue Cambon75001 PARIS",
   "phone": "0142608089"
-}]{
+},{
   "name": "LES SENS DE LA TOUPINE",
   "address": "Rue Mireille13140 MIRAMAS LE VIEUX",
   "phone": "0490582194"
@@ -2326,7 +2318,7 @@
   "name": "LA TERRASSE DES ETANGS",
   "address": "Domaine d'EpeyssolesRoute de M�z�riat<br>01540 VONNAS",
   "phone": "0474424242"
-},{
+}]{
   "name": "NONNA GIULIA",
   "address": "11 all�e du midi54270 ESSEY-L�S-NANCY",
   "phone": "0383364305"
@@ -2358,7 +2350,7 @@
   "name": "Auberge de la Belette",
   "address": "lieu dit la belette63890 LE MONESTIER",
   "phone": "0473722130"
-}]{
+},{
   "name": "CAFE BRUNET",
   "address": "18 Place gabriel Faur�74940 ANNECY-LE-VIEUX",
   "phone": "0450230790"
@@ -2366,7 +2358,7 @@
   "name": "L'EQUINOXE",
   "address": "33 avenue M.SAMSON85360 LA TRANCHE-SUR-MER",
   "phone": "0251301112"
-},{
+}]{
   "name": "LA FLEUR DE SEL",
   "address": "68 route nationale 2045520 CERCOTTES",
   "phone": "0238754111"
@@ -2398,7 +2390,7 @@
   "name": "LA CANTINE DU CUR�",
   "address": "1 rue Sainte Croix44000 NANTES",
   "phone": "0240203610"
-}]{
+},{
   "name": "BRASSERIE QUARTIER GABRIEL",
   "address": "75 rue Blaise Pascal38330 MONTBONNOT-SAINT-MARTIN",
   "phone": "0476630821"
@@ -2406,7 +2398,7 @@
   "name": "LE MODERNE",
   "address": "25 bld Aristide Briand26200 MONT�LIMAR",
   "phone": "0475013190"
-},{
+}]{
   "name": "RESTAURANT A LA 12",
   "address": "6 Place de la R�publique57590 DELME",
   "phone": "0387013018"
@@ -2438,7 +2430,7 @@
   "name": "LA CORDE A LINGE",
   "address": "3 Place Benjamin Zix67000 STRASBOURG",
   "phone": "0388221517"
-}]{
+},{
   "name": "LE RELAIS DES SAVEURS",
   "address": "1 Place du Kaufhaus67520 MARLENHEIN",
   "phone": "0388875005"
@@ -2446,7 +2438,7 @@
   "name": "LA CABANE DU FIER",
   "address": "Le Martray17590 ARS-EN-R�",
   "phone": "0546296484"
-},{
+}]{
   "name": "Champagne Ch�teau de Boursault",
   "address": "2 Rue Maurice Gilbert51480 BOURSAULT",
   "phone": "0326584221"
@@ -2478,7 +2470,7 @@
   "name": "DOMAINE DU NORMANDOUX",
   "address": "rue des Sapins86800 TERC�",
   "phone": "0549010201"
-}]{
+},{
   "name": "LA COLOMBE",
   "address": "3890 Route du Mont Ventoux,Hameau de Sainte Colombe<br>84410 B�DOIN",
   "phone": "0490656120"
@@ -2486,7 +2478,7 @@
   "name": "LA FLAMICHE",
   "address": "20 Place de jacques Fleury80700 ROYE",
   "phone": "0322870056"
-},{
+}]{
   "name": "LA PALETTE",
   "address": "9 rue Herzog68920 WETTOLSHEIM",
   "phone": "0389807914"
@@ -2518,7 +2510,7 @@
   "name": "LE VAUBAN",
   "address": "32 place du G�n�ral de Gaulle62170 MONTREUIL SUR MER",
   "phone": "0321060495"
-}]{
+},{
   "name": "LE MARMITROLL",
   "address": "1 Place du champ de mars07400 MEYSSE",
   "phone": "0475015388"
@@ -2526,7 +2518,7 @@
   "name": "L'AUBERGE DE CASSAGNE",
   "address": "450 all�e de Cassagne84130 LE PONTET",
   "phone": "0490310418"
-},{
+}]{
   "name": "la nouvelle vague",
   "address": "24 avenue joie et lumi�re66700 ARGEL�S-SUR-MER",
   "phone": "0620572764"
@@ -2558,7 +2550,7 @@
   "name": "LE SMART",
   "address": "8 rue claus sluter21000 DIJON",
   "phone": "0380742636"
-}]{
+},{
   "name": "RESTAURANT PIERRE",
   "address": "7 et 9 rue Joseph Dufour71000 M�CON",
   "phone": "0385381423"
@@ -2566,7 +2558,7 @@
   "name": "SCEADU FOUR BASSOT",
   "address": "35 RUE DES FOUGERES 71640 SAINT-MARD-DE-VAUX",
   "phone": "0385451304"
-},{
+}]{
   "name": "AUBERGE DE LA GRENOUILLERE",
   "address": "19 rue de la grenouill�re62170 LA MADELAINE SOUS MONTREUIL",
   "phone": "0321060722"
@@ -2598,7 +2590,7 @@
   "name": "LE CHALET",
   "address": "3 avenue Alexandre BRAUD44540 SAINT-MARS-LA-JAILLE",
   "phone": "0240970648"
-}]{
+},{
   "name": "LA TABL'ATURE",
   "address": "12 rue Bechevelin69007 LYON",
   "phone": "0986265236"
@@ -2606,7 +2598,7 @@
   "name": "LE SEJOUR CAFE",
   "address": "11 rue Grimaldi06000 NICE",
   "phone": "0493273784"
-},{
+}]{
   "name": "RESTAURANT DE L'AGRICULTURE",
   "address": "449 avenue du Centre12160 BARAQUEVILLE",
   "phone": "0565690979"
@@ -2638,7 +2630,7 @@
   "name": "LE TREFLE",
   "address": "38-40 route d'Espagne31120 PORTET-SUR-GARONNE",
   "phone": "0562200260"
-}]{
+},{
   "name": "LA CORDERIE",
   "address": "Chemin de la corderie35400 SAINT-MALO",
   "phone": "0299816238"
@@ -2646,7 +2638,7 @@
   "name": "LE LIDO",
   "address": "138 chemin tour du lac88400 G�RARDMER",
   "phone": "0329636732"
-},{
+}]{
   "name": "AUBERGE DE VEZON",
   "address": "58 rue des Vignerons57420 MARIEULLES-VEZON",
   "phone": "0387699198"
@@ -2678,7 +2670,7 @@
   "name": "sarl domaine de la perdrix",
   "address": "Domaine de la Perdrixtraverse de thuir<br>66300 TROUILLAS",
   "phone": "0468531274"
-}]{
+},{
   "name": "La table d�Ambre",
   "address": "46, rue Franklin69002 LYON",
   "phone": "0472561276"
@@ -2686,7 +2678,7 @@
   "name": "LA TABLE DU 5",
   "address": "11 Place de l'Hotel de ville67140 BARR",
   "phone": "0369478109"
-},{
+}]{
   "name": "L'AUBERGE DES RIS",
   "address": "LIEU DIT RIS03190 VALLON-EN-SULLY",
   "phone": "0470065112"
@@ -2718,7 +2710,7 @@
   "name": "LA TABLE DES BAUGES",
   "address": "1821 route d'Annecy73410 LA BIOLLE",
   "phone": "0479346593"
-}]{
+},{
   "name": "MONSIEUR RESTAURANT",
   "address": "7 rue de Berri75008 PARIS",
   "phone": "0140764076"
@@ -2726,7 +2718,7 @@
   "name": "LOU CANTOUN",
   "address": "4 rt Albi81150 CESTAYROLS",
   "phone": "0563532839"
-},{
+}]{
   "name": "LA BONNE ETAPE",
   "address": "Chemin du Lac04160 CH�TEAU-ARNOUX SAINT-AUBAN",
   "phone": "0492640009"
@@ -2758,7 +2750,7 @@
   "name": "LES CAPUCINS",
   "address": "20 faubourg de Montb�liard90000 BELFORT",
   "phone": "0384280460"
-}]{
+},{
   "name": "RESTAURANT CEDRIC GOLA",
   "address": "22 avenue Georges Cl�menceau83250 LA LONDE DES MAURES",
   "phone": "0494669793"
@@ -2766,7 +2758,7 @@
   "name": "CHANTEFABLE",
   "address": "93 AV GAMBETTA75020 PARIS",
   "phone": "0146368176"
-},{
+}]{
   "name": "AUBERGE DE LA LOIRE",
   "address": "2 Quai Mariniers49570 MONTJEAN-SUR-LOIRE",
   "phone": "0241398020"
@@ -2798,7 +2790,7 @@
   "name": "AUBERGE DU VIEUX PUITS",
   "address": "5 avenue St Victor11360 FONTJONCOUSE",
   "phone": "0468440737"
-}]{
+},{
   "name": "LE JAS DU MAS",
   "address": "ld Jas du Mas63660 SAINT-ANTH�ME",
   "phone": "0473958065"
@@ -2806,7 +2798,7 @@
   "name": "PARFUM POIVRE",
   "address": "23 rue Couraye50400 GRANVILLE",
   "phone": "0233691798"
-},{
+}]{
   "name": "Terr�a Safran",
   "address": "161 passage Mathieu eyraud33750 N�RIGEAN",
   "phone": "0662651514"
@@ -2838,7 +2830,7 @@
   "name": "CHEZ LE P�R'GRAS",
   "address": "Chemin de la Bastille38700 LA TRONCHE",
   "phone": "0476420947"
-}]{
+},{
   "name": "Le baribal",
   "address": "186 rue de vaugirard75015 PARIS",
   "phone": "0147341532"
@@ -2846,7 +2838,7 @@
   "name": "LES ENFANTS TERRIBLES",
   "address": "28 bd de la r�publique34420 VILLENEUVE LES BEZIERS",
   "phone": "0467394845"
-},{
+}]{
   "name": "CAJARC BLUE HOTEL",
   "address": "380 avenue Fran�ois Mitterrand46160 CAJARC",
   "phone": "0565406535"
@@ -2863,10 +2855,6 @@
   "address": "1 rue de la malcoute85620 ROCHESERVI�RE",
   "phone": "0679109622"
 },{
-  "name": "RESTAURANT RATATOUILLE",
-  "address": "1 Place du general Leclerc33480 CASTELNAU-DE-M�DOC",
-  "phone": "0556901047"
-},{
   "name": "L'ECU DE France",
   "address": "10 Place du Martroi45330 MALESHERBES",
   "phone": "0238348725"
@@ -2878,7 +2866,7 @@
   "name": "RESTAURANT LE VIVIER",
   "address": "9 rue Beg er Vir Lomener56270 PLOEMEUR",
   "phone": "0297829960"
-}]{
+},{
   "name": "L'HOSTELLERIE DE LA POSTE",
   "address": "9 Place Emile Zola58500 CLAMECY",
   "phone": "0386270155"
@@ -2890,7 +2878,7 @@
   "name": "Le Duplex",
   "address": "183 place de la gare73000 CHAMB�RY",
   "phone": "0479752879"
-},{
+}]{
   "name": "LOULOU COTE SAUVAGE",
   "address": "19, Route BleueLa Chaume<br>85100 LES SABLES-D'OLONNE",
   "phone": "0251213232"
@@ -2918,7 +2906,7 @@
   "name": "LES CANAILLES MENILMONTANT",
   "address": "15 rue des Panoyaux75020 PARIS",
   "phone": "0143584545"
-}]{
+},{
   "name": "LE FATRA",
   "address": "21 quai George V85100 LES SABLES-D'OLONNE",
   "phone": "0251326873"
@@ -2930,7 +2918,7 @@
   "name": "L'ARUM",
   "address": "21 avenue joseph Clotis83400 HY�RES",
   "phone": ""
-},{
+}]{
   "name": "L'IMP�RIAL",
   "address": "Laboutari�81120 LABOUTARIE",
   "phone": "0563420449"
@@ -2958,14 +2946,10 @@
   "name": "LE FORT DU PRE",
   "address": "LE FORT DU PRE43290 SAINT-BONNET-LE-FROID",
   "phone": "0471599183"
-}]{
+},{
   "name": "brasserie des terreaux",
   "address": "8, place des Terreaux01300 BELLEY",
   "phone": "0479810015"
-},{
-  "name": "BRASSERIE BREI'Z",
-  "address": "1 jardins Allende22000 SAINT-BRIEUC",
-  "phone": "0296772754"
 },{
   "name": "LE RELAIS DU COCHE",
   "address": "Place Monier13430 EYGUI�RES",
@@ -2974,7 +2958,7 @@
   "name": "AU P'TIT CREUX",
   "address": "7 Place du Gal de Gaulle29860 PLABENNEC",
   "phone": "0298404519"
-},{
+}]{
   "name": "RESTAURANT AU MENIL",
   "address": "24 b Aristide Briand91600 SAVIGNY-SUR-ORGE",
   "phone": "0169054748"
@@ -2998,7 +2982,7 @@
   "name": "LES 3 CAILLOUX",
   "address": "3 Pace Gambetta80000 AMIENS",
   "phone": "0322926033"
-}]{
+},{
   "name": "AU 14 FEVRIER",
   "address": "Le pl�tre Durand71570 SAINT-AMOUR-BELLEVUE",
   "phone": "0385371145"
@@ -3014,7 +2998,7 @@
   "name": "Champagne Harlin P�re & Fils",
   "address": "8 rue de la fontaine51700 PORT � BINSON",
   "phone": "0326583438"
-},{
+}]{
   "name": "LE VIEUX FOUR",
   "address": "55 route du boude74390 CH�TEL",
   "phone": "0450733056"
@@ -3038,7 +3022,7 @@
   "name": "Le Ballon Voyageur",
   "address": "1 Place du Mar�chal Juin78600 MAISONS-LAFFITTE",
   "phone": "0139684801"
-}]{
+},{
   "name": "L'ALSACIENNE",
   "address": "16 Place de l'h�tel de ville74100 ANNEMASSE",
   "phone": "0450921311"
@@ -3054,7 +3038,7 @@
   "name": "LA BARBINIERE",
   "address": "La Barbini�re85290 SAINT-LAURENT-SUR-S�VRE",
   "phone": "0251924600"
-},{
+}]{
   "name": "LE GRAIN DE FOLIE",
   "address": "1925 route de Lille59270 BAILLEUL",
   "phone": "0328427005"
@@ -3078,7 +3062,7 @@
   "name": "LE CHEVAL NOIR",
   "address": "38 rue de la R�publique67800 HOENHEIM",
   "phone": "0388333873"
-}]{
+},{
   "name": "LES AMIS DU LAC",
   "address": "11 rue Neudorfel57230 HASPELSCHIEDT",
   "phone": "0372292847"
@@ -3094,7 +3078,7 @@
   "name": "GOXOKI",
   "address": "24 rue Marengo64100 BAYONNE",
   "phone": "0559594989"
-},{
+}]{
   "name": "LE PETIT COQ AUX CHAMPS",
   "address": "400 chemin du petit coq27500 CAMPIGNY PONT AUDEMER",
   "phone": "0232410419"
@@ -3118,7 +3102,7 @@
   "name": "Restaurant L'Impala Des Vignes",
   "address": "123, Place de l'�glise71960 CHEVAGNY-LES-CHEVRI�RES",
   "phone": "0385406326"
-}]{
+},{
   "name": "L'�PICURIEN",
   "address": "42 Place Jean Jaur�s81000 ALBI",
   "phone": "0563531070"
@@ -3134,7 +3118,7 @@
   "name": "MADLOC'H",
   "address": "30 rue St-Michel22430 ERQUY",
   "phone": "0296636923"
-},{
+}]{
   "name": "LE RELAIS DE SOLOGNE",
   "address": "63 Place du 8 mai 194445240 M�NESTREAU-EN-VILLETTE",
   "phone": "0238769740"
@@ -3158,7 +3142,7 @@
   "name": "LA TABLE DE LA ROYA",
   "address": "Lieu-dit Cippitone20217 SAINT-FLORENT",
   "phone": "0495370040"
-}]{
+},{
   "name": "SARL L'ECOCOTTE",
   "address": "14 Rue Abb� Gr�goire38000 GRENOBLE",
   "phone": "0438128705"
@@ -3174,7 +3158,7 @@
   "name": "RESTAURANT ITHURRIA",
   "address": "Place fronton64250 AINHOA",
   "phone": "0559299211"
-},{
+}]{
   "name": "L'AUBERGE DE LA CHARME",
   "address": "12 rue de la Charme21370 PRENOIS",
   "phone": "0380353284"
@@ -3198,7 +3182,7 @@
   "name": "AUBERGE DES MOISSONS",
   "address": "8 route nationale51150 MATOUGUES",
   "phone": "0326709917"
-}]{
+},{
   "name": "ILOHA SEAVIEW HOTEL",
   "address": "44 rue Georges POMPIDOU97436 ST LEU",
   "phone": "0262348989"
@@ -3214,7 +3198,7 @@
   "name": "RESTAURANT �AU RAISIN D'OR�",
   "address": "1 rue de l'Eglise68230 ZIMMERBACH",
   "phone": "0389710569"
-},{
+}]{
   "name": "LA TABLE DE GUY",
   "address": "58 avenue Savador Allende69500 BRON",
   "phone": "0478265572"
@@ -3238,7 +3222,7 @@
   "name": "AUX PIEDS SOUS LA TABLE",
   "address": "4-8 rue arnaud bernard31000 TOULOUSE",
   "phone": "0567110172"
-}]{
+},{
   "name": "AUBERGE DE SAVOIE",
   "address": "1 Place ST FRANCOIS DE SALES74000 ANNECY",
   "phone": "0450450305"
@@ -3254,7 +3238,7 @@
   "name": "AUBERGE DU BON LABOUREUR",
   "address": "6 rue du bretonneau37150 CHENONCEAUX",
   "phone": "0247239002"
-},{
+}]{
   "name": "L'ENTRECOTE",
   "address": "4 cours du 30 juillet33000 BORDEAUX",
   "phone": "0556817610"
@@ -3278,7 +3262,7 @@
   "name": "DU COT� DE CHEZ FRED",
   "address": "25/26 Promenade JB Morty34200 S�TE",
   "phone": "0499028603"
-}]{
+},{
   "name": "LES AGNEAUX",
   "address": "21 route nationale05480 VILLAR-D'AR�NE",
   "phone": "0476799062"
@@ -3294,7 +3278,7 @@
   "name": "LE GRANGOUSIER",
   "address": "10 rue Courte07140 LES VANS",
   "phone": "0475949086"
-},{
+}]{
   "name": "BRASSERIE JULLIEN",
   "address": "44 boulevard des Brotteaux69006 LYON",
   "phone": "0478523011"
@@ -3318,7 +3302,7 @@
   "name": "LA COUPE D'OR",
   "address": "49 rue Pont Mortain14100 LISIEUX",
   "phone": "0231311684"
-}]{
+},{
   "name": "LA LITOTE",
   "address": "5 rue de l'�v�ch�06140 VENCE",
   "phone": "0493242782"
@@ -3334,7 +3318,7 @@
   "name": "SARL Domaine Saint Hilaire",
   "address": "Saint-Hilaire34530 MONTAGNAC",
   "phone": "0467240008"
-},{
+}]{
   "name": "JOUR DE MARCHE",
   "address": "14 rue Moli�re69006 LYON",
   "phone": "0478247459"
@@ -3358,7 +3342,7 @@
   "name": "THE PLACE TO",
   "address": "47 avenue de Wagram75017 PARIS",
   "phone": "0145747928"
-}]{
+},{
   "name": "MA BELLE PROVENCE",
   "address": "2 ROUTE DU LAC02000 PARGNY-FILAIN",
   "phone": "0323227597"
@@ -3374,7 +3358,7 @@
   "name": "STUDIO 16",
   "address": "16 Place du Martroi45000 ORL�ANS",
   "phone": "0238716158"
-},{
+}]{
   "name": "AU BON ACCUEIL",
   "address": "1 rue de Laval54630 RICHARDM�NIL",
   "phone": "0383256210"
@@ -3398,7 +3382,7 @@
   "name": "BODEGA CHEZ GILLES",
   "address": "23 Quai Jaur�guiberry64100 BAYONNE",
   "phone": "0559254013"
-}]{
+},{
   "name": "LE MOULIN DE LA PIPE",
   "address": "26400 OMBL�ZE",
   "phone": "0475764205"
@@ -3414,7 +3398,7 @@
   "name": "AUBERGE C�T� RIVI�RE",
   "address": "3 rue des capucins21120 IS-SUR-TILLE",
   "phone": "0380956540"
-},{
+}]{
   "name": "LE RANCH DES LACS",
   "address": "Vervialle87120 AUGNE",
   "phone": "0555691566"
@@ -3438,7 +3422,7 @@
   "name": "AUBERGE DE NOVES",
   "address": "Route de Ch�teaurenard13550 NOVES",
   "phone": "0490242828"
-}]{
+},{
   "name": "L'ASSIETTE CHAMPENOISE",
   "address": "40 avenue P. Vaillant Couturier51430 TINQUEUX",
   "phone": "0326846464"
@@ -3454,7 +3438,7 @@
   "name": "LE MONARQUE",
   "address": "23 rue de Bernes25230 SELONCOURT",
   "phone": "0381371239"
-},{
+}]{
   "name": "LA PETITE AUBERGE",
   "address": "5 Place Duguesclin72270 MALICORNE-SUR-SARTHE",
   "phone": "0243948052"
@@ -3478,7 +3462,7 @@
   "name": "RESTAURANT CLEMENTINE",
   "address": "5 rue Saint Marc75002 PARIS",
   "phone": "0140410565"
-}]{
+},{
   "name": "CH�TEAU DE BESSEUIL",
   "address": "Route de Rousset71260 CLESS�",
   "phone": "0385369249"
@@ -3494,7 +3478,7 @@
   "name": "LE MALAMOCK II",
   "address": "9 Place de la cale29980 �LE-TUDY",
   "phone": "0298564334"
-},{
+}]{
   "name": "restaurant le v",
   "address": "3 rue ducis78000 VERSAILLES",
   "phone": "0139502496"
@@ -3518,7 +3502,7 @@
   "name": "L'AUBERGE DU RELAIS",
   "address": "460 Grande Route64300 B�RENX",
   "phone": "0559653056"
-}]{
+},{
   "name": "LA BRASSERIE BORDELAISE",
   "address": "50 rue Saint R�mi33000 BORDEAUX",
   "phone": "0557871191"
@@ -3534,7 +3518,7 @@
   "name": "CH�TEAU BELLEVUE",
   "address": "19 rue Joseph CAPPIN32150 CAZAUBON",
   "phone": "0562095195"
-},{
+}]{
   "name": "LA TREILLE",
   "address": "Le port24200 VITRAC",
   "phone": "0553283319"
@@ -3558,7 +3542,7 @@
   "name": "COMPTOIR DES VOYAGEURS",
   "address": "Place de l'�glise29180 LOCRONAN",
   "phone": "0298817074"
-}]{
+},{
   "name": "LA SOURCE DE PEYSSOU",
   "address": "Grand Peyssou24440 SAINT-AVIT-S�NIEUR",
   "phone": "0553616419"
@@ -3574,7 +3558,7 @@
   "name": "LES MURIERS",
   "address": "San Peire RN 9883520 ROQUEBRUNE-SUR-ARGENS",
   "phone": "0494553233"
-},{
+}]{
   "name": "LE BATEAU IVRE",
   "address": "2 grande rue Paul Jacquier74140 YVOIRE",
   "phone": "0450728184"
@@ -3598,7 +3582,7 @@
   "name": "Cr�perie Histoire de Cr�pes",
   "address": "4 - 5Place de l 'Europe29870 LAND�DA",
   "phone": "0298048429"
-}]{
+},{
   "name": "L'IMAGE SAINTE ANNE",
   "address": "8 Place DE LA LIBERATION56000 VANNES",
   "phone": "0297632736"
@@ -3614,7 +3598,7 @@
   "name": "AUBERGE DU TRIEUX",
   "address": "1 impasse du four neuf22740 L�ZARDRIEUX",
   "phone": "0296201070"
-},{
+}]{
   "name": "LES ENFANTS GAT'TH�S",
   "address": "24 rue Lafayette56200 LA GACILLY",
   "phone": "0299082301"
@@ -3638,7 +3622,7 @@
   "name": "LA BONNE AUBERGE",
   "address": "St Michel04360 MOUSTIERS-SAINTE-MARIE",
   "phone": "0492746618"
-}]{
+},{
   "name": "CASTEL BEAU SITE",
   "address": "137 rue st guirec22700 PERROS-GUIREC",
   "phone": "0296914087"
@@ -3654,7 +3638,7 @@
   "name": "les salons leopold",
   "address": "les salons leopold1, route des cascades , la vall�e<br>78720 CERNAY-LA-VILLE",
   "phone": "+33679131866"
-},{
+}]{
   "name": "Les Coqs",
   "address": "24 Place du March�91490 MILLY-LA-FOR�T",
   "phone": "0164985858"
@@ -3678,7 +3662,7 @@
   "name": "Domaine Leblanc - Les Closserons",
   "address": "2 Rue des MontsLes Closserons<br>49380 FAYE-D'ANJOU",
   "phone": "0241543078"
-}]{
+},{
   "name": "LA COULEUVRINE",
   "address": "1 Place de la bouquerie24200 SARLAT-LA-CAN�DA",
   "phone": "0553592780"
@@ -3694,7 +3678,7 @@
   "name": "LE PETIT BOUCHON",
   "address": "rue de CILLY84400 SAIGNON",
   "phone": "0490751565"
-},{
+}]{
   "name": "L'Oh � la Bouche !",
   "address": "2 bis Rue Eloy Chapsal15000 AURILLAC",
   "phone": "0471482717"
@@ -3718,7 +3702,7 @@
   "name": "LE COZY",
   "address": "190 Avenue du 19 mars 196278370 PLAISIR",
   "phone": "0134812309"
-}]{
+},{
   "name": "HOTEL DU LAC - RESTAURANT LE COCON",
   "address": "160 cours du troisi�me Mill�naire69800 SAINT-PRIEST",
   "phone": "0437252124"
@@ -3734,7 +3718,7 @@
   "name": "LA CIVELLE",
   "address": "21 quai marcel Boissard44400 REZ�",
   "phone": "0240754660"
-},{
+}]{
   "name": "auberge des carri�res",
   "address": "36 Avenue du Ch�teau84300 TAILLADES",
   "phone": "0432501997"
@@ -3758,7 +3742,7 @@
   "name": "LA GRILLANDINE",
   "address": "201 rue de la Trinit�44600 SAINT-NAZAIRE",
   "phone": "0240700930"
-}]{
+},{
   "name": "HOSTELLERIE SAINT MARTIN",
   "address": "6 Place Edmond Paillaud14480 CREULLY",
   "phone": "0231801011"
@@ -3774,7 +3758,7 @@
   "name": "AU FIL DES SAISONS",
   "address": "17 all�e des acasiasvia avenue du nord<br>95000 CERGY",
   "phone": "0130300160"
-},{
+}]{
   "name": "HOSTELLERIE DU BEFFROY",
   "address": "26 rue de l'Abb� Blot63610 BESSE ET ST ANASTASIE",
   "phone": "0473795008"
@@ -3798,7 +3782,7 @@
   "name": "H�TEL-RESTAURANT LA RENAISSANCE",
   "address": "2,avenue de la lib�ration72800 LE LUDE",
   "phone": "0243946310"
-}]{
+},{
   "name": "LE BOUCHE B",
   "address": "116 rue Andr� Bollier69007 LYON",
   "phone": "0472731511"
@@ -3814,7 +3798,7 @@
   "name": "LA NOUVELLE AUBERGE",
   "address": "9 route nationale68230 WIHR-AU-VAL",
   "phone": "0389710770"
-},{
+}]{
   "name": "BISTROT DE CHARENTON",
   "address": "123 rue de Paris94220 CHARENTON-LE-PONT",
   "phone": "0143960909"
@@ -3838,7 +3822,7 @@
   "name": "AU PAS DE L'ALPETTE",
   "address": "Bellecombe38530 CHAPAREILLAN",
   "phone": "0476452265"
-}]{
+},{
   "name": "BRASSERIE JULES",
   "address": "18 Bd Alsace Lorraine80000 AMIENS",
   "phone": "0322711840"
@@ -3854,7 +3838,7 @@
   "name": "L'ABBAYE DE VILLENEUVE",
   "address": "Route de la Roche sur Yon44840 LES SORINIERES",
   "phone": "0240044025"
-},{
+}]{
   "name": "LI VIGNI RISTORANTE PIZZERIA",
   "address": "50 cours du Docteur Long69003 LYON",
   "phone": "0478421924"
@@ -3875,10 +3859,6 @@
   "address": "166 taille de Mas du Pleney74110 MORZINE",
   "phone": "0450791231"
 },{
-  "name": "L'EMBARCADERE",
-  "address": "15 avenue de la Place01480 JASSANS-RIOTTIER",
-  "phone": "0474070707"
-}]{
   "name": "LA TABLE DES BAOUS",
   "address": "42 rue Nationale06640 SAINT-JEANNET",
   "phone": "0493249063"
@@ -3898,7 +3878,7 @@
   "name": "LOISEAU RIVE GAUCHE",
   "address": "5 rue DE BOURGOGNE75007 PARIS",
   "phone": "0145517942"
-},{
+}]{
   "name": "LOISEAU DES VIGNES",
   "address": "31 rue Maufoux21200 BEAUNE",
   "phone": "0380241206"
@@ -3918,7 +3898,7 @@
   "name": "LE BRETAGNE MAISON LORIN",
   "address": "41 rue aristide Briand44390 NORT-SUR-ERDRE",
   "phone": "0240722195"
-}]{
+},{
   "name": "LA CLE DES CHAMPS",
   "address": "Quai de l'Is�re73800 MONTM�LIAN",
   "phone": "0479841201"
@@ -3938,14 +3918,10 @@
   "name": "L'ENTRECOTE",
   "address": "2 rue du Cou�dic44000 NANTES",
   "phone": "0240486283"
-},{
+}]{
   "name": "AUBERGE LUCAS",
   "address": "16 rue de Broceliande35190 CARDROC",
   "phone": "0299458851"
-},{
-  "name": "LES CLOSEAUX",
-  "address": "Les closeaux41400 VALLI�RES-LES-GRANDES",
-  "phone": "0247573273"
 },{
   "name": "LE PERCOLATEUR",
   "address": "20 rue de Turin75008 PARIS",
@@ -3958,7 +3934,7 @@
   "name": "RESTAURANT GRAND H�TEL DE PARIS",
   "address": "124 Place Pierre Chabert38250 VILLARD-DE-LANS",
   "phone": "0476951006"
-}]{
+},{
   "name": "LE PRE DE LA CURE",
   "address": "1 pl de la mairie74140 YVOIRE",
   "phone": "0450728358"
@@ -3982,7 +3958,7 @@
   "name": "L'OLIVE VERTE",
   "address": "26 rue de la Lib�ration27140 GISORS",
   "phone": "0232554810"
-},{
+}]{
   "name": "LA ROTONDE",
   "address": "200 avenuedu Casino69890 LA TOUR-DE-SALVAGNY",
   "phone": "0478877979"
@@ -3998,7 +3974,7 @@
   "name": "LE TRANSAT",
   "address": "60 boulevard du Pr�sident Wilson44600 SAINT-NAZAIRE",
   "phone": "0240196662"
-}]{
+},{
   "name": "H�TEL DE FRANCE",
   "address": "Quai Toudouze29570 CAMARET",
   "phone": "0298279306"
@@ -4022,7 +3998,7 @@
   "name": "LE SORGIA",
   "address": "39 Grande rue01200 LANCRANS",
   "phone": "0450481581"
-},{
+}]{
   "name": "HOTEL DE LA GARE",
   "address": "15 avenue de la gare63600 AMBERT",
   "phone": "0473820027"
@@ -4038,7 +4014,7 @@
   "name": "kookabarra",
   "address": "558, avenue de Cheval Blanc84300 CAVAILLON",
   "phone": "0432702069"
-}]{
+},{
   "name": "HOTEL AIGLE DES NEIGES",
   "address": "rue de la poste73150 VAL-D'IS�RE",
   "phone": "0479061888"
@@ -4062,7 +4038,7 @@
   "name": "LE REMPART",
   "address": "2 et 4 avenue Gambetta71700 TOURNUS",
   "phone": "0385511056"
-},{
+}]{
   "name": "LE VAL MORET",
   "address": "Le Val Moret10110 MAGNANT",
   "phone": "0325298512"
@@ -4078,7 +4054,7 @@
   "name": "Bistro les 2 mules",
   "address": "180 Route de la Gralli�re74220 LA CLUSAZ",
   "phone": "0450104781"
-}]{
+},{
   "name": "LE VEAU D'OR - MAISON MARSOLLIER",
   "address": "Parc St Fiacre53200 CH�TEAU-GONTIER",
   "phone": "0243072865"
@@ -4102,7 +4078,7 @@
   "name": "LES SOURCES DU MOULIN",
   "address": "20 route du Moulin17330 MIGR�",
   "phone": "0546240392"
-},{
+}]{
   "name": "AUBERGE DU CENTRE",
   "address": "34 grande rue41120 CHITENAY",
   "phone": "0254704211"
@@ -4118,7 +4094,7 @@
   "name": "STEEL PAN",
   "address": "Rond point du Viet Nam H�roique97200 FORT DE FRANCE",
   "phone": "0596569064"
-}]{
+},{
   "name": "LA FLIBUSTE",
   "address": "Port Marina Baie des Anges06270 VILLENEUVE-LOUBET",
   "phone": "0493205902"
@@ -4142,7 +4118,7 @@
   "name": "GALLERY 412",
   "address": "1 Place mairie de Bourgogne21000 DIJON",
   "phone": "0380604600"
-},{
+}]{
   "name": "AUBERGE DE LA PETITE REINE",
   "address": "Route de Belves24170 SIORAC-EN-P�RIGORD",
   "phone": "0553316042"
@@ -4158,7 +4134,7 @@
   "name": "La Primatiale",
   "address": "14 rue de la Primatiale54000 NANCY",
   "phone": "0383304403"
-}]{
+},{
   "name": "sca qualisol",
   "address": "851 chemin de carrel82102 CASTELSARRASIN",
   "phone": "0563951212"
@@ -4182,7 +4158,7 @@
   "name": "LE LAURIER",
   "address": "29 rue du Commerce18300 SAINT-SATUR",
   "phone": "0248541720"
-},{
+}]{
   "name": "L'EMBELLIE",
   "address": "Le Bourg71250 SAINTE-C�CILE",
   "phone": "0385508181"
@@ -4198,7 +4174,7 @@
   "name": "scea jean medeville et fils",
   "address": "chateau fayau33410 CADILLAC",
   "phone": "0557980808"
-}]{
+},{
   "name": "sas maison perrin",
   "address": "511 rue henri laugierles 3 moulins<br>06600 ANTIBES",
   "phone": "0497244392"
@@ -4222,7 +4198,7 @@
   "name": "LA SOLOGNOTE",
   "address": "34 grande rue18410 BRINON-SUR-SAULDRE",
   "phone": "0248585029"
-},{
+}]{
   "name": "LES PISSENLITS",
   "address": "27rue des Ponts54000 NANCY",
   "phone": "0383374397"
@@ -4238,7 +4214,7 @@
   "name": "BELLAGIO",
   "address": "101 Av des Ternes75017 PARIS",
   "phone": "0140555520"
-}]{
+},{
   "name": "LE BALLON DES TERNES",
   "address": "103 Av des Ternes75017 PARIS",
   "phone": "0145741798"
@@ -4262,7 +4238,7 @@
   "name": "LES QUATRE SALINES",
   "address": "3 rue des Quatre Salines35610 ROZ-SUR-COUESNON",
   "phone": "0299802380"
-},{
+}]{
   "name": "RESTAURANT DIDIER M�RIL",
   "address": "1 Place du G�n�ral de Gaulle35800 DINARD",
   "phone": "0299469574"
@@ -4278,7 +4254,7 @@
   "name": "COMTE ROGER",
   "address": "14 rue Saint Louis11000 CARCASSONNE",
   "phone": "0468119340"
-}]{
+},{
   "name": "Les Jardins du Capitole",
   "address": "52, Promenade des Angla06000 NICE",
   "phone": "+33493447881"
@@ -4302,7 +4278,7 @@
   "name": "LE MEURIN",
   "address": "1098 rue de Lillers62350 BUSNES",
   "phone": "0321688888"
-},{
+}]{
   "name": "L'ATELIER DE MARC MEURIN",
   "address": "97 rue Paul Bert62300 LENS",
   "phone": "0321182490"
@@ -4318,7 +4294,7 @@
   "name": "AU VIEUX CHALET",
   "address": "550 avenue Louis Coppel74300 THYEZ",
   "phone": "0450189400"
-}]{
+},{
   "name": "Naz�re la table",
   "address": "domaine de naz�re32380 AVEZAN",
   "phone": "0647198045"
@@ -4342,7 +4318,7 @@
   "name": "RESTAURANT ORIGINES",
   "address": "15 rue Tonduti de l'Escar�ne06000 NICE",
   "phone": "0986343685"
-},{
+}]{
   "name": "LE SAINT GERMAIN",
   "address": "6 avenue Paul Vidal de la Blache34120 P�ZENAS",
   "phone": "0467097575"
@@ -4358,7 +4334,7 @@
   "name": "AUX TROIS COCHONS",
   "address": "9 rue des Marronniers69002 LYON",
   "phone": "0472419331"
-}]{
+},{
   "name": "LA FERME DES CHARRIERES",
   "address": "967 Chemin des Terres38320 HERBEYS",
   "phone": "0476720934"
@@ -4382,7 +4358,7 @@
   "name": "VILLA DES BORDES",
   "address": "9 rue Bordes45370 CL�RY-SAINT-ANDR�",
   "phone": "0238469460"
-},{
+}]{
   "name": "SUD HOTEL",
   "address": "73 rue du 1er decembre67230 HUTTENHEIM",
   "phone": "0388743065"
@@ -4398,7 +4374,7 @@
   "name": "LE JARDIN",
   "address": "18 boulevard Kennedy63500 ISSOIRE",
   "phone": "0473559037"
-}]{
+},{
   "name": "LA TABLE DE SANDORINE",
   "address": "26 rue PIERRE LATECOERE08300 RETHEL",
   "phone": "0324383135"
@@ -4422,7 +4398,7 @@
   "name": "L'AROME",
   "address": "22 avenue du Port34540 BALARIC LES BAINS",
   "phone": "0467484827"
-},{
+}]{
   "name": "LES EMBRUNS",
   "address": "6 rue du Chay Morin17410 SAINT-MARTIN-DE-R�",
   "phone": "0546664631"
@@ -4438,7 +4414,7 @@
   "name": "RESTAURANT BAUD",
   "address": "181 avenue du Leman74380 BONNE",
   "phone": "0450392015"
-}]{
+},{
   "name": "VOYAGES DES SENS",
   "address": "33 rue Principale Cuisiat01370 VALREVERMONT",
   "phone": "0474513994"
@@ -4462,7 +4438,7 @@
   "name": "LE FIGUIER DE SAINT ESPRIT",
   "address": "14 rue Saint Esprit06600 ANTIBES",
   "phone": "0493345012"
-},{
+}]{
   "name": "L'ANA'GRAM",
   "address": "70 Quai Leray44210 PORNIC",
   "phone": "0240825125"
@@ -4478,7 +4454,7 @@
   "name": "BISTRO D'ANTAN",
   "address": "Avenue de Verdun33520 BRUGES",
   "phone": "0556284950"
-}]{
+},{
   "name": "LE 1741",
   "address": "22 quai des bateliers67000 STRASBOURG",
   "phone": "0388355050"
@@ -4502,7 +4478,7 @@
   "name": "LA TABLE D'AUR�",
   "address": "40 Impasse de la Gare73390 CHAMOUSSET",
   "phone": "0479364206"
-},{
+}]{
   "name": "LA FOURCHETTE DU PRINTEMPS",
   "address": "30 rue du Printemps75017 PARIS",
   "phone": "0142272697"
@@ -4518,7 +4494,7 @@
   "name": "AU BORD DE L'EAU",
   "address": "Chemin du Pontet69150 D�CINES-CHARPIEU",
   "phone": "0478490239"
-}]{
+},{
   "name": "GRAND HOTEL PELISSON",
   "address": "3 Place Alfred Agard24300 NONTRON",
   "phone": "0553561122"
@@ -4542,7 +4518,7 @@
   "name": "AU BON VIVRE",
   "address": "30 rue Jean Calot97137 TERRE DE HAUT",
   "phone": "0590941984"
-},{
+}]{
   "name": "LA MAISON DANS LE PARC",
   "address": "3 rue STE CATHERINE54000 NANCY",
   "phone": "0388190357"
@@ -4558,7 +4534,7 @@
   "name": "CHALET LA SOURCE",
   "address": "Chef lieu73590 SAINT-NICOLAS-LA-CHAPELLE",
   "phone": "0479316240"
-}]{
+},{
   "name": "LA MAISON DE NANY",
   "address": "6 Rue de la Recluse07260 JOYEUSE",
   "phone": "0626595337"
@@ -4582,7 +4558,7 @@
   "name": "AUBERGE PYR�N�ES C�VENNES",
   "address": "106 RUE DE LA FOLIE M�RICOURT75011 PARIS",
   "phone": "0143573378"
-},{
+}]{
   "name": "LE GRENADIN",
   "address": "19 route de F�re en Tardenois02200 BELLEU",
   "phone": "0323732057"
@@ -4598,7 +4574,7 @@
   "name": "LA MAISON FORESTIERE",
   "address": "Route de PECCATA43150 LES ESTABLES",
   "phone": "0471083566"
-}]{
+},{
   "name": "Le Bourguignon",
   "address": "8 rue de la porte de Bessey21310 B�ZE",
   "phone": "0380753451"
@@ -4622,7 +4598,7 @@
   "name": "LE MILLESIME",
   "address": "17 rue Smolett06300 NICE",
   "phone": "0493560013"
-},{
+}]{
   "name": "LA ZYGOTHEQUE",
   "address": "15 bis rue de Tolbiac75013 PARIS",
   "phone": "0145830748"
@@ -4638,7 +4614,7 @@
   "name": "RESTAURANT DE LA FOR�T",
   "address": "94 GRAND RUE UBERACH<br>67350 VAL DE MODER",
   "phone": "0681035376"
-}]{
+},{
   "name": "Le Baragnas",
   "address": "Place de l��cole30700 SAINT-SIFFRET",
   "phone": "0466226009"
@@ -4662,7 +4638,7 @@
   "name": "LE PONT BERNET",
   "address": "1160 ROUTE DE SOULAC33290 PIAN MEDOC",
   "phone": "0556702019"
-},{
+}]{
   "name": "L'AMBASSADE",
   "address": "22 Bld de Verdun34500 B�ZIERS",
   "phone": "0467760624"
@@ -4678,7 +4654,7 @@
   "name": "LE CHAMARLENC",
   "address": "19 rue RAPHAEL43000 LE PUY-EN-VELAY",
   "phone": "0471021772"
-}]{
+},{
   "name": "met caf�",
   "address": "11 RUE CESAR CAMPINCHI20200 BASTIA",
   "phone": "0495440472"
@@ -4702,7 +4678,7 @@
   "name": "L'AROME",
   "address": "2 rue Lucien Blanc84480 BONNIEUX",
   "phone": "0490758862"
-},{
+}]{
   "name": "LE RELAIS DE L'AUBRAC",
   "address": "Le Pont de Gournier48260 RECOULES-D'AUBRAC",
   "phone": "0466325206"
@@ -4718,7 +4694,7 @@
   "name": "CAFE TELLINE",
   "address": "14 Place du March�83310 PORT GRIMAUD",
   "phone": "0494542050"
-}]{
+},{
   "name": "LE BISTRO DU MUSEE",
   "address": "37 Place Pey-Berland33000 BORDEAUX",
   "phone": "0556529969"
@@ -4742,7 +4718,7 @@
   "name": "CHEZ HUGUETTE",
   "address": "Rue de la marine20200 BASTIA",
   "phone": "0495313760"
-},{
+}]{
   "name": "La Vacherie",
   "address": "3 Rue Albert Londres44300 NANTES",
   "phone": "0670369326"
@@ -4758,7 +4734,7 @@
   "name": "RESTAURANT CUGINI",
   "address": "13 Place du G�n�ral de Gaulle69330 JONAGE",
   "phone": "0478395456"
-}]{
+},{
   "name": "LES BAINS DE SECOURS",
   "address": "Route desbains64260 S�VIGNACQ-MEYRACQ",
   "phone": "0559056211"
@@ -4782,7 +4758,7 @@
   "name": "La corbeille fleurie",
   "address": "395 mont�e saint �loi69400 LIERGUES",
   "phone": "0427497205"
-},{
+}]{
   "name": "LE NEPTUNE",
   "address": "23 quai Morand22500 PAIMPOL",
   "phone": "0296205303"
@@ -4798,7 +4774,7 @@
   "name": "AUBERGE LA FONTAINE AUX BRETONS",
   "address": "Rue No�ls44210 PORNIC",
   "phone": "0251740707"
-}]{
+},{
   "name": "HOTEL WINDSOR",
   "address": "11 rue Dalpozzo06000 NICE",
   "phone": "0493885935"
@@ -4822,7 +4798,7 @@
   "name": "CAFE DU PEINTRE",
   "address": "50 bd des Brotteaux69006 LYON",
   "phone": "0478525261"
-},{
+}]{
   "name": "La Touna",
   "address": "Pigeon-Malendure Bouillante GP 9712597125 BOUILLANTE",
   "phone": "0590987010"
@@ -4838,7 +4814,7 @@
   "name": "LE MAS DU LANGOUSTIER",
   "address": "Chemin du Langoustier 83400 ILE DE PORQUEROLLES",
   "phone": "0494583009"
-}]{
+},{
   "name": "L'AMBROISIE",
   "address": "103 rue Marcel Paul71000 M�CON",
   "phone": "0385381221"
@@ -4862,7 +4838,7 @@
   "name": "la Table du Martin Bel Air",
   "address": "3 place du 19 MARS 196289100 SAINT-MARTIN-DU-TERTRE",
   "phone": "0386664795"
-},{
+}]{
   "name": "RESTAURANT DE L'AIN",
   "address": "18 place de la Fontaine39130 PONT-DE-POITTE",
   "phone": "0384483016"
@@ -4878,7 +4854,7 @@
   "name": "LE CLOS DES SENS",
   "address": "13, rue Jean Mermoz74940 ANNECY-LE-VIEUX",
   "phone": "0450230790"
-}]{
+},{
   "name": "CASTEL DE TRES GIRARD",
   "address": "7 rue de Tr�s Girard21220 MOREY-SAINT-DENIS",
   "phone": "0380343309"
@@ -4902,7 +4878,7 @@
   "name": "H�TEL LE PROVENCE",
   "address": "Route Nationale 10207660 LANARCE",
   "phone": "0466694606"
-},{
+}]{
   "name": "RESTAURANT LE CERF",
   "address": "30, rue G�n�ral de Gaulle67520 MARLENHEIM",
   "phone": "0388877373"
@@ -4918,7 +4894,7 @@
   "name": "RESTAURANT LES CERISIERS - HOTEL AMELIE",
   "address": "Rue Emile Machet73570 BRIDES-LES-BAINS",
   "phone": "0479553015"
-}]{
+},{
   "name": "RESTAURANT ORSI PIERRE",
   "address": "3 Place KLEBER69006 LYON",
   "phone": "0478895768"
@@ -4942,7 +4918,7 @@
   "name": "Restaurant Mon Plaisir",
   "address": "22 rue du journal25190 CHAMESOL",
   "phone": "0381925617"
-},{
+}]{
   "name": "RESTAURANT LES PINS",
   "address": "1 Grand rue83690 SILLANS-LA-CASCADE",
   "phone": "0494046326"
@@ -4958,7 +4934,7 @@
   "name": "Miosca",
   "address": "16 rue jean Walter92110 CLICHY",
   "phone": "0140871428"
-}]{
+},{
   "name": "L'AUBERGE DU BOUGNAT",
   "address": "D.5 LE BOURG63790 SAINT-VICTOR-LA-RIVI�RE",
   "phone": "0473886784"
@@ -4982,7 +4958,7 @@
   "name": "LES CYGNES CHEZ JULES",
   "address": "4 route des mouettesport de S�chex<br>74200 MARGENCEL",
   "phone": "0450726310"
-},{
+}]{
   "name": "L'�TREMENT",
   "address": "770 avenue de Bonnatrait74140 SCIEZ SUR LEMAN",
   "phone": "0450173714"
@@ -4998,7 +4974,7 @@
   "name": "MANOIR D'ACHERIE",
   "address": "37 rue Michel de L�piney50800 SAINTE-C�CILE",
   "phone": "0233511387"
-}]{
+},{
   "name": "AUBERGE DU PARC",
   "address": "Place Ren� Lavaud24390 HAUTEFORT",
   "phone": "0553508898"
@@ -5022,7 +4998,7 @@
   "name": "LE PATIO",
   "address": "21 rue francaise34500 B�ZIERS",
   "phone": "0467490945"
-},{
+}]{
   "name": "SARLLA PYRAMIDE DES SAVEURS - LE FORT",
   "address": "5 RUE DU FORT82000 MONTAUBAN",
   "phone": "0664824370"
@@ -5038,7 +5014,7 @@
   "name": "A LA TRUITE",
   "address": "17 rue du 25 janvier68970 ILLHAEUSERN",
   "phone": "0389718351"
-}]{
+},{
   "name": "AUBERGE DE LA FOR�T",
   "address": "La Maillardais44130 LE GAVRE",
   "phone": "0240512026"
@@ -5062,7 +5038,7 @@
   "name": "Le Z�bre Vert",
   "address": "826, chemin des Catalanes 83230 BORMES LES MIMOSAS",
   "phone": "0626015141"
-},{
+}]{
   "name": "Champagne Pri�(FabiennePRI�)",
   "address": "33 grande rue10250 NEUVILLE-SUR-SEINE",
   "phone": "0325382151"
@@ -5078,7 +5054,7 @@
   "name": "LE DAUPHIN",
   "address": "29 rue G�mare14000 CAEN",
   "phone": "0231862226"
-}]{
+},{
   "name": "LA VAGUE DE SAINT PAUL",
   "address": "Chemin des Salettes06570 ST PAUL DE VENCE",
   "phone": "0492112000"
@@ -5102,7 +5078,7 @@
   "name": "DOMAINE DE L'ADOUX",
   "address": "04140 MONTCLAR",
   "phone": "0492325142"
-},{
+}]{
   "name": "LE GRILL",
   "address": "Port de plaisance Charles Ornano20090 AJACCIO",
   "phone": "0495108826"
@@ -5118,7 +5094,7 @@
   "name": "LA TABLE DES CHEVALIERS",
   "address": "8, march� aux Bestiaux67500 HAGUENAU",
   "phone": "0388733117"
-}]{
+},{
   "name": "LE CAVEAU",
   "address": "44 rue de la coop�rative51480 CUMI�RES",
   "phone": "0326548323"
@@ -5142,7 +5118,7 @@
   "name": "LES SEPT MERS",
   "address": "64 Chauss�e du Sillon35400 SAINT-MALO",
   "phone": "0299208141"
-},{
+}]{
   "name": "LA ROSE TREMIERE",
   "address": "4 rue de l'eglise85580 SAINT-MICHEL-EN-L'HERM",
   "phone": "0251302569"
@@ -5158,7 +5134,7 @@
   "name": "restaurant La Saulire",
   "address": "Restaurant La Saulire16 place du rocher<br>73120 COURCHEVEL",
   "phone": "06.09.13.62.96"
-}]{
+},{
   "name": "HOSTELLERIE DE LA GABELLE",
   "address": "12 quai de la Loire49410 SAINT-FLORENT-LE-VIEIL",
   "phone": "0241725019"
@@ -5182,7 +5158,7 @@
   "name": "LE GRAND H�TEL & SPA",
   "address": "Place du Tilleul - 17 rue Charles de Gaulle88400 G�RARDMER",
   "phone": "0329630631"
-},{
+}]{
   "name": "BOUCHON PALAIS GRILLET",
   "address": "8 rue du Palais Grillet69002 LYON",
   "phone": "0472040400"
@@ -5198,7 +5174,7 @@
   "name": "L��CHAPP�E BELLE",
   "address": "MONTEE DU SAINT FELY26800 BEAUVALLON",
   "phone": "0475571856"
-}]{
+},{
   "name": "LE BISTROT A GILLES",
   "address": "11 bis rue de la Bastille44000 NANTES",
   "phone": "0240204158"
@@ -5222,7 +5198,7 @@
   "name": "CHEZ TANIA",
   "address": "Avenue des Falaises13600 LA CIOTAT",
   "phone": "0442084171"
-},{
+}]{
   "name": "LA TABLE DE LEO",
   "address": "Le Bourg24440 SAINT-AVIT-S�NIEUR",
   "phone": "0553578915"
@@ -5238,7 +5214,7 @@
   "name": "AUBERGE DE LA TOUR",
   "address": "6 Quai des fours08600 GIVET",
   "phone": "0324404171"
-}]{
+},{
   "name": "LES TOURELLES",
   "address": "2 rue Pierre Guerlain80550 LE CROTOY",
   "phone": "0322271633"
@@ -5262,7 +5238,7 @@
   "name": "LE CAP HORN",
   "address": "74 rue des moulins74400 CHAMONIX-MONT-BLANC",
   "phone": "0450218080"
-},{
+}]{
   "name": "RESTAURANT LA CABANE",
   "address": "23 route du Golf-Les Praz de Chamonix74400 CHAMONIX-MONT-BLANC",
   "phone": "0450532327"
@@ -5278,7 +5254,7 @@
   "name": "LES HOSPITALIERS",
   "address": "95 rue Neuve26160 LE POET LAVAL",
   "phone": "0475462232"
-}]{
+},{
   "name": "les 4 saisons",
   "address": "3 place de la victoire72110 BONN�TABLE",
   "phone": "0243296371"
@@ -5302,7 +5278,7 @@
   "name": "RESTAURANT AUX 3 ROSES",
   "address": "18 rue des alli�s67680 EPFIG",
   "phone": "0388855901"
-},{
+}]{
   "name": "LES OLIVADES",
   "address": "8 route de la garde05000 GAP",
   "phone": "0492526680"
@@ -5318,7 +5294,7 @@
   "name": "LA LOCO",
   "address": "31 avenue D.ROCHEREAU42000 SAINT-�TIENNE",
   "phone": "0477386754"
-}]{
+},{
   "name": "LERICHE DE SAVEURS",
   "address": "26 rue de la Fonderie31000 TOULOUSE",
   "phone": "0982528655"
@@ -5342,7 +5318,7 @@
   "name": "LE DESSIRIER",
   "address": "9 Place du Mar�chal Juin75017 PARIS",
   "phone": "0142278214"
-},{
+}]{
   "name": "RESTAURANT LA VILLA",
   "address": "1 Avenue de l'Ile de France85160 SAINT-JEAN-DE-MONTS",
   "phone": "0251585178"
@@ -5358,7 +5334,7 @@
   "name": "LA COTRIADE",
   "address": "174 Place Saint-Guirec - Ploumanach22700 PERROS-GUIREC",
   "phone": "0296914080"
-}]{
+},{
   "name": "PLAGE ONDINE",
   "address": "BD de la Croisette06400 CANNES",
   "phone": "0614628425"
@@ -5382,7 +5358,7 @@
   "name": "TOTUM - CANTINE BIO",
   "address": "11 quai Turenne44000 NANTES",
   "phone": "0610532220"
-},{
+}]{
   "name": "LE CANTAREL",
   "address": "2 Place du Cantarel52700 ANDELOT",
   "phone": "0325013113"
@@ -5398,7 +5374,7 @@
   "name": "LA VIEILLE TOUR",
   "address": "7-8 rue de la jauge67600 S�LESTAT",
   "phone": "0388921502"
-}]{
+},{
   "name": "AUBERGE DU BOENLESGRAB",
   "address": "Lieu-dit Boenlesgrab68230 WASSERBOURG",
   "phone": "0389711088"
@@ -5422,7 +5398,7 @@
   "name": "CH�TEAU DES TOURELLES",
   "address": "1 avenue de L�on Dubas44380 PORNICHET",
   "phone": "0240608080"
-},{
+}]{
   "name": "LA ROUTE BLEUE",
   "address": "40 route du Vernay42480 LAFOUILLOUSE",
   "phone": "0477301209"
@@ -5438,7 +5414,7 @@
   "name": "LA TOQUE ROSE",
   "address": "1851 route de Bourg01340 MALAFRETAZ",
   "phone": "0474254844"
-}]{
+},{
   "name": "AUBERGE DE L'ATRE",
   "address": "LES LAVAULTS89630 QUARR�-LES-TOMBES",
   "phone": "0386322079"
@@ -5462,7 +5438,7 @@
   "name": "BISTROT DE LA GARE",
   "address": "15 Place DU 77EME RI49300 CHOLET",
   "phone": "0241712960"
-},{
+}]{
   "name": "RESTAURANT SKAB",
   "address": "7, rue de la R�publique30000 N�MES",
   "phone": "0466219430"
@@ -5478,7 +5454,7 @@
   "name": "L'ATELIER DES SAVEURS",
   "address": "94 rue Nationale62290 NOEUX-LES-MINES",
   "phone": "0321267474"
-}]{
+},{
   "name": "LE SARDAIGNE",
   "address": "1 Place Mendes France51200 �PERNAY",
   "phone": "0326555695"
@@ -5502,7 +5478,7 @@
   "name": "VERTE CAMPAGNE",
   "address": "avenue des Pyr�n�es31120 LACROIX-FALGARDE",
   "phone": "0561767475"
-},{
+}]{
   "name": "Domaine Moka",
   "address": "295 Chemin Fontaine, Rivi�re des Pluies97438 SAINTE MARIE",
   "phone": "0692700704"
@@ -5518,7 +5494,7 @@
   "name": "LE RESTO DU COIN",
   "address": "18 rue de Neufdel67100 STRASBOURG",
   "phone": "0388674638"
-}]{
+},{
   "name": "RESTAURANT AR INIZ",
   "address": "8 Bd Hebert35400 SAINT-MALO",
   "phone": "0299560119"
@@ -5542,7 +5518,7 @@
   "name": "Sarl Brasserie du vignoble",
   "address": "8 j Avenue Jacques Preiss68340 RIQUEWIHR",
   "phone": "0389490672"
-},{
+}]{
   "name": "COUR DES LOGES",
   "address": "6 rue du B?uf69005 LYON",
   "phone": "0472774444"
@@ -5558,7 +5534,7 @@
   "name": "LA FORGE",
   "address": "avenue Fernand Barbary06510 CARROS",
   "phone": "0493293150"
-}]{
+},{
   "name": "HOTEL DE LA PROVIDENCE",
   "address": "2 rue de l'Abb� Blot63610 BESSE ET STE ANASTAISE",
   "phone": "0473795149"
@@ -5582,7 +5558,7 @@
   "name": "L'�..Berge du Canal",
   "address": "Promenade des Vernets34420 VILLENEUVE LES BEZIERS",
   "phone": "0634644931"
-},{
+}]{
   "name": "BISTROT BERTHET",
   "address": "10 rue du Sergent Michel Berthet69009 LYON",
   "phone": "0472194053"
@@ -5598,7 +5574,7 @@
   "name": "LA BRIGANTINE",
   "address": "3 rue Colary56340 CARNAC PLAGE",
   "phone": "0297521772"
-}]{
+},{
   "name": "L'AMANDINE",
   "address": "606 route des brossettes42580 L'�TRAT",
   "phone": "0477934631"
@@ -5622,7 +5598,7 @@
   "name": "PAULE ET KOPA",
   "address": "42 Place aux huiles -13001 MARSEILLE",
   "phone": "0491332603"
-},{
+}]{
   "name": "LE BOUCHE � OREILLE",
   "address": "10 avenue des Dunettes14390 CABOURG",
   "phone": "0231912680"
@@ -5638,7 +5614,7 @@
   "name": "GANDHI",
   "address": "3 All�e du Quai de l�Epi83990 SAINT-TROPEZ",
   "phone": "0494977171"
-}]{
+},{
   "name": "LA TOILE",
   "address": "40 avenue Lavoisier63170 AUBI�RE",
   "phone": "0473433860"
@@ -5662,7 +5638,7 @@
   "name": "AUBERGE DES MATFEUX�",
   "address": "289 rue Nationale72230 ARNAGE",
   "phone": "0243211071"
-},{
+}]{
   "name": "AU FIL DES SAISON",
   "address": "55 route de la Roche85400 LU�ON",
   "phone": "0251561132"
@@ -5678,7 +5654,7 @@
   "name": "RESTAURANT SOUPLY",
   "address": "8 faubourg St Antoine51000 CHALON EN CHAMPAGNE",
   "phone": "0326681891"
-}]{
+},{
   "name": "LE PLAN B",
   "address": "25 bd des Brotteaux69006 LYON",
   "phone": "0472835479"
@@ -5702,7 +5678,7 @@
   "name": "LES TANNEURS",
   "address": "9 rue Foch55200 COMMERCY",
   "phone": "0329920303"
-},{
+}]{
   "name": "CLOS DES SOURCES",
   "address": "2 rue de Rodern68590 THANNENKIRCH",
   "phone": "0389731001"
@@ -5718,7 +5694,7 @@
   "name": "AUBERGE DU P�RE BISE",
   "address": "303 rte du port74290 TALLOIRES",
   "phone": "0450607201"
-}]{
+},{
   "name": "LE BISTROT GOURMAND",
   "address": "5, rue du Chapitre88000 �PINAL",
   "phone": "0329342077"
@@ -5742,7 +5718,7 @@
   "name": "CAFE VERANDA",
   "address": "avenue Marcellin Poncet84560 M�NERBES",
   "phone": "0490723333"
-},{
+}]{
   "name": "AUBERGE DU MOULIN",
   "address": "15 Place des Gauds26210 SAINT-SORLIN-EN-VALLOIRE",
   "phone": "0475319996"
@@ -5758,7 +5734,7 @@
   "name": "H�TEL DE FRANCE",
   "address": "2 Place du March�91670 ANGERVILLE",
   "phone": "0169951130"
-}]{
+},{
   "name": "LA TABLE DU MEUNIER",
   "address": "Le MoulinCHENILLE CHANGE<br>49220 CHENILL�-CHAMPTEUSSE",
   "phone": "0241951098"
@@ -5782,7 +5758,7 @@
   "name": "LE PAVILLON DE BAILLY",
   "address": "1 route de Saint-Cyr78870 BAILLY",
   "phone": "0130800206"
-},{
+}]{
   "name": "LA CLOSERIE DES ROSES",
   "address": "455 La Haute Meilleraie - VARADES44370 LOIREAUXENCE",
   "phone": "0240983330"
@@ -5798,7 +5774,7 @@
   "name": "LA TABLE DE L'HOSTELLERIE",
   "address": "Route de Saulieu21140 SEMUR-EN-AUXOIS",
   "phone": "0380972828"
-}]{
+},{
   "name": "LE RELAIS VOSGIEN",
   "address": "9 Grande rue88700 SAINT-PIERREMONT",
   "phone": "0329650246"
@@ -5822,7 +5798,7 @@
   "name": "LA CHAMADE",
   "address": "90 rte de la plagne74110 MORZINE",
   "phone": "0450791391"
-},{
+}]{
   "name": "CH�TEAU DES MONTHAIRONS",
   "address": "26 rue de Verdun55320 LES MONTHAIRONS",
   "phone": "0329877855"
@@ -5838,7 +5814,7 @@
   "name": "EARL Saveurs Capcir Fenouill�des",
   "address": "La fargasse66730 SOURNIA",
   "phone": "0609090677"
-}]{
+},{
   "name": "LES TROIS MAURES",
   "address": "4 Place de la R�publique71490 COUCHES",
   "phone": "0385496393"
@@ -5862,7 +5838,7 @@
   "name": "SARL Domaine de CosteChaude",
   "address": "3100, Chemin de la CarneRoute de Saint Maurice par la Montagne<br>84820 VISAN",
   "phone": "0490419104"
-},{
+}]{
   "name": "CAP O SAVEURS - IBIS",
   "address": "Rue de Rennes35510 CESSON-S�VIGN�",
   "phone": "0223456363"
@@ -5878,7 +5854,7 @@
   "name": "L'AMARETTE",
   "address": "8 avenue Jean Lasserre30240 LE GRAU-DU-ROI",
   "phone": "0466514763"
-}]{
+},{
   "name": "FLEUR DE NEIGE",
   "address": "564 route de vonnes74390 CH�TEL",
   "phone": "0450732010"
@@ -5902,7 +5878,7 @@
   "name": "LA TOQUE D'OR",
   "address": "11 rue Louis Blanc06400 CANNES",
   "phone": "0493396808"
-},{
+}]{
   "name": "L'HIPPOCAMPE",
   "address": "14, Quai du Port13002 MARSEILLE",
   "phone": "0491908838"
@@ -5918,7 +5894,7 @@
   "name": "RESTAURANT MADO",
   "address": "6 quai Leonard80550 LE CROTOY",
   "phone": "0322278122"
-}]{
+},{
   "name": "L'ARDOISE",
   "address": "3 avenue Mar�chal Foch35290 SAINT-M�EN-LE-GRAND",
   "phone": "0299070437"
@@ -5942,7 +5918,7 @@
   "name": "RESTAURANT LE BRANTOME",
   "address": "MOLE PORTUAIRE7 GALERIE MARINA<br>97110 POINTE A PITRE",
   "phone": "0590909128"
-},{
+}]{
   "name": "COCO KAFE L'AQUARIUM",
   "address": "Place cr�ole Marina97190 LE GOSIER",
   "phone": "0596383103"
@@ -5955,10 +5931,6 @@
   "address": "M�rignies Golf - 1245 avenue du Golf59710 M�RIGNIES",
   "phone": "0320793795"
 },{
-  "name": "MAYSSA",
-  "address": "Place Wilson06230 VILLEFRANCHE-SUR-MER",
-  "phone": "0493017508"
-}]{
   "name": "L'ECUME GOURMANDE",
   "address": "35 Grande rue69220 CERCI�",
   "phone": "0437552306"
@@ -5986,7 +5958,7 @@
   "name": "LE RELAIS DE SILLERY",
   "address": "3 rue de la gare51500 SILLERY",
   "phone": "0326491011"
-},{
+}]{
   "name": "LE LION D'OR",
   "address": "15 rue Principale67290 LA PETITE-PIERRE",
   "phone": "0388014757"
@@ -5998,7 +5970,7 @@
   "name": "LE CRISTAL",
   "address": "44 all�es Paul RIQUET34500 B�ZIERS",
   "phone": "0467363530"
-}]{
+},{
   "name": "PETIT COURAULT",
   "address": "le petit courault79800 PAMPROUX",
   "phone": "0549042932"
@@ -6026,7 +5998,7 @@
   "name": "LE GOYEN",
   "address": "Place Jean SIMON29770 AUDIERNE",
   "phone": "0298700888"
-},{
+}]{
   "name": "LA COUR VERTE",
   "address": "Route de Rennes35120 DOL-DE-BRETAGNE",
   "phone": "0299484141"
@@ -6038,7 +6010,7 @@
   "name": "RESTAURANT DE LA POSTE",
   "address": "12 rue de saint agr�ve43190 TENCE",
   "phone": "0471563925"
-}]{
+},{
   "name": "LE BEAULIEU",
   "address": "19 avenue du GAL de Gaulle69260 CHARBONNIERS LES BAINS",
   "phone": "0478871204"
@@ -6066,7 +6038,7 @@
   "name": "MOULIN ROUGE",
   "address": "82 Boulevard de Clichy75018 PARIS",
   "phone": "0153098282"
-},{
+}]{
   "name": "LE MONTAUBAN",
   "address": "6 avenue EDOUARD HERRIOT19100 BRIVE-LA-GAILLARDE",
   "phone": "0555240038"
@@ -6078,7 +6050,7 @@
   "name": "LE SAVOIE",
   "address": "1 Place de la Tr�moille33460 MARGAUX",
   "phone": "0557883176"
-}]{
+},{
   "name": "L'�CUME",
   "address": "2 rue de la r�publique17370 SAINT-TROJAN-LES-BAINS",
   "phone": "0546753466"
@@ -6106,7 +6078,7 @@
   "name": "LES TERRASSES DE CLAIREFONTAINE",
   "address": "1 RUE DE RAMBOUILLET78120 CLAIREFONTAINE-EN-YVELINES",
   "phone": "0130591919"
-},{
+}]{
   "name": "LES NYMPHEAS",
   "address": "1 place Claude Monet77400 SAINT-THIBAULT-DES-VIGNES",
   "phone": "0160350009"
@@ -6118,7 +6090,7 @@
   "name": "LE RETRO",
   "address": "158 rue Jeanne d'Arc88800 VITTEL",
   "phone": "0951991254"
-}]{
+},{
   "name": "LE CHEVAL BLANC",
   "address": "5 Place de l'H�tel de Ville67120 MOLSHEIM",
   "phone": "0388500022"
@@ -6146,7 +6118,7 @@
   "name": "Netanswer",
   "address": "39 rue d'Aboukir75002 PARIS",
   "phone": "0606060606"
-},{
+}]{
   "name": "RESTAURANT DU PARC",
   "address": "169 Route Ottrott67210 OBERNAI",
   "phone": "0388955008"
@@ -6158,4 +6130,20 @@
   "name": "BELLE ISLE SUR RISLE",
   "address": "112 route de Rouen27500 PONT-AUDEMER",
   "phone": "0232569622"
+},{
+  "name": "PIZZERIA RABAH ZAOUI",
+  "address": "124 avenue Franklin Roosevelt11000 CARCASSONNE",
+  "phone": "0951802030"
+},{
+  "name": "CULINA HORTUS",
+  "address": "38 rue de l'Arbre sec69001 LYON",
+  "phone": "0469847108"
+},{
+  "name": "CH�TEAU DE FINES ROCHES",
+  "address": "Hostellerie du Ch�teau des Fines Roches1901 route de Sorgues<br>84230 CH�TEAUNEUF-DU-PAPE",
+  "phone": "0490837023"
+},{
+  "name": "LE CLOS",
+  "address": "20 ter avenue du commandant Dumont05000 GAP",
+  "phone": "0492513704"
 }]
