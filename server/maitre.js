@@ -5,13 +5,12 @@ const querystring = require('querystring');
 
 const parse = data => {
   const $ = cheerio.load(data);
-  var maitres = []
 
   $('div.annuaire_single').each(function (index, element) {
     
-    var name = $(element).find('a').text();
-    name = name.replace(/\n|  /g,'');
-    name_tab = name.split(' (');
+    var name =  $(element).find('a').text().trim();
+    const sep = name.indexOf(' (');
+    name = name.substring(0,sep);
 
     var address = $(element).find('div.single_info3 > div:nth-child(2)').text();
     address = address.replace(/\n|  /g,'');
@@ -22,15 +21,14 @@ const parse = data => {
       phone=phone.trim().replace(/,/g, '').split(" ").join("");
     }
 
-
-    maitres.push(JSON.stringify({ name: name_tab[0], address: address, phone: phone }, null, 2));
+    maitres.push(JSON.stringify({ name: name, address: address, phone: phone }, null, 2));
 
   });
-  return maitres;
 };
 
 
 module.exports.scrapeRestaurant = async (current_page) => {
+  maitres = [];
   const response = await axios.post('https://www.maitresrestaurateurs.fr/annuaire/ajax/loadresult/', querystring.stringify({
       page: `${current_page}`,
       sort: 'undefined',
@@ -38,11 +36,10 @@ module.exports.scrapeRestaurant = async (current_page) => {
     })
   );
   const {data, status} = response;
+  
   if (status >= 200 && status < 300) {
-    return parse(data);
+    yes = parse(data, maitres);
   }
 
-  console.error(status);
-
-  return null;
+  return maitres;
 };

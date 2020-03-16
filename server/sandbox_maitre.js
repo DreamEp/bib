@@ -8,7 +8,6 @@ async function sandbox_maitre(page) {
 
     const restaurant = await maitre.scrapeRestaurant(page);
     fs.appendFileSync('Maitre.json',restaurant);
-    fs.appendFileSync('Maitre.json',"]");
     console.log(restaurant);
     
   } catch (e) {
@@ -26,9 +25,13 @@ async function first()
   for (let i = 1; i< nbdepages+1 ; i++)
   {
     console.log("🕵️‍♀️  browsing  page : " + i.toString());
-
     await sandbox_maitre(i);
+    if(i < nbdepages) fs.appendFileSync('Maitre.json',",");
   }
+  fs.appendFileSync('Maitre.json',"]");
 }
 
+fs.appendFileSync('Maitre.json',"[ \n");
 first();
+
+
