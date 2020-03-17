@@ -91,7 +91,8 @@ function PostMaitre() {
                                             }
                                             else return (
                                                 <TableCell key={column.id} align={column.align} onClick = "window.location.href = {value}">
-                                                    <a href = {value}>{value}</a>
+                                                    {/* eslint-disable-next-line*/ }
+                                                    <a href = {value} target="_blank">{value}</a>
                                                 </TableCell>                                            
                                             );
                                         }
