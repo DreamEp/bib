@@ -55,7 +55,8 @@ function PostMaitre() {
         setRowsPerPage(+event.target.value);
         setPage(0);
     };
-    console.log(rows);
+
+    
     return (
         <Paper className={classes.root}>
             <TableContainer className={classes.container}>

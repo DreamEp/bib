@@ -32,7 +32,9 @@ const parse = data => {
   var phone = $('span[x-ms-format-detection="none"]').text().trim();
 	phone=phone.replace(/\s/g, '');
 	phone=phone.substring(3)
-	phone="0".concat(phone);
+  phone="0".concat(phone);
+  
+  //var lattitude = $('//*[@id="mapDiv"]/div/div/div[8]/div/div/div/div[1]/div').text();
   const website = $('body > main > div.restaurant-details > div.container > div > div.col-xl-8.col-lg-7 > section:nth-child(4) > div.row > div:nth-child(1) > div > div.collapse__block-item.link-item > a').attr('href');
   
   var experience =$('#experience-section > ul > li:nth-child(2)').text().split('\n')[2];
@@ -51,6 +53,7 @@ const parse = data => {
     price_max,
     phone,
     website,
+    //lattitude,
     experience
   };
 }
