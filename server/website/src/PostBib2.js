@@ -1,7 +1,14 @@
+//Import react
 import React from 'react';
 import { forwardRef } from 'react';
+
+//Import our json file bib.json to get all the data needed
 import Bib from './data/Bib.json'
+
+//Import material table library wich create nice table layout
 import MaterialTable from 'material-table';
+
+//Icons image to import in order to have nice icons to fill layout of our material table
 import AddBox from '@material-ui/icons/AddBox';
 import ArrowDownward from '@material-ui/icons/ArrowDownward';
 import Check from '@material-ui/icons/Check';
@@ -18,6 +25,7 @@ import SaveAlt from '@material-ui/icons/SaveAlt';
 import Search from '@material-ui/icons/Search';
 import ViewColumn from '@material-ui/icons/ViewColumn';
 
+//Get all the icons needed in our tab
 const tableIcons = {
     Add: forwardRef((props, ref) => <AddBox {...props} ref={ref} />),
     Check: forwardRef((props, ref) => <Check {...props} ref={ref} />),
@@ -38,32 +46,41 @@ const tableIcons = {
     ViewColumn: forwardRef((props, ref) => <ViewColumn {...props} ref={ref} />)
   };
 
-function PostMaitre() {
-    
+function PostMaitre() {    
     const [state, setState] = React.useState({
+      //Column name and id to match with our json
         columns: [
           { title: 'Name', field: 'name' },
           { title: 'City', field: 'city' },
           { title: 'Postal Code', field: 'postal_code' },
           { title: 'Type', field: 'type' },
-          { title: 'Minimum Price', field: 'price_min' },
-          { title: 'Maximum Price', field: 'price_max' },
+          { title: 'Average Price (euro)', field: 'average_price' },
           { title: 'Phone Number', field: 'phone' },
+          { title: 'Latitude', field: 'restau_lat' },
+          { title: 'Longitude', field: 'restau_long' },
+          { title: 'Distance to Esilv (Km)', field: 'distance' },
           { title: 'Website', field: 'website', render: row => (
               //eslint-disable-next-line
               <a href={row.website} target = "_blank">{row.website}</a>
           )},
         ],
+        //Rows of our material table will be the bib.json that we retrieve further
         data: Bib,
       });
     
       return (
+        //Create the material table object
         <MaterialTable
+        //set the icons that we will use
           icons={tableIcons}
-          title="Table avec tous les restaurants à la fois BibGourmand et MaitreRestau"
+          //set the title
+          title="BibGourmand x MaitreRestaurateur"
+          //set the columns
           columns={state.columns}
+          //set the data/row
           data={state.data}
           
+          //add some option to have a better layout and clean one
           options={{       
 
             headerStyle: {
@@ -74,9 +91,11 @@ function PostMaitre() {
             },            
           }}
           
-
+          //add editable fuction to delete, add or modify the rows specified
           editable={{
+            //add new row/data
             onRowAdd: newData =>
+              //call the action on the clicked data
               new Promise(resolve => {
                 setTimeout(() => {
                   resolve();
@@ -87,7 +106,9 @@ function PostMaitre() {
                   });
                 }, 600);
               }),
+            //update row/data
             onRowUpdate: (newData, oldData) =>
+              //call this action on the clicked data
               new Promise(resolve => {
                 setTimeout(() => {
                   resolve();
@@ -100,7 +121,9 @@ function PostMaitre() {
                   }
                 }, 600);
               }),
+            //delete row/data
             onRowDelete: oldData =>
+              //Call this action on the clicked data
               new Promise(resolve => {
                 setTimeout(() => {
                   resolve();

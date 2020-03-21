@@ -15,9 +15,11 @@ const columns = [
     { id: "city", label: 'City', minWidth: 100, align: 'right' },
     { id: "postal_code", label: 'Postal\u00a0Code', minWidth: 100, align: 'right' },
     { id: "type", label: 'Type', minWidth: 100, align: 'right' },
-    { id: "price_min", label: 'Minimum\u00a0Price', minWidth: 100, align: 'right' },
-    { id: "price_max", label: 'Maximum\u00a0Price', minWidth: 100, align: 'right' },
+    { id: "average_price", label: 'Average\u00a0Price', minWidth: 100, align: 'right' },
     { id: "phone", label: 'Phone\u00a0Number', minWidth: 100, align: 'right' },
+    { id: "restau_lat", label: 'Latitude', minWidth: 100, align: 'right' },
+    { id: "restau_long", label: 'Longitude', minWidth: 100, align: 'right' },
+    { id: "distance", label: 'Distance\u00a0Esilv', minWidth: 100, align: 'right' },
     { id: "website", label: 'Website', minWidth: 100, align: 'right' },
 ];
 
@@ -122,17 +124,5 @@ function PostMaitre() {
         </Paper>
     );
 }
-
-/*
-function PostMaitre() {
-  return (
-    <div className="PostMaitre">
-      <h1>Hello there !</h1>
-      {MaitreData.map((details,index)=>{
-          return <h1>{details.name}</h1>
-      })}
-    </div>
-  );
-}*/
 
 export default PostMaitre; 

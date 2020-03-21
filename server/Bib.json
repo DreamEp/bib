@@ -6,10 +6,12 @@
   "city": "Yvoire",
   "postal_code": "74140",
   "state": "France",
-  "price_min": "25 euros",
-  "price_max": "80 euros",
+  "average_price": "27.50",
   "phone": "0450728032",
   "website": "http://www.lesjardinsduleman.com",
+  "restau_lat": "46.37",
+  "restau_long": "6.33",
+  "distance": "415.89",
   "experience": "Confortable"
 },{
   "name": "Le Manoir du Sphinx",
@@ -18,10 +20,12 @@
   "city": "Perros-Guirec",
   "postal_code": "22700",
   "state": "France",
-  "price_min": "25 euros",
-  "price_max": "50 euros",
+  "average_price": "12.50",
   "phone": "0296232542",
   "website": "http://www.lemanoirdusphinx.bzh",
+  "restau_lat": "48.82",
+  "restau_long": "-3.44",
+  "distance": "415.52",
   "experience": "Confortable. Nos établissements de charme."
 },{
   "name": "Julien",
@@ -30,10 +34,12 @@
   "city": "Fouday",
   "postal_code": "67130",
   "state": "France",
-  "price_min": "24 euros",
-  "price_max": "60 euros",
+  "average_price": "18.00",
   "phone": "0388973009",
   "website": "http://www.hoteljulien.com",
+  "restau_lat": "48.42",
+  "restau_long": "7.18",
+  "distance": "366.67",
   "experience": "Confortable"
 },{
   "name": "Le Chalet",
@@ -42,10 +48,12 @@
   "city": "Ax-les-Thermes",
   "postal_code": "09110",
   "state": "France",
-  "price_min": "32 euros",
-  "price_max": "60 euros",
+  "average_price": "14.00",
   "phone": "0561642431",
   "website": "http://www.le-chalet.fr",
+  "restau_lat": "42.72",
+  "restau_long": "1.84",
+  "distance": "687.88",
   "experience": "Confortable"
 },{
   "name": "Le Petit St-Thomas",
@@ -54,10 +62,12 @@
   "city": "La Garnache",
   "postal_code": "85710",
   "state": "France",
-  "price_min": "30 euros",
-  "price_max": "80 euros",
+  "average_price": "25.00",
   "phone": "0251490599",
   "website": "http://www.restaurant-petit-st-thomas.com",
+  "restau_lat": "46.89",
+  "restau_long": "-1.83",
+  "distance": "376.78",
   "experience": "Confortable"
 },{
   "name": "Winstub du Chambard",
@@ -66,10 +76,12 @@
   "city": "Kaysersberg",
   "postal_code": "68240",
   "state": "France",
-  "price_min": "24 euros",
-  "price_max": "41 euros",
+  "average_price": "8.50",
   "phone": "0389471017",
   "website": "http://www.lechambard.fr",
+  "restau_lat": "48.14",
+  "restau_long": "7.27",
+  "distance": "379.90",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
   "name": "Auberge de la Rivière",
@@ -78,10 +90,12 @@
   "city": "Velluire",
   "postal_code": "85770",
   "state": "France",
-  "price_min": "34 euros",
-  "price_max": "75 euros",
+  "average_price": "20.50",
   "phone": "0251523215",
   "website": "http://www.hotel-riviere-vendee.com",
+  "restau_lat": "46.41",
+  "restau_long": "-0.89",
+  "distance": "362.73",
   "experience": "Très confortable"
 },{
   "name": "Les Canailles Ménilmontant",
@@ -90,10 +104,12 @@
   "city": "Paris",
   "postal_code": "75020",
   "state": "France",
-  "price_min": "19 euros",
-  "price_max": "50 euros",
+  "average_price": "15.50",
   "phone": "0143584545",
   "website": "http://www.restaurantlescanailles.fr",
+  "restau_lat": "48.87",
+  "restau_long": "2.39",
+  "distance": "11.46",
   "experience": "Assez confortable"
 },{
   "name": "La Closerie des Roses",
@@ -102,10 +118,12 @@
   "city": "Varades",
   "postal_code": "44370",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "67 euros",
+  "average_price": "17.00",
   "phone": "0240983330",
   "website": "http://www.lacloseriedesroses.com",
+  "restau_lat": "47.37",
+  "restau_long": "-1.02",
+  "distance": "295.71",
   "experience": "Confortable. Nos établissements de charme."
 },{
   "name": "Le Saint-Jacques",
@@ -114,10 +132,12 @@
   "city": "Thorigné-sur-Dué",
   "postal_code": "72160",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "60 euros",
+  "average_price": "13.50",
   "phone": "0243899550",
   "website": "http://www.hotel-sarthe.fr",
+  "restau_lat": "48.04",
+  "restau_long": "0.54",
+  "distance": "157.64",
   "experience": "Confortable"
 },{
   "name": "Le Grand St-Benoît",
@@ -126,10 +146,12 @@
   "city": "Saint-Benoît-sur-Loire",
   "postal_code": "45730",
   "state": "France",
-  "price_min": "34 euros",
-  "price_max": "59 euros",
+  "average_price": "12.50",
   "phone": "0238351192",
   "website": "http://www.restaurant-grand-saint-benoit.com",
+  "restau_lat": "47.81",
+  "restau_long": "2.31",
+  "distance": "121.31",
   "experience": "Confortable"
 },{
   "name": "Au Chapeau Rouge",
@@ -138,10 +160,12 @@
   "city": "Chinon",
   "postal_code": "37500",
   "state": "France",
-  "price_min": "30 euros",
-  "price_max": "46 euros",
+  "average_price": "8.00",
   "phone": "0247980808",
   "website": "http://www.auchapeaurouge.fr",
+  "restau_lat": "47.17",
+  "restau_long": "0.24",
+  "distance": "243.12",
   "experience": "Confortable"
 },{
   "name": "Maison Gambert",
@@ -150,10 +174,12 @@
   "city": "Tain-l'Hermitage",
   "postal_code": "26600",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "60 euros",
+  "average_price": "13.50",
   "phone": "0475091985",
   "website": "http://www.maisongambert.com",
+  "restau_lat": "45.07",
+  "restau_long": "4.86",
+  "distance": "469.89",
   "experience": "Assez confortable"
 },{
   "name": "France et Fuchsias",
@@ -162,10 +188,12 @@
   "city": "Saint-Vaast-la-Hougue",
   "postal_code": "50550",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "83 euros",
+  "average_price": "25.00",
   "phone": "0233544041",
   "website": "http://www.france-fuchsias.com",
+  "restau_lat": "49.59",
+  "restau_long": "-1.27",
+  "distance": "266.07",
   "experience": "Confortable"
 },{
   "name": "Côté Bistro",
@@ -174,10 +202,12 @@
   "city": "Montlivault",
   "postal_code": "41350",
   "state": "France",
-  "price_min": "32 euros",
-  "price_max": " euros",
+  "average_price": "NaN",
   "phone": "0254206230",
   "website": "http://www.lamaisondacote.fr",
+  "restau_lat": "47.64",
+  "restau_long": "1.45",
+  "distance": "151.81",
   "experience": "Assez confortable"
 },{
   "name": "L'Embellie",
@@ -186,10 +216,12 @@
   "city": "Sainte-Cécile",
   "postal_code": "71250",
   "state": "France",
-  "price_min": "18 euros",
-  "price_max": "63 euros",
+  "average_price": "22.50",
   "phone": "0385508181",
   "website": "http://www.restaurant-lembellie.com",
+  "restau_lat": "46.39",
+  "restau_long": "4.63",
+  "distance": "331.55",
   "experience": "Confortable"
 },{
   "name": "La Table",
@@ -198,10 +230,12 @@
   "city": "Les Ribas",
   "postal_code": "Tourtour",
   "state": "Tourtour",
-  "price_min": "29 euros",
-  "price_max": "82 euros",
+  "average_price": "26.50",
   "phone": "0494705595",
   "website": "http://www.latable.fr",
+  "restau_lat": "43.59",
+  "restau_long": "6.30",
+  "distance": "667.67",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
   "name": "Auberge de Ti-Coz",
@@ -210,10 +244,12 @@
   "city": "Quimper",
   "postal_code": "29000",
   "state": "France",
-  "price_min": "26 euros",
-  "price_max": "85 euros",
+  "average_price": "29.50",
   "phone": "0298945002",
   "website": "http://www.restaurantticoz.com",
+  "restau_lat": "48.04",
+  "restau_long": "-4.07",
+  "distance": "474.77",
   "experience": "Confortable. Nos établissements de charme."
 },{
   "name": "Voyages des sens",
@@ -222,10 +258,12 @@
   "city": "Treffort",
   "postal_code": "01370",
   "state": "France",
-  "price_min": "14 euros",
-  "price_max": "69 euros",
+  "average_price": "27.50",
   "phone": "0474513994",
   "website": "http://www.voyagesdessens.com",
+  "restau_lat": "46.30",
+  "restau_long": "5.39",
+  "distance": "373.25",
   "experience": "Confortable"
 },{
   "name": "La Fleur de Sel",
@@ -234,10 +272,12 @@
   "city": "Cevins",
   "postal_code": "73730",
   "state": "France",
-  "price_min": "23 euros",
-  "price_max": "82 euros",
+  "average_price": "29.50",
   "phone": "0479374998",
   "website": "http://www.restaurant-fleurdesel.fr",
+  "restau_lat": "45.59",
+  "restau_long": "6.46",
+  "distance": "486.61",
   "experience": "Confortable"
 },{
   "name": "Ttotta",
@@ -246,10 +286,12 @@
   "city": "Saint-Pée-sur-Nivelle",
   "postal_code": "64310",
   "state": "France",
-  "price_min": "15 euros",
-  "price_max": "47 euros",
+  "average_price": "16.00",
   "phone": "0559470355",
   "website": "http://www.ttotta.fr",
+  "restau_lat": "43.36",
+  "restau_long": "-1.56",
+  "distance": "681.86",
   "experience": "Assez confortable"
 },{
   "name": "La Forêt",
@@ -258,10 +300,12 @@
   "city": "Senonches",
   "postal_code": "28250",
   "state": "France",
-  "price_min": "18 euros",
-  "price_max": "70 euros",
+  "average_price": "26.00",
   "phone": "0237377850",
   "website": "http://www.hoteldelaforet-senonches.com",
+  "restau_lat": "48.56",
+  "restau_long": "1.03",
+  "distance": "96.46",
   "experience": "Confortable"
 },{
   "name": "Hôtel de France",
@@ -270,10 +314,12 @@
   "city": "Montmarault",
   "postal_code": "03390",
   "state": "France",
-  "price_min": "34 euros",
-  "price_max": "71 euros",
+  "average_price": "18.50",
   "phone": "0470076026",
   "website": "http://www.hoteldefrance-montmarault.com",
+  "restau_lat": "46.32",
+  "restau_long": "2.96",
+  "distance": "291.91",
   "experience": "Confortable"
 },{
   "name": "Bistrot des Anges",
@@ -282,18 +328,22 @@
   "city": "Le Cannet",
   "postal_code": "06110",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "93 euros",
+  "average_price": "30.00",
   "phone": "0492181828",
   "website": "http://www.bruno-oger.com",
+  "restau_lat": "43.57",
+  "restau_long": "7.01",
+  "distance": "696.71",
   "experience": "Assez confortable"
 },{
   "name": "La Pointe du Cap Coz",
   "type": "Cuisine moderne",
   "street": "\n                                \n                                    \n                                        1 Offre\n                                    \n                                \n                            \n                                    \n                                        \n                                            1 Offre\n                                        \n                                    \n                                ",
-  "price_min": "34 euros",
-  "price_max": "106 euros",
+  "average_price": "36.00",
   "phone": "0298560163",
+  "restau_lat": "47.89",
+  "restau_long": "-3.97",
+  "distance": "471.90",
   "experience": "Confortable"
 },{
   "name": "La Table de Léo",
@@ -302,10 +352,12 @@
   "city": "Saint-Avit-Sénieur",
   "postal_code": "24440",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "42 euros",
+  "average_price": "4.50",
   "phone": "0553578915",
   "website": "http://www.latabledeleo.fr",
+  "restau_lat": "44.77",
+  "restau_long": "0.82",
+  "distance": "471.74",
   "experience": "Assez confortable"
 },{
   "name": "Chez Michel",
@@ -314,10 +366,12 @@
   "city": "Paris",
   "postal_code": "75010",
   "state": "France",
-  "price_min": "35 euros",
-  "price_max": "38 euros",
+  "average_price": "1.50",
   "phone": "0144530620",
   "website": "http://www.restaurantchezmichel.fr",
+  "restau_lat": "48.88",
+  "restau_long": "2.35",
+  "distance": "8.34",
   "experience": "Assez confortable"
 },{
   "name": "Au Raisin d'Or",
@@ -326,10 +380,12 @@
   "city": "Zimmerbach",
   "postal_code": "68230",
   "state": "France",
-  "price_min": "16 euros",
-  "price_max": "47 euros",
+  "average_price": "15.50",
   "phone": "0389710569",
   "website": "http://www.raisindor.fr",
+  "restau_lat": "48.07",
+  "restau_long": "7.23",
+  "distance": "379.10",
   "experience": "Assez confortable"
 },{
   "name": "Le Bon Accueil",
@@ -338,10 +394,12 @@
   "city": "Richardménil",
   "postal_code": "54630",
   "state": "France",
-  "price_min": "32 euros",
-  "price_max": "65 euros",
+  "average_price": "16.50",
   "phone": "0383256210",
   "website": "http://www.aubonaccueil-restaurant.com",
+  "restau_lat": "48.59",
+  "restau_long": "6.17",
+  "distance": "290.18",
   "experience": "Confortable"
 },{
   "name": "Cheval Blanc",
@@ -350,10 +408,12 @@
   "city": "Feldbach",
   "postal_code": "68640",
   "state": "France",
-  "price_min": "23 euros",
-  "price_max": "56 euros",
+  "average_price": "16.50",
   "phone": "0389258186",
   "website": "http://www.cheval-blanc-feldbach.fr",
+  "restau_lat": "47.54",
+  "restau_long": "7.26",
+  "distance": "401.38",
   "experience": "Confortable"
 },{
   "name": "Auberge des Deux Magots",
@@ -362,10 +422,12 @@
   "city": "La Roche-Bernard",
   "postal_code": "56130",
   "state": "France",
-  "price_min": "24 euros",
-  "price_max": "50 euros",
+  "average_price": "13.00",
   "phone": "0299906075",
   "website": "http://www.aubergedesdeuxmagots.fr",
+  "restau_lat": "47.52",
+  "restau_long": "-2.30",
+  "distance": "369.68",
   "experience": "Confortable"
 },{
   "name": "L'Épicurien",
@@ -374,10 +436,12 @@
   "city": "Albi",
   "postal_code": "81000",
   "state": "France",
-  "price_min": "22 euros",
-  "price_max": "55 euros",
+  "average_price": "16.50",
   "phone": "0563531070",
   "website": "http://www.restaurantlepicurien.com",
+  "restau_lat": "43.92",
+  "restau_long": "2.15",
+  "distance": "553.79",
   "experience": "Confortable"
 },{
   "name": "Auberge Pyrénées Cévennes",
@@ -386,10 +450,12 @@
   "city": "Paris",
   "postal_code": "75011",
   "state": "France",
-  "price_min": "36 euros",
-  "price_max": "72 euros",
+  "average_price": "18.00",
   "phone": "0143573378",
   "website": "http://www.auberge-pyrenees-cevennes.fr",
+  "restau_lat": "48.87",
+  "restau_long": "2.37",
+  "distance": "10.07",
   "experience": "Assez confortable"
 },{
   "name": "Le Rabelais",
@@ -398,10 +464,12 @@
   "city": "Saint-Chamas",
   "postal_code": "13250",
   "state": "France",
-  "price_min": "31 euros",
-  "price_max": "50 euros",
+  "average_price": "9.50",
   "phone": "0490508440",
   "website": "http://www.restaurant-le-rabelais.com",
+  "restau_lat": "43.55",
+  "restau_long": "5.03",
+  "distance": "632.31",
   "experience": "Confortable"
 },{
   "name": "Le Réciproque",
@@ -410,10 +478,12 @@
   "city": "Paris",
   "postal_code": "75018",
   "state": "France",
-  "price_min": "25 euros",
-  "price_max": "45 euros",
+  "average_price": "10.00",
   "phone": "0986378077",
   "website": "http://www.lereciproque.com",
+  "restau_lat": "48.89",
+  "restau_long": "2.35",
+  "distance": "8.12",
   "experience": "Assez confortable"
 },{
   "name": "Le Lancelot",
@@ -422,10 +492,12 @@
   "city": "Chilleurs-aux-Bois",
   "postal_code": "45170",
   "state": "France",
-  "price_min": "29 euros",
-  "price_max": "80 euros",
+  "average_price": "25.50",
   "phone": "0238329115",
   "website": "http://www.restaurantlelancelot.com",
+  "restau_lat": "48.07",
+  "restau_long": "2.13",
+  "distance": "92.65",
   "experience": "Confortable"
 },{
   "name": "Le St-Georges",
@@ -434,10 +506,12 @@
   "city": "Palavas-les-Flots",
   "postal_code": "34250",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "65 euros",
+  "average_price": "16.00",
   "phone": "0467683138",
   "website": "http://www.restaurant-st-georges.fr",
+  "restau_lat": "43.53",
+  "restau_long": "3.93",
+  "distance": "611.07",
   "experience": "Confortable"
 },{
   "name": "Coteaux et Fourchettes",
@@ -446,10 +520,12 @@
   "city": "Cairanne",
   "postal_code": "84290",
   "state": "France",
-  "price_min": "28 euros",
-  "price_max": "79 euros",
+  "average_price": "25.50",
   "phone": "0490663599",
   "website": "http://www.coteauxetfourchettes.com",
+  "restau_lat": "44.20",
+  "restau_long": "4.95",
+  "distance": "562.11",
   "experience": "Confortable"
 },{
   "name": "À la 12",
@@ -458,10 +534,12 @@
   "city": "Delme",
   "postal_code": "57590",
   "state": "France",
-  "price_min": "14 euros",
-  "price_max": "70 euros",
+  "average_price": "28.00",
   "phone": "0387013018",
   "website": "http://www.ala12.fr",
+  "restau_lat": "48.89",
+  "restau_long": "6.39",
+  "distance": "303.35",
   "experience": "Confortable"
 },{
   "name": "La Griotte",
@@ -470,10 +548,12 @@
   "city": "Saules",
   "postal_code": "25580",
   "state": "France",
-  "price_min": "17 euros",
-  "price_max": "50 euros",
+  "average_price": "16.50",
   "phone": "0381571771",
   "website": "http://www.lagriotte.fr",
+  "restau_lat": "47.12",
+  "restau_long": "6.20",
+  "distance": "354.83",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
   "name": "La Maison",
@@ -482,10 +562,12 @@
   "city": "Cognac",
   "postal_code": "16100",
   "state": "France",
-  "price_min": "34 euros",
-  "price_max": "86 euros",
+  "average_price": "26.00",
   "phone": "0545352177",
   "website": "http://www.restaurant-lamaison-cognac.fr",
+  "restau_lat": "45.69",
+  "restau_long": "-0.33",
+  "distance": "406.10",
   "experience": "Confortable"
 },{
   "name": "Histoire Ancienne",
@@ -494,10 +576,12 @@
   "city": "Calais",
   "postal_code": "62100",
   "state": "France",
-  "price_min": "23 euros",
-  "price_max": "63 euros",
+  "average_price": "20.00",
   "phone": "0321341120",
   "website": "http://www.histoire-ancienne.com",
+  "restau_lat": "50.96",
+  "restau_long": "1.85",
+  "distance": "230.76",
   "experience": "Assez confortable"
 },{
   "name": "Au Colombier",
@@ -506,10 +590,12 @@
   "city": "Anse",
   "postal_code": "69480",
   "state": "France",
-  "price_min": "26 euros",
-  "price_max": "69 euros",
+  "average_price": "21.50",
   "phone": "0474670468",
   "website": "http://www.aucolombier.com",
+  "restau_lat": "45.95",
+  "restau_long": "4.73",
+  "distance": "377.69",
   "experience": "Assez confortable"
 },{
   "name": "Manoir de la Pommeraie",
@@ -518,10 +604,12 @@
   "city": "Vire",
   "postal_code": "14500",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "58 euros",
+  "average_price": "12.50",
   "phone": "0231680771",
   "website": "http://www.manoirdelapommeraie.com",
+  "restau_lat": "48.83",
+  "restau_long": "-0.86",
+  "distance": "226.88",
   "experience": "Confortable"
 },{
   "name": "Les Épices Curiens",
@@ -530,10 +618,12 @@
   "city": "Écouviez",
   "postal_code": "55600",
   "state": "France",
-  "price_min": "30 euros",
-  "price_max": "72 euros",
+  "average_price": "21.00",
   "phone": "0329868458",
   "website": "http://www.lesepicescuriens.com",
+  "restau_lat": "49.52",
+  "restau_long": "5.46",
+  "distance": "243.83",
   "experience": "Assez confortable"
 },{
   "name": "M Restaurant",
@@ -542,10 +632,12 @@
   "city": "Lyon",
   "postal_code": "69006",
   "state": "France",
-  "price_min": "29 euros",
-  "price_max": "39 euros",
+  "average_price": "5.00",
   "phone": "0478895519",
   "website": "http://www.mrestaurant.fr",
+  "restau_lat": "45.77",
+  "restau_long": "4.84",
+  "distance": "399.34",
   "experience": "Assez confortable"
 },{
   "name": "Le Dauphin",
@@ -554,10 +646,12 @@
   "city": "Caen",
   "postal_code": "14000",
   "state": "France",
-  "price_min": "26 euros",
-  "price_max": "90 euros",
+  "average_price": "32.00",
   "phone": "0231862226",
   "website": "http://www.le-dauphin-normandie.fr",
+  "restau_lat": "49.18",
+  "restau_long": "-0.36",
+  "distance": "192.05",
   "experience": "Très confortable"
 },{
   "name": "La Maison Carrier",
@@ -566,10 +660,12 @@
   "city": "Chamonix-Mont-Blanc",
   "postal_code": "74400",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "72 euros",
+  "average_price": "19.50",
   "phone": "0450530003",
   "website": "http://www.hameaualbert.fr",
+  "restau_lat": "45.93",
+  "restau_long": "6.87",
+  "distance": "479.87",
   "experience": "Confortable. Nos établissements de charme."
 },{
   "name": "Les Capucins",
@@ -578,10 +674,12 @@
   "city": "Belfort",
   "postal_code": "90000",
   "state": "France",
-  "price_min": "23 euros",
-  "price_max": "65 euros",
+  "average_price": "21.00",
   "phone": "0384280460",
   "website": "http://www.hotellescapucins.com",
+  "restau_lat": "47.64",
+  "restau_long": "6.86",
+  "distance": "369.46",
   "experience": "Confortable"
 },{
   "name": "La Table d'Aimé",
@@ -590,10 +688,12 @@
   "city": "Rivesaltes",
   "postal_code": "66600",
   "state": "France",
-  "price_min": "29 euros",
-  "price_max": "34 euros",
+  "average_price": "2.50",
   "phone": "0468343577",
   "website": "http://www.latabledaime.com",
+  "restau_lat": "42.77",
+  "restau_long": "2.88",
+  "distance": "683.42",
   "experience": "Assez confortable. Nos établissements de charme."
 },{
   "name": "Vidal",
@@ -602,10 +702,12 @@
   "city": "Saint-Julien-Chapteuil",
   "postal_code": "43260",
   "state": "France",
-  "price_min": "31 euros",
-  "price_max": "80 euros",
+  "average_price": "24.50",
   "phone": "0471087050",
   "website": "http://www.restaurant-vidal.com",
+  "restau_lat": "45.03",
+  "restau_long": "4.06",
+  "distance": "451.91",
   "experience": "Très confortable"
 },{
   "name": "La Balade des Saveurs",
@@ -614,10 +716,12 @@
   "city": "L'Isle-sur-la-Sorgue",
   "postal_code": "84800",
   "state": "France",
-  "price_min": "20 euros",
-  "price_max": "54 euros",
+  "average_price": "17.00",
   "phone": "0490952785",
   "website": "http://www.balade-des-saveurs.com",
+  "restau_lat": "43.92",
+  "restau_long": "5.05",
+  "distance": "594.07",
   "experience": "Confortable"
 },{
   "name": "Ar Maen Hir",
@@ -626,9 +730,11 @@
   "city": "Locronan",
   "postal_code": "29180",
   "state": "France",
-  "price_min": "19 euros",
-  "price_max": "45 euros",
+  "average_price": "13.00",
   "phone": "0256101837",
+  "restau_lat": "48.10",
+  "restau_long": "-4.21",
+  "distance": "483.33",
   "experience": "Assez confortable"
 },{
   "name": "Le Jardin d'Alice",
@@ -637,10 +743,12 @@
   "city": "Busnes",
   "postal_code": "62350",
   "state": "France",
-  "price_min": "33 euros",
-  "price_max": "57 euros",
+  "average_price": "12.00",
   "phone": "0321688888",
   "website": "http://www.lejardindalice.fr",
+  "restau_lat": "50.58",
+  "restau_long": "2.51",
+  "distance": "187.81",
   "experience": "Confortable. Nos établissements de charme."
 },{
   "name": "Le Bastion",
@@ -649,10 +757,12 @@
   "city": "Lagrasse",
   "postal_code": "11220",
   "state": "France",
-  "price_min": "21 euros",
-  "price_max": "52 euros",
+  "average_price": "15.50",
   "phone": "0468120251",
   "website": "http://www.restaurant-bastion-lagrasse.fr",
+  "restau_lat": "43.09",
+  "restau_long": "2.62",
+  "distance": "646.71",
   "experience": "Assez confortable"
 }
 ]
