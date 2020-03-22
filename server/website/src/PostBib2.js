@@ -48,7 +48,7 @@ const tableIcons = {
 
 function PostMaitre() {    
     const [state, setState] = React.useState({
-      //Column name and id to match with our json
+      //Column name and id to match with our json key
         columns: [
           { title: 'Name', field: 'name' },
           { title: 'City', field: 'city' },
@@ -59,12 +59,13 @@ function PostMaitre() {
           { title: 'Latitude', field: 'restau_lat' },
           { title: 'Longitude', field: 'restau_long' },
           { title: 'Distance to Esilv (Km)', field: 'distance' },
+          //making each rows of the column website as an url clickable
           { title: 'Website', field: 'website', render: row => (
               //eslint-disable-next-line
               <a href={row.website} target = "_blank">{row.website}</a>
           )},
         ],
-        //Rows of our material table will be the bib.json that we retrieve further
+        //Rows of our material table will be the Bib.json that we retrieve further
         data: Bib,
       });
     
